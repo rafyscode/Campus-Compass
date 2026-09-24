@@ -1,0 +1,9 @@
+{
+  "semester_period": false,
+  "university_holidays": false,
+  "public_holidays": false,
+  "exam_period": false,
+  "weather": false,
+  "campus_events": false,
+  "lecture_timetable": false
+}

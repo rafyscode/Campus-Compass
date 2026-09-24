@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage
+*.log
+ml/models/artifacts/
+ml/data/*.csv
+ml/data/*.parquet
+ml/.venv

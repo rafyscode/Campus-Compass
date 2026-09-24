@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "central-building",
+        "name": "Zentralgebäude C40",
+        "buildingNumber": "40",
+        "category": "landmark",
+        "description": "Daniel-Libeskind-Bau mit Auditorium, Seminar-, Forschungs- und Studierendenzentrum.",
+        "source": "Leuphana Factsheet + OpenStreetMap/Wikidata",
+        "confidence": "verified",
+        "heightMeters": 36.75,
+        "osmId": "way/480715548"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40461, 53.22838] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mensa",
+        "name": "Mensa",
+        "buildingNumber": "3",
+        "category": "food",
+        "description": "Zentrale Mensa des Campus; westlich angrenzend liegt die Mensawiese.",
+        "source": "Leuphana Lageplan + Lünepedia/OSM",
+        "confidence": "verified"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.39826, 53.22927] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "library",
+        "name": "Universitätsbibliothek",
+        "category": "library",
+        "description": "Zentralbibliothek / MIZ am südlichen Campusbereich.",
+        "source": "Leuphana Lageplan + Lünepedia/OSM",
+        "confidence": "verified"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40128, 53.22781] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "building-9",
+        "name": "Gebäude 9",
+        "buildingNumber": "9",
+        "category": "student-life",
+        "description": "Gebäude am Hörsaalgang; Sitz studentischer Einrichtungen.",
+        "source": "Leuphana Lageplan + Lünepedia/OSM",
+        "confidence": "verified"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40116, 53.22908] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "building-14",
+        "name": "Gebäude 14",
+        "buildingNumber": "14",
+        "category": "administration",
+        "description": "Gebäude der Graduate School im nordöstlichen Campusbereich.",
+        "source": "Leuphana Lageplan + aktuelle Leuphana Adressangaben",
+        "confidence": "derived"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40421, 53.22966] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "building-8",
+        "name": "Gebäude 8 / Infoportal",
+        "buildingNumber": "8",
+        "category": "administration",
+        "description": "Studierendenservice und Infoportal im zentralen nördlichen Campusbereich.",
+        "source": "Leuphana Lageplan + Leuphana Infoportal",
+        "confidence": "derived"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40116, 53.22962] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lecture-hall-2",
+        "name": "Hörsaal 2",
+        "category": "teaching",
+        "description": "Hörsaalgebäude im zentralen Campusbereich.",
+        "source": "OpenStreetMap (way 173272326)",
+        "confidence": "verified",
+        "osmId": "way/173272326"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40090, 53.22872] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lecture-hall-3",
+        "name": "Hörsaal 3",
+        "category": "teaching",
+        "description": "Hörsaalgebäude südlich des Hörsaalgangs.",
+        "source": "OpenStreetMap (way 173272328)",
+        "confidence": "verified",
+        "osmId": "way/173272328"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40102, 53.22831] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lecture-hall-4",
+        "name": "Hörsaal 4",
+        "category": "teaching",
+        "description": "Eingeschossiges Hörsaalgebäude im südlichen Hörsaalbereich.",
+        "source": "OpenStreetMap (way 558534870)",
+        "confidence": "verified",
+        "heightMeters": 4,
+        "osmId": "way/558534870"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40145, 53.22832] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mensawiese",
+        "name": "Mensawiese",
+        "category": "green",
+        "description": "Große Grünfläche direkt südlich der Mensa.",
+        "source": "OpenStreetMap (way 25428436) + Leuphana Lageplan",
+        "confidence": "verified",
+        "osmId": "way/25428436"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.39843, 53.22864] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "biotop-garden",
+        "name": "Biotopgarten",
+        "category": "green",
+        "description": "Ökologischer Garten- und Grünbereich im nordöstlichen Campus.",
+        "source": "OpenStreetMap + Leuphana Lageplan",
+        "confidence": "verified"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.40365, 53.22925] }
+    }
+  ]
+}

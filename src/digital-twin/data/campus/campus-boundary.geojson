@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "central-campus-boundary",
+        "name": "Zentraler Campus",
+        "source": "Derived from official Leuphana site plan and surrounding OSM street geometry",
+        "confidence": "derived"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [10.39600, 53.23025],
+          [10.40565, 53.23028],
+          [10.40605, 53.22990],
+          [10.40592, 53.22725],
+          [10.40152, 53.22708],
+          [10.39702, 53.22717],
+          [10.39600, 53.23025]
+        ]]
+      }
+    }
+  ]
+}
