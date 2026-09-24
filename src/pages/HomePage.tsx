@@ -15,6 +15,7 @@ import { SectionHeading } from '../components/ui/SectionHeading';
 import { getOccupancyLevel } from '../config/app';
 import { useCampusData } from '../hooks/useCampusData';
 import type { TrendDirection } from '../types/domain';
+import { useTranslation } from '../i18n/context';
 
 function formatTime(iso: string) {
   return new Intl.DateTimeFormat('de-DE', { hour: '2-digit', minute: '2-digit' }).format(new Date(iso));
@@ -27,6 +28,7 @@ function closestHistoryDelta(history: { timestamp: string; percent: number }[], 
 }
 
 export default function HomePage() {
+  const { t } = useTranslation();
   const { data, loading, error, refresh } = useCampusData();
   const reducedMotion = useReducedMotion();
   if (loading || !data) return <div className="content"><LoadingSkeleton /></div>;
@@ -48,8 +50,8 @@ export default function HomePage() {
       <section className="hero">
         <motion.div className="hero-copy" initial={reducedMotion ? false : { opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .55 }}>
           <span className="eyebrow"><Sparkles size={12} /> Smart Campus Projekt</span>
-          <h1>Know before<br />you <span>go.</span></h1>
-          <p className="hero-sub">Campus Compass verbindet Auslastung, Zeitreihen und Prognosen zu einer klaren Entscheidung: Wann ist ein guter Zeitpunkt für die Mensa?</p>
+          <h1>{t('Know before')}<br />{t('you')} <span>{t('go.')}</span></h1>
+          <p className="hero-sub">{t('Campus Compass verbindet Auslastung, Zeitreihen und Prognosen zu einer klaren Entscheidung: Wann ist ein guter Zeitpunkt für die Mensa?')}</p>
           <div className="hero-actions">
             <Link className="button button-primary" to="/live">Live-Ansicht öffnen <ArrowRight /></Link>
             <Link className="button button-ghost" to="/forecast">Prognose ansehen <LineChart /></Link>
@@ -61,7 +63,7 @@ export default function HomePage() {
           <div className="hero-live-card">
             <div className="hero-live-head"><div><div className="card-label">Mensa · aktuell</div><div className="hero-live-title">Zentraler Campus</div></div><DataSourceBadge mode={data.mode} /></div>
             <div className="hero-percent">{data.current.percent >= 0 ? data.current.percent.toFixed(0) : '—'}<span>{data.current.percent >= 0 ? '%' : ''}</span></div>
-            <div className="hero-status"><div><div className={`status-label tone-${level.tone}`}>{level.label}</div><div className="status-sub">{data.current.count ?? '—'} geschätzte Personen</div></div><TrendIndicator direction={trend} value={data.current.percent >= 0 ? delta15 : undefined} /></div>
+            <div className="hero-status"><div><div className={`status-label tone-${level.tone}`}>{t(level.label)}</div><div className="status-sub">{data.current.count ?? '—'} geschätzte Personen</div></div><TrendIndicator direction={trend} value={data.current.percent >= 0 ? delta15 : undefined} /></div>
             <div className="mini-divider" />
             <div className="best-window-inline"><div><strong>{best ? `${formatTime(best.start)}–${formatTime(best.end)}` : '—'}</strong><span>beste Zeit in den nächsten 2 Stunden</span></div><Clock3 size={19} style={{ color: 'var(--brand-primary)' }} /></div>
             <div style={{ marginTop: 22 }}><FreshnessIndicator timestamp={data.current.capturedAt} /></div>
@@ -74,7 +76,7 @@ export default function HomePage() {
       <section>
         <SectionHeading title="Auf einen Blick" description="Aktueller Zustand, nächste Entwicklung und Datenqualität." />
         <div className="grid metrics-grid" style={{ marginTop: 14 }}>
-          <MetricCard label="Aktuell" value={data.current.percent >= 0 ? `${data.current.percent.toFixed(0)} %` : '—'} detail={level.label} icon={Gauge} />
+          <MetricCard label="Aktuell" value={data.current.percent >= 0 ? `${data.current.percent.toFixed(0)} %` : '—'} detail={t(level.label)} icon={Gauge} />
           <MetricCard label="In 30 Minuten" value={f30 ? `${f30.predictedPercent.toFixed(0)} %` : '—'} detail={f30 ? `${Math.round(f30.confidence * 100)} % Forecast-Konfidenz` : 'Kein Forecast'} icon={Clock3} />
           <MetricCard label="In 60 Minuten" value={f60 ? `${f60.predictedPercent.toFixed(0)} %` : '—'} detail={f60 ? `${Math.round(f60.confidence * 100)} % Forecast-Konfidenz` : 'Kein Forecast'} icon={LineChart} />
           <MetricCard label="Tagesmaximum" value={`${todayPeak.toFixed(0)} %`} detail="Beobachtet + Forecast" icon={Users} />

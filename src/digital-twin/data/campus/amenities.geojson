@@ -1,0 +1,4816 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/270544778",
+      "properties": {
+        "wheelchair": "yes",
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Universitätsallee",
+        "bench": "no",
+        "public_transport": "platform",
+        "network:short": "HVV",
+        "bin": "no",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Scharnhorststraße (Ost)",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "operator": "KVG",
+        "id": "node/270544778",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4052614,
+          53.230091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270748838",
+      "properties": {
+        "wheelchair": "yes",
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Universitätsallee",
+        "bench": "yes",
+        "public_transport": "platform",
+        "network:short": "HVV",
+        "lit": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Scharnhorststraße Ost",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "operator": "KVG",
+        "id": "node/270748838",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4056755,
+          53.2288145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/370660701",
+      "properties": {
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Scharnhorststraße/DJH",
+        "bench": "no",
+        "public_transport": "platform",
+        "network:short": "HVV",
+        "lit": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Scharnhorststraße/DJH",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "operator": "KVG",
+        "id": "node/370660701",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3971229,
+          53.2300297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/417279646",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/417279646",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4039459,
+          53.2295924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448941428",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/448941428",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4000038,
+          53.2297991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448941497",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/448941497",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3994813,
+          53.2296855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448942176",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "automatic_door": "yes",
+        "id": "node/448942176",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3995617,
+          53.2289892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448942687",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "automatic_door": "yes",
+        "id": "node/448942687",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4000734,
+          53.228995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/555939019",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/555939019",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4022701,
+          53.2290828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/555939022",
+      "properties": {
+        "entrance": "main",
+        "id": "node/555939022",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4021879,
+          53.2296741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/555939025",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/555939025",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4026849,
+          53.2297932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/555939028",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/555939028",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4027655,
+          53.2290979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1181281106",
+      "properties": {
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Scharnhorststraße/DJH",
+        "bench": "yes",
+        "public_transport": "platform",
+        "network:short": "HVV",
+        "lit": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Scharnhorststraße/DJH",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "operator": "KVG",
+        "id": "node/1181281106",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3970479,
+          53.2299333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1181281132",
+      "properties": {
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Wichernstraße",
+        "bench": "yes",
+        "public_transport": "platform",
+        "network:short": "HVV",
+        "lit": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Wichernstraße",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "operator": "KVG",
+        "id": "node/1181281132",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398006,
+          53.2266397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1181281148",
+      "properties": {
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Heinrich-Böll-Straße",
+        "bench": "yes",
+        "public_transport": "platform",
+        "wheelchair:description": "Kein Kasseler Bord",
+        "network:short": "HVV",
+        "lit": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Heinrich-Böll-Straße",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "operator": "KVG",
+        "id": "node/1181281148",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4039471,
+          53.2267352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1187269501",
+      "properties": {
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Carl-von-Ossietzky-Straße",
+        "bench": "yes",
+        "public_transport": "platform",
+        "wheelchair:description": "Kein Kasseler Bord",
+        "network:short": "HVV",
+        "lit": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Carl-von-Ossietzky-Straße",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "highway": "bus_stop",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "operator": "KVG",
+        "id": "node/1187269501",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4015929,
+          53.2275296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1474926793",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1474926793",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3978634,
+          53.2278927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1474926800",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "21",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1474926800",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398026,
+          53.2273728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1474926803",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "27",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1474926803",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3983187,
+          53.2267496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1474926807",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "5",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1474926807",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975337,
+          53.2287999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1648395335",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Nelly-Sachs-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "51",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1648395335",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4030491,
+          53.2265377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1648395338",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Nelly-Sachs-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "53",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1648395338",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4030449,
+          53.226594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869584",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Blücherstraße",
+        "entrance": "yes",
+        "addr:housenumber": "1",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869584",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3999297,
+          53.2302854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869614",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "10",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869614",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4033442,
+          53.2303136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869656",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "12",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869656",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4029726,
+          53.2302979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869688",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "14",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869688",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4027283,
+          53.2302897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869777",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Gneisenaustraße",
+        "entrance": "yes",
+        "addr:housenumber": "2",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869777",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4021378,
+          53.2303603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869784",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "2",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869784",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4045429,
+          53.2303536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869931",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "28a",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869931",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.399576,
+          53.2303261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869932",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "28b",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869932",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3995639,
+          53.2301795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658869976",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "30",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658869976",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3992234,
+          53.2301672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870002",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "32",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870002",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398962,
+          53.2301585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870011",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "34",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870011",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3984388,
+          53.2301407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870038",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "36",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870038",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398173,
+          53.2301319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870065",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "38",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870065",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3978749,
+          53.2301228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870124",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "4",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870124",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4042717,
+          53.2303442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870147",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "40",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870147",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975745,
+          53.2301121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870167",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "42",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870167",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397267,
+          53.2301002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870193",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "44",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870193",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396969,
+          53.2300912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870214",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "46",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870214",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3966652,
+          53.2300837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870238",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "48",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870238",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3964082,
+          53.2300763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870309",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "6",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870309",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4040191,
+          53.2303354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1658870390",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Scharnhorststraße",
+        "entrance": "yes",
+        "addr:housenumber": "8",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/1658870390",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4036223,
+          53.2303241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1668269322",
+      "properties": {
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/1668269322",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.405354,
+          53.2287699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1707690981",
+      "properties": {
+        "entrance": "main",
+        "id": "node/1707690981",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.404115,
+          53.2278793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136401",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136401",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4012403,
+          53.2280337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136404",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136404",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401164,
+          53.2281433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136406",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136406",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013029,
+          53.2281497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136422",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136422",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401155,
+          53.2282671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136426",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136426",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4011475,
+          53.2283709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136438",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "id": "node/1841136438",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4012781,
+          53.2284918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136449",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136449",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401268,
+          53.2286325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136451",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136451",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4011282,
+          53.2286308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136456",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136456",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.399318,
+          53.2287063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136460",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136460",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020238,
+          53.2288103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136462",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136462",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4011156,
+          53.2288221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136464",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136464",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401254,
+          53.2288268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136482",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "automatic_door": "yes",
+        "id": "node/1841136482",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4011086,
+          53.2289117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136483",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "automatic_door": "yes",
+        "id": "node/1841136483",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4012475,
+          53.2289156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136488",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "manual",
+        "id": "node/1841136488",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4003322,
+          53.228996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136490",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136490",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4011727,
+          53.2289927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136495",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136495",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3992898,
+          53.2290357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136515",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "ramp:wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136515",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019933,
+          53.2291242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136522",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136522",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401182,
+          53.2291388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136545",
+      "properties": {
+        "entrance": "main",
+        "wheelchair": "no",
+        "id": "node/1841136545",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3989927,
+          53.2293876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136551",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136551",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401119,
+          53.2294661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136556",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136556",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4002788,
+          53.2295523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136568",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136568",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019492,
+          53.2295883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136576",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136576",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3971743,
+          53.229606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136583",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/1841136583",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3992226,
+          53.229679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136594",
+      "properties": {
+        "maxheight": "2",
+        "amenity": "parking_entrance",
+        "id": "node/1841136594",
+        "category": "parking_entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3974169,
+          53.2297297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136602",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/1841136602",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.402943,
+          53.2297957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136604",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136604",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.400251,
+          53.2298631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1841136610",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/1841136610",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019228,
+          53.2298912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548482",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "22",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548482",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4048879,
+          53.2291025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548508",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "18",
+        "check_date": "2024-02-07",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548508",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4040416,
+          53.229513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548518",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "check_date:capacity": "2025-08-27",
+        "covered": "yes",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548518",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3983815,
+          53.229635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548523",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "60",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548523",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3972053,
+          53.2296955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548526",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548526",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4030151,
+          53.2298406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548530",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "check_date:capacity": "2025-08-27",
+        "covered": "yes",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548530",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3979149,
+          53.2298623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2239548533",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "check_date": "2024-08-19",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/2239548533",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3972996,
+          53.2300084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2427886263",
+      "properties": {
+        "network": "StadtRAD Lüneburg",
+        "contact:website": "https://stadtradlueneburg.de",
+        "ref": "90201",
+        "name": "Scharnhorststraße / Leuphana Campus",
+        "brand": "StadtRAD Lüneburg",
+        "operator": "Deutsche Bahn Connect GmbH",
+        "check_date": "2024-06-29",
+        "website": "https://stadtradlueneburg.de",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "note": "Nur 2 feste Stellplätze, daher ist eine Kapazitätsangabe nicht möglich ..",
+        "id": "node/2427886263",
+        "category": "bicycle_rental",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4015341,
+          53.2300373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2745085368",
+      "properties": {
+        "wheelchair": "limited",
+        "network": "Hamburger Verkehrsverbund",
+        "name": "Lüneburg, Leuphana",
+        "bench": "no",
+        "public_transport": "platform",
+        "network:short": "HVV",
+        "bus": "yes",
+        "network:wikidata": "Q896916",
+        "ref_name": "Lüneburg, Leuphana",
+        "network:wikipedia": "de:Hamburger Verkehrsverbund",
+        "line": "5001",
+        "highway": "bus_stop",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "operator": "KVG",
+        "id": "node/2745085368",
+        "category": "bus",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4010697,
+          53.2300356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347668",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "10",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347668",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3970205,
+          53.2284797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347669",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/3037347669",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3974439,
+          53.2282884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347670",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "12",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347670",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397086,
+          53.2282184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347671",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "14",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347671",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3971886,
+          53.2280781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347672",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "16",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347672",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3972364,
+          53.2278513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347673",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "17",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347673",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3976408,
+          53.2278659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347674",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "18",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347674",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3973466,
+          53.227704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3037347675",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "8",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3037347675",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3969221,
+          53.2286139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3039092959",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/3039092959",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3989366,
+          53.2270407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686552",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "check_date:capacity": "2024-08-21",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686552",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3999623,
+          53.2273737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686553",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686553",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4000891,
+          53.2273758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686554",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "check_date:capacity": "2023-12-05",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686554",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3980125,
+          53.2277025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686555",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "1",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686555",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991112,
+          53.227801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686556",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686556",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3979504,
+          53.2278644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686557",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "check_date:capacity": "2023-12-05",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686557",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3979224,
+          53.2279445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044686558",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/3044686558",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3973744,
+          53.2282476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3051670369",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/3051670369",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398801,
+          53.2272236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337486",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "10",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337486",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3996932,
+          53.2270282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337490",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "12",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337490",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3996997,
+          53.2272008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337493",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "16",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337493",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4000803,
+          53.2273264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337496",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "20",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337496",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4006676,
+          53.2272398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337497",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "20",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337497",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3973881,
+          53.2274661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337505",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "22",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337505",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4006602,
+          53.2270922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337506",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "22",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337506",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975059,
+          53.2273134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337521",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "24",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337521",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4007058,
+          53.226889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337522",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "24",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337522",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397573,
+          53.2270027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337529",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "26",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337529",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4001172,
+          53.226784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337530",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "26",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337530",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3976436,
+          53.226909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337536",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "28",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337536",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3976853,
+          53.2266783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275337540",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Wichernstraße",
+        "entrance": "yes",
+        "addr:housenumber": "30",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275337540",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3977705,
+          53.2265653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275338787",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Carl-von-Ossietzky-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "8",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/3275338787",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3997295,
+          53.2268569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4736815127",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/4736815127",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4043557,
+          53.2281788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4736815134",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/4736815134",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4047399,
+          53.2281544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4736815137",
+      "properties": {
+        "wheelchair": "yes",
+        "automatic_door": "yes",
+        "name": "Leuphana Universität Lüneburg",
+        "entrance": "main",
+        "addr:street": "Universitätsallee",
+        "addr:housenumber": "1",
+        "door": "automatic",
+        "access": "yes",
+        "id": "node/4736815137",
+        "category": "entrance",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4052025,
+          53.2284976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5249245053",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "automatic_door": "yes",
+        "id": "node/5249245053",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4044626,
+          53.2286586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385427167",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385427167",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4003849,
+          53.2280661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602590",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602590",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991299,
+          53.2284771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602591",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602591",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3990921,
+          53.2288485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602593",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602593",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991143,
+          53.2287745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602594",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602594",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991157,
+          53.2287038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602595",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602595",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3990363,
+          53.2290824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602596",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602596",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991259,
+          53.2286279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602597",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602597",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3990505,
+          53.2290029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602598",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602598",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991254,
+          53.2285533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385602599",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385602599",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3990646,
+          53.2289235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385605323",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385605323",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3993237,
+          53.2284227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385605324",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385605324",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3992621,
+          53.2282842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385605325",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385605325",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3994431,
+          53.2283523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385704516",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385704516",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013988,
+          53.2284762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385704517",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385704517",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016713,
+          53.2284505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385704518",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385704518",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016348,
+          53.2285296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385704519",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385704519",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4015796,
+          53.2284464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385704520",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385704520",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4015201,
+          53.22849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385706021",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385706021",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4018805,
+          53.2285022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385706022",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385706022",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4015135,
+          53.2285502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385706023",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385706023",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016359,
+          53.2284914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385709442",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385709442",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016766,
+          53.2282592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385709443",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385709443",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016744,
+          53.2283359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385709444",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385709444",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016743,
+          53.22839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385709445",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385709445",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016831,
+          53.2281867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385717936",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385717936",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020148,
+          53.2281673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385717937",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385717937",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020127,
+          53.2282404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385717938",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385717938",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020063,
+          53.2283084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385717939",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385717939",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019956,
+          53.228373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385719233",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385719233",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4015544,
+          53.2280916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385719234",
+      "properties": {
+        "natural": "tree",
+        "id": "node/5385719234",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4014301,
+          53.2281032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385727587",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385727587",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4005503,
+          53.2282584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385727588",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385727588",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4006435,
+          53.2282586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385727589",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385727589",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4007368,
+          53.22826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385727590",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385727590",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4008281,
+          53.2282584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729147",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729147",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4008076,
+          53.2281503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729148",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729148",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4009191,
+          53.2281541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729149",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729149",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4010241,
+          53.228158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729150",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729150",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.400546,
+          53.2281482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729151",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729151",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4010142,
+          53.2280849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729152",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729152",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4011291,
+          53.2281572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729153",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729153",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40095,
+          53.228088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385729154",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385729154",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4006984,
+          53.2281477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385733865",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385733865",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4005474,
+          53.228377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385733866",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385733866",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4008291,
+          53.2283822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385733867",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385733867",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4007398,
+          53.2283818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385733868",
+      "properties": {
+        "genus": "Betula",
+        "genus:en": "Birch",
+        "genus:de": "Birke",
+        "natural": "tree",
+        "id": "node/5385733868",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4006446,
+          53.2283797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5385801971",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/5385801971",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4000202,
+          53.2276538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5386954897",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/5386954897",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013442,
+          53.2282389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5386954898",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/5386954898",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013331,
+          53.2284001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5386954899",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/5386954899",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013055,
+          53.2283298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5386954900",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/5386954900",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013092,
+          53.2283121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5387120716",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/5387120716",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4048856,
+          53.2299226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5387120717",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/5387120717",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4049427,
+          53.2290482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5464872660",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "automatic_door": "yes",
+        "id": "node/5464872660",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4051969,
+          53.2285774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6095213399",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/6095213399",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3974288,
+          53.2280842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6095241249",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/6095241249",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4030219,
+          53.2297418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6095241250",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/6095241250",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4038557,
+          53.2295173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6095241251",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "32",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/6095241251",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4048133,
+          53.2299783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6095241252",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "42",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/6095241252",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4048166,
+          53.229862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6171461561",
+      "properties": {
+        "operator": "Aral-Tankstelle",
+        "opening_hours": "Mo,Tu,We,Th,Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00",
+        "amenity": "toilets",
+        "id": "node/6171461561",
+        "category": "toilets",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4060212,
+          53.226798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6376385268",
+      "properties": {
+        "name": "Zufahrt 1 Leuphana Universität Lüneburg",
+        "entrance": "main",
+        "access": "yes",
+        "id": "node/6376385268",
+        "category": "entrance",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4054323,
+          53.2278115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6490275154",
+      "properties": {
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/6490275154",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4024176,
+          53.2300945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6490275155",
+      "properties": {
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/6490275155",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3996753,
+          53.2299979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6859994656",
+      "properties": {
+        "access": "yes",
+        "entrance": "main",
+        "id": "node/6859994656",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4053575,
+          53.2287286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6862495285",
+      "properties": {
+        "name": "Zufahrt 2 Leuphana Universität Lüneburg",
+        "entrance": "secondary",
+        "access": "yes",
+        "id": "node/6862495285",
+        "category": "entrance",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4030641,
+          53.2301172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6862495287",
+      "properties": {
+        "name": "Zufahrt 3 Leuphana Universität Lüneburg",
+        "entrance": "secondary",
+        "access": "yes",
+        "id": "node/6862495287",
+        "category": "entrance",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3972238,
+          53.2299117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6867891434",
+      "properties": {
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/6867891434",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4047596,
+          53.2301769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6867891435",
+      "properties": {
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/6867891435",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4052788,
+          53.2295029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6867891436",
+      "properties": {
+        "entrance": "secondary",
+        "emergency": "yes",
+        "id": "node/6867891436",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4016767,
+          53.2300698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6867891437",
+      "properties": {
+        "entrance": "secondary",
+        "wheelchair": "yes",
+        "bicycle": "yes",
+        "foot": "yes",
+        "id": "node/6867891437",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991293,
+          53.2299776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6871391528",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "access": "yes",
+        "id": "node/6871391528",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4025213,
+          53.2290741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6871391529",
+      "properties": {
+        "entrance": "service",
+        "id": "node/6871391529",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3983036,
+          53.2295509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6871391530",
+      "properties": {
+        "entrance": "emergency",
+        "id": "node/6871391530",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4042352,
+          53.2285604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6871391531",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "yes/manual",
+        "id": "node/6871391531",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4039453,
+          53.2283075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7811144907",
+      "properties": {
+        "natural": "tree",
+        "leaf_type": "broadleaved",
+        "id": "node/7811144907",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3997324,
+          53.2293531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7811144928",
+      "properties": {
+        "natural": "tree",
+        "leaf_type": "broadleaved",
+        "id": "node/7811144928",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3996975,
+          53.2296952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9052901634",
+      "properties": {
+        "amenity": "bicycle_rental",
+        "network": "StadtRAD Lüneburg",
+        "ref": "90202",
+        "contact:website": "https://stadtradlueneburg.de",
+        "bicycle_rental": "docking_station",
+        "note": "Nur ein fester Stellplatz, daher ist eine Kapazitätsangabe nicht möglich ..",
+        "check_date": "2024-12-19",
+        "website": "https://stadtradlueneburg.de",
+        "check_date:capacity": "2024-12-19",
+        "name": "Universitätsallee / Zentralgebäude",
+        "brand": "StadtRAD Lüneburg",
+        "capacity": "16",
+        "operator": "Deutsche Bahn Connect GmbH",
+        "id": "node/9052901634",
+        "category": "bicycle_rental",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.404544,
+          53.2287834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9382310666",
+      "properties": {
+        "species": "Malus domestica",
+        "leaf_cycle": "deciduous",
+        "natural": "tree",
+        "species:de": "Kulturapfelbaum",
+        "leaf_type": "broadleaved",
+        "id": "node/9382310666",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4026109,
+          53.2296617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9416664171",
+      "properties": {
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "amenity": "bicycle_parking",
+        "id": "node/9416664171",
+        "category": "bicycle_parking",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982109,
+          53.2300981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10719373270",
+      "properties": {
+        "entrance": "restaurant",
+        "wheelchair": "yes",
+        "id": "node/10719373270",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4038014,
+          53.2285014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10719377344",
+      "properties": {
+        "leaf_cycle": "deciduous",
+        "natural": "tree",
+        "leaf_type": "broadleaved",
+        "id": "node/10719377344",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4035628,
+          53.2287339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10719377345",
+      "properties": {
+        "leaf_cycle": "deciduous",
+        "natural": "tree",
+        "leaf_type": "broadleaved",
+        "id": "node/10719377345",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4036162,
+          53.2287059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10719377346",
+      "properties": {
+        "leaf_cycle": "deciduous",
+        "natural": "tree",
+        "leaf_type": "broadleaved",
+        "id": "node/10719377346",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4036814,
+          53.2287149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10719377347",
+      "properties": {
+        "leaf_cycle": "deciduous",
+        "natural": "tree",
+        "leaf_type": "broadleaved",
+        "id": "node/10719377347",
+        "category": "tree",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4037849,
+          53.2287439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730982",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/10750730982",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398626,
+          53.2294014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730983",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/10750730983",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3986723,
+          53.229488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730984",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "door": "automatic",
+        "id": "node/10750730984",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401123,
+          53.2296328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730985",
+      "properties": {
+        "entrance": "yes",
+        "id": "node/10750730985",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4030337,
+          53.2291118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730986",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/10750730986",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403058,
+          53.2288356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730987",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "id": "node/10750730987",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3986085,
+          53.2296358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10750730988",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "id": "node/10750730988",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4003461,
+          53.2287982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11016241437",
+      "properties": {
+        "addr:country": "DE",
+        "addr:street": "Nelly-Sachs-Straße",
+        "entrance": "yes",
+        "addr:housenumber": "49",
+        "addr:city": "Lüneburg",
+        "addr:postcode": "21335",
+        "id": "node/11016241437",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4025035,
+          53.2265641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204282",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "access": "permissive",
+        "id": "node/12480204282",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020725,
+          53.228145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204283",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "no",
+        "door": "hinged",
+        "access": "permissive",
+        "id": "node/12480204283",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4023214,
+          53.2281481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204284",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "access": "permissive",
+        "id": "node/12480204284",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40208,
+          53.228072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204285",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "id": "node/12480204285",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020399,
+          53.2284396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204286",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "id": "node/12480204286",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020465,
+          53.2283909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204287",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "id": "node/12480204287",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020513,
+          53.2283416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204288",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "id": "node/12480204288",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020569,
+          53.2282923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204289",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "access": "permissive",
+        "id": "node/12480204289",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020638,
+          53.2282278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204290",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "id": "node/12480204290",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4020923,
+          53.2279557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12480204291",
+      "properties": {
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "door": "hinged",
+        "id": "node/12480204291",
+        "category": "entrance",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4021185,
+          53.2276997
+        ]
+      }
+    }
+  ]
+}

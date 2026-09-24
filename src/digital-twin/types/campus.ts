@@ -9,10 +9,13 @@ export type CampusCategory =
   | 'student-life'
   | 'green'
   | 'transport'
+  | 'sports'
 
 export interface CampusPoi {
   id: string
   name: string
+  shortLabel?: string
+  color?: string
   buildingNumber?: string
   category: CampusCategory
   description: string
@@ -27,6 +30,8 @@ export interface CampusPoi {
 export interface BuildingSelection {
   id: string
   name: string
+  shortLabel?: string
+  color?: string
   buildingNumber?: string
   category: CampusCategory | 'building'
   description: string

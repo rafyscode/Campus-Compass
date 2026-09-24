@@ -8,12 +8,14 @@ interface CampusState {
   mapMode: MapMode
   showLabels: boolean
   showCampusBoundary: boolean
+  showPulse: boolean
   setSelected: (selected: BuildingSelection | null) => void
   setQuery: (query: string) => void
   setQuality: (quality: QualityLevel) => void
   setMapMode: (mapMode: MapMode) => void
   setShowLabels: (showLabels: boolean) => void
   setShowCampusBoundary: (showCampusBoundary: boolean) => void
+  setShowPulse: (showPulse: boolean) => void
 }
 
 export const useCampusStore = create<CampusState>((set) => ({
@@ -23,10 +25,12 @@ export const useCampusStore = create<CampusState>((set) => ({
   mapMode: 'campus',
   showLabels: true,
   showCampusBoundary: true,
+  showPulse: true,
   setSelected: (selected) => set({ selected }),
   setQuery: (query) => set({ query }),
   setQuality: (quality) => set({ quality }),
   setMapMode: (mapMode) => set({ mapMode }),
   setShowLabels: (showLabels) => set({ showLabels }),
   setShowCampusBoundary: (showCampusBoundary) => set({ showCampusBoundary }),
+  setShowPulse: (showPulse) => set({ showPulse }),
 }))

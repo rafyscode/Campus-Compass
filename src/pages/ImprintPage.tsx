@@ -1,16 +1,15 @@
-import { Card } from '../components/ui/Card';
+import { LegalOriginalNote } from '../i18n/LegalOriginalNote';
 import { PageHeader } from '../components/ui/PageHeader';
-
+import { Link } from 'react-router-dom';
 export default function ImprintPage() {
-  return (
-    <div className="content page-stack">
-      <PageHeader eyebrow="Impressum" title="Projektangaben." description="Platzhalter für die rechtlich erforderlichen Angaben des tatsächlichen Betreibers." />
-      <Card className="card-pad copy-prose">
-        <div className="callout"><strong>PLATZHALTER:</strong> Vor öffentlicher Veröffentlichung mit rechtlich korrekten Betreiberangaben ersetzen.</div>
-        <h2>Angaben gemäß geltendem Recht</h2><p>[Name / Projektverantwortliche Person]<br />[Anschrift]<br />[E-Mail-Adresse]<br />[weitere erforderliche Angaben]</p>
-        <h2>Projektstatus</h2><p>Campus Compass ist ein studentisches Projekt an der Leuphana Universität Lüneburg. Diese Anwendung ist nicht automatisch ein offiziell freigegebener Dienst der Leuphana Universität Lüneburg.</p>
-        <h2>Haftung / Inhalte</h2><p>[Rechtlich geprüften Text einsetzen.] Die bereitgestellten Auslastungs- und Prognosewerte dienen Informationszwecken und bieten keine Gewähr auf absolute Genauigkeit.</p>
-      </Card>
-    </div>
-  );
+  return <div className="content page-stack"><LegalOriginalNote /><div lang="de" className="legal-original">
+    <PageHeader eyebrow="Projektangaben" title="Impressum" description="Campus Compass · Studentisches Smart-Campus-Projekt" />
+    <div className="legal-layout"><aside className="legal-aside">Campus Compass<Link to="/privacy">Datenschutz →</Link></aside><div className="legal-copy">
+      <section><h2>Inhaltlich verantwortlich / Ansprechpartner</h2><address>Nick Bennet Kühl<br /><a href="mailto:Nick.B.Kuehl@stud.leuphana.de">Nick.B.Kuehl@stud.leuphana.de</a><br /><br />Rafael Bollmann Robles<br /><a href="mailto:rafael.robles@stud.leuphana.de">rafael.robles@stud.leuphana.de</a></address></section>
+      <section><h2>Projektkontext / Campusanschrift</h2><address>Leuphana Universität Lüneburg<br />Universitätsallee 1<br />21335 Lüneburg<br />Deutschland</address><p>Die Campusanschrift beschreibt den Projektkontext. Sie ist keine bestätigte persönliche ladungsfähige Anschrift des Projektverantwortlichen.</p></section>
+      <section><h2>Studentisches Projekt</h2><p>Campus Compass ist ein studentisches Projekt und kein offiziell freigegebener Dienst der Leuphana Universität Lüneburg.</p><p>Die Anwendung dient der Forschung und der Präsentation realer historischer Sensormessungen, eines Forecast-Systems und eines interaktiven Digital Twin.</p></section>
+      <section><h2>Inhalte und externe Links</h2><p>Die Inhalte wurden mit Sorgfalt erstellt. Vollständigkeit und Aktualität können nicht gewährleistet werden. Historische Messungen und Modelloutputs beschreiben keine aktuelle Auslastung.</p><p>Die Inhalte verlinkter externer Seiten liegen außerhalb unseres Einflussbereichs. Gesetzliche Haftungspflichten bleiben unberührt.</p></section>
+    </div></div>
+  </div></div>;
 }
+

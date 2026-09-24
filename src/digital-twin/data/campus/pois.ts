@@ -5,6 +5,8 @@ import type { CampusPoi, CampusCategory, DataConfidence } from '../../types/camp
 interface PoiProperties {
   id: string
   name: string
+  shortLabel?: string
+  color?: string
   buildingNumber?: string
   category: CampusCategory
   description: string
@@ -23,7 +25,7 @@ export const campusPois: CampusPoi[] = data.features.map((feature) => ({
 
 export const searchablePois = campusPois.map((poi) => ({
   ...poi,
-  searchText: [poi.name, poi.buildingNumber ? `Gebäude ${poi.buildingNumber}` : '', poi.category]
+  searchText: [poi.name, poi.shortLabel, poi.buildingNumber ? `Gebäude ${poi.buildingNumber} C${poi.buildingNumber} C ${poi.buildingNumber}` : '', poi.category]
     .join(' ')
     .toLocaleLowerCase('de-DE'),
 }))

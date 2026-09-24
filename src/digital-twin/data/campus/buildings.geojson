@@ -1,0 +1,2623 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "building-1",
+      "properties": {
+        "id": "building-1",
+        "name": "Gebäude 1",
+        "shortLabel": "C1",
+        "buildingNumber": "1",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 1 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272300",
+        "osmIds": "way/173272300",
+        "labelCoordinates": [
+          10.3970565,
+          53.229586
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.396842,
+              53.2297976
+            ],
+            [
+              10.3970336,
+              53.2293389
+            ],
+            [
+              10.397271,
+              53.2293745
+            ],
+            [
+              10.3971743,
+              53.229606
+            ],
+            [
+              10.3970794,
+              53.2298331
+            ],
+            [
+              10.396842,
+              53.2297976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-2",
+      "properties": {
+        "id": "building-2",
+        "name": "Campus 2 · ehemals Gebäude 2",
+        "shortLabel": "C2 · Wohnen",
+        "buildingNumber": "2",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 2 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272311",
+        "osmIds": "way/173272311",
+        "labelCoordinates": [
+          10.3973942,
+          53.2288073
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3971664,
+              53.229022
+            ],
+            [
+              10.3973661,
+              53.2285535
+            ],
+            [
+              10.3976221,
+              53.2285927
+            ],
+            [
+              10.3975337,
+              53.2287999
+            ],
+            [
+              10.3974224,
+              53.2290611
+            ],
+            [
+              10.3971664,
+              53.229022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mensa",
+      "properties": {
+        "id": "mensa",
+        "name": "Mensa · Gebäude 3",
+        "shortLabel": "Mensa · C3",
+        "buildingNumber": "3",
+        "category": "food",
+        "color": "#d6804f",
+        "height": 8,
+        "heightMeters": 8,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "description": "Mensa in Gebäude 3 am nordwestlichen Campus; die beiden angrenzenden Baukörper sind zusammengefasst.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/92479485",
+        "osmIds": "way/92479485;way/25428437",
+        "labelCoordinates": [
+          10.398277,
+          53.2293554
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3978857,
+              53.2293915
+            ],
+            [
+              10.3978891,
+              53.2293446
+            ],
+            [
+              10.3977754,
+              53.2293417
+            ],
+            [
+              10.3977783,
+              53.2293005
+            ],
+            [
+              10.3976045,
+              53.229296
+            ],
+            [
+              10.3976128,
+              53.2291812
+            ],
+            [
+              10.3988261,
+              53.2292126
+            ],
+            [
+              10.3988235,
+              53.2292485
+            ],
+            [
+              10.3988636,
+              53.2292495
+            ],
+            [
+              10.3988556,
+              53.2293606
+            ],
+            [
+              10.3989944,
+              53.2293642
+            ],
+            [
+              10.3989927,
+              53.2293876
+            ],
+            [
+              10.3989919,
+              53.2293988
+            ],
+            [
+              10.3986269,
+              53.2293894
+            ],
+            [
+              10.398626,
+              53.2294014
+            ],
+            [
+              10.3986254,
+              53.2294106
+            ],
+            [
+              10.3986778,
+              53.229412
+            ],
+            [
+              10.3986723,
+              53.229488
+            ],
+            [
+              10.3986671,
+              53.2295603
+            ],
+            [
+              10.3983036,
+              53.2295509
+            ],
+            [
+              10.397875,
+              53.2295398
+            ],
+            [
+              10.3978857,
+              53.2293915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-28",
+      "properties": {
+        "id": "building-28",
+        "name": "Gebäude 28 · KonRad",
+        "shortLabel": "C28",
+        "buildingNumber": "28",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 7,
+        "heightMeters": 7,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 2,
+        "description": "Gebäude 28 am östlichen Ende von Parkdeck P3, mit KonRad. Die Teilfläche ist aus dem offiziellen Lageplan abgeleitet.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "derived",
+        "geometryConfidence": "plan-derived",
+        "osmId": "way/173272362",
+        "osmIds": "way/173272362",
+        "labelCoordinates": [
+          10.3987649,
+          53.2297865
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3986085,
+              53.2296358
+            ],
+            [
+              10.3989497,
+              53.2296478
+            ],
+            [
+              10.3989213,
+              53.2299372
+            ],
+            [
+              10.3985801,
+              53.2299252
+            ],
+            [
+              10.3986085,
+              53.2296358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-4",
+      "properties": {
+        "id": "building-4",
+        "name": "Gebäude 4",
+        "shortLabel": "C4",
+        "buildingNumber": "4",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 4 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272316",
+        "osmIds": "way/173272316",
+        "labelCoordinates": [
+          10.3993516,
+          53.2296877
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3992052,
+              53.2299188
+            ],
+            [
+              10.3992226,
+              53.229679
+            ],
+            [
+              10.3992392,
+              53.2294498
+            ],
+            [
+              10.399498,
+              53.2294565
+            ],
+            [
+              10.3994813,
+              53.2296855
+            ],
+            [
+              10.3994639,
+              53.2299256
+            ],
+            [
+              10.3992052,
+              53.2299188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-6",
+      "properties": {
+        "id": "building-6",
+        "name": "Gebäude 6",
+        "shortLabel": "C6",
+        "buildingNumber": "6",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 6 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272319",
+        "osmIds": "way/173272319",
+        "labelCoordinates": [
+          10.4001401,
+          53.2296897
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3999902,
+              53.2299509
+            ],
+            [
+              10.4000038,
+              53.2297991
+            ],
+            [
+              10.4000378,
+              53.2294203
+            ],
+            [
+              10.40029,
+              53.2294284
+            ],
+            [
+              10.4002788,
+              53.2295523
+            ],
+            [
+              10.400251,
+              53.2298631
+            ],
+            [
+              10.4002424,
+              53.229959
+            ],
+            [
+              10.3999902,
+              53.2299509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-8",
+      "properties": {
+        "id": "building-8",
+        "name": "Gebäude 8 · Infoportal",
+        "shortLabel": "C8 · Info",
+        "buildingNumber": "8",
+        "category": "administration",
+        "color": "#a894ca",
+        "height": 9,
+        "heightMeters": 9,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 8 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/92479482",
+        "osmIds": "way/92479482",
+        "labelCoordinates": [
+          10.4011136,
+          53.2295492
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4008472,
+              53.2296232
+            ],
+            [
+              10.4008632,
+              53.2294572
+            ],
+            [
+              10.401119,
+              53.2294661
+            ],
+            [
+              10.4013801,
+              53.2294751
+            ],
+            [
+              10.401364,
+              53.2296411
+            ],
+            [
+              10.401123,
+              53.2296328
+            ],
+            [
+              10.4008472,
+              53.2296232
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-10",
+      "properties": {
+        "id": "building-10",
+        "name": "Gebäude 10 · Poststelle",
+        "shortLabel": "C10",
+        "buildingNumber": "10",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 10 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272301",
+        "osmIds": "way/173272301",
+        "labelCoordinates": [
+          10.4020581,
+          53.2297507
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4019106,
+              53.2300301
+            ],
+            [
+              10.4019228,
+              53.2298912
+            ],
+            [
+              10.4019492,
+              53.2295883
+            ],
+            [
+              10.4019601,
+              53.2294638
+            ],
+            [
+              10.4022056,
+              53.2294714
+            ],
+            [
+              10.4021879,
+              53.2296741
+            ],
+            [
+              10.4021561,
+              53.2300377
+            ],
+            [
+              10.4019106,
+              53.2300301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-12",
+      "properties": {
+        "id": "building-12",
+        "name": "Gebäude 12",
+        "shortLabel": "C12",
+        "buildingNumber": "12",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 12 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/25155811",
+        "osmIds": "way/25155811",
+        "labelCoordinates": [
+          10.4028129,
+          53.2298111
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4026676,
+              53.2300599
+            ],
+            [
+              10.4026849,
+              53.2297932
+            ],
+            [
+              10.4027002,
+              53.2295563
+            ],
+            [
+              10.4029581,
+              53.2295623
+            ],
+            [
+              10.402943,
+              53.2297957
+            ],
+            [
+              10.4029255,
+              53.2300658
+            ],
+            [
+              10.4026676,
+              53.2300599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-14",
+      "properties": {
+        "id": "building-14",
+        "name": "Gebäude 14",
+        "shortLabel": "C14",
+        "buildingNumber": "14",
+        "category": "administration",
+        "color": "#a894ca",
+        "height": 10,
+        "heightMeters": 10,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "roofShape": "gabled",
+        "description": "Gebäude 14 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272303",
+        "osmIds": "way/173272303",
+        "labelCoordinates": [
+          10.4039373,
+          53.2296744
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4035313,
+              53.2297433
+            ],
+            [
+              10.4035463,
+              53.2295794
+            ],
+            [
+              10.4039459,
+              53.2295924
+            ],
+            [
+              10.4043432,
+              53.2296054
+            ],
+            [
+              10.4043282,
+              53.2297694
+            ],
+            [
+              10.4035313,
+              53.2297433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-5",
+      "properties": {
+        "id": "building-5",
+        "name": "Gebäude 5",
+        "shortLabel": "C5",
+        "buildingNumber": "5",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 5 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272318",
+        "osmIds": "way/173272318",
+        "labelCoordinates": [
+          10.3994384,
+          53.2288503
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.399282,
+              53.2291373
+            ],
+            [
+              10.3992898,
+              53.2290357
+            ],
+            [
+              10.399318,
+              53.2287063
+            ],
+            [
+              10.3993267,
+              53.2285549
+            ],
+            [
+              10.3995927,
+              53.2285622
+            ],
+            [
+              10.3995617,
+              53.2289892
+            ],
+            [
+              10.3995481,
+              53.2291446
+            ],
+            [
+              10.399282,
+              53.2291373
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-7",
+      "properties": {
+        "id": "building-7",
+        "name": "Gebäude 7",
+        "shortLabel": "C7",
+        "buildingNumber": "7",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 7 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272321",
+        "osmIds": "way/173272321",
+        "labelCoordinates": [
+          10.4002093,
+          53.2289165
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4000649,
+              53.2291675
+            ],
+            [
+              10.4000734,
+              53.228995
+            ],
+            [
+              10.4001008,
+              53.2286587
+            ],
+            [
+              10.4003555,
+              53.2286652
+            ],
+            [
+              10.4003461,
+              53.2287982
+            ],
+            [
+              10.4003322,
+              53.228996
+            ],
+            [
+              10.4003197,
+              53.2291739
+            ],
+            [
+              10.4000649,
+              53.2291675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-9",
+      "properties": {
+        "id": "building-9",
+        "name": "Gebäude 9",
+        "shortLabel": "C9",
+        "buildingNumber": "9",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 9,
+        "heightMeters": 9,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 9 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272324",
+        "osmIds": "way/173272324",
+        "labelCoordinates": [
+          10.4011575,
+          53.2290653
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4008427,
+              53.2291308
+            ],
+            [
+              10.4008522,
+              53.2289852
+            ],
+            [
+              10.4011028,
+              53.228991
+            ],
+            [
+              10.4011727,
+              53.2289927
+            ],
+            [
+              10.4012419,
+              53.2289943
+            ],
+            [
+              10.4014723,
+              53.2289997
+            ],
+            [
+              10.4014628,
+              53.2291454
+            ],
+            [
+              10.401182,
+              53.2291388
+            ],
+            [
+              10.4008427,
+              53.2291308
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-11",
+      "properties": {
+        "id": "building-11",
+        "name": "Gebäude 11",
+        "shortLabel": "C11",
+        "buildingNumber": "11",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "description": "Gebäude 11 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272302",
+        "osmIds": "way/173272302",
+        "labelCoordinates": [
+          10.4021458,
+          53.2289581
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4019832,
+              53.2292285
+            ],
+            [
+              10.4019933,
+              53.2291242
+            ],
+            [
+              10.4020238,
+              53.2288103
+            ],
+            [
+              10.4020366,
+              53.2286781
+            ],
+            [
+              10.4023084,
+              53.2286876
+            ],
+            [
+              10.4022701,
+              53.2290828
+            ],
+            [
+              10.402255,
+              53.229238
+            ],
+            [
+              10.4019832,
+              53.2292285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lecture-hall-5",
+      "properties": {
+        "id": "lecture-hall-5",
+        "name": "Hörsaal 5",
+        "shortLabel": "HS 5",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 6,
+        "heightMeters": 6,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Hörsaal 5 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272330",
+        "osmIds": "way/173272330",
+        "labelCoordinates": [
+          10.4025296,
+          53.2289984
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4023843,
+              53.2290702
+            ],
+            [
+              10.4023965,
+              53.2289187
+            ],
+            [
+              10.4026749,
+              53.2289267
+            ],
+            [
+              10.4026626,
+              53.2290782
+            ],
+            [
+              10.4025213,
+              53.2290741
+            ],
+            [
+              10.4023843,
+              53.2290702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-41",
+      "properties": {
+        "id": "building-41",
+        "name": "Gebäude 41",
+        "shortLabel": "C41",
+        "buildingNumber": "41",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 4,
+        "heightMeters": 4,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "roofShape": "flat",
+        "description": "Eigenständiges Gebäude 41 südlich von Hörsaal 5, zwischen den Gebäuden 11 und 13.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/1453166455",
+        "osmIds": "way/1453166455",
+        "labelCoordinates": [
+          10.402551,
+          53.2287408
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4024218,
+              53.2287926
+            ],
+            [
+              10.4024331,
+              53.228672
+            ],
+            [
+              10.402637,
+              53.2286789
+            ],
+            [
+              10.4026319,
+              53.2287329
+            ],
+            [
+              10.4027026,
+              53.2287353
+            ],
+            [
+              10.4026963,
+              53.2288019
+            ],
+            [
+              10.4024218,
+              53.2287926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-13",
+      "properties": {
+        "id": "building-13",
+        "name": "Gebäude 13",
+        "shortLabel": "C13",
+        "buildingNumber": "13",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "roofShape": "hipped",
+        "description": "Gebäude 13 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/25324693",
+        "osmIds": "way/25324693",
+        "labelCoordinates": [
+          10.4029117,
+          53.228968
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4027519,
+              53.2292535
+            ],
+            [
+              10.4027655,
+              53.2290979
+            ],
+            [
+              10.4028029,
+              53.228674
+            ],
+            [
+              10.4030715,
+              53.2286824
+            ],
+            [
+              10.403058,
+              53.2288356
+            ],
+            [
+              10.4030337,
+              53.2291118
+            ],
+            [
+              10.4030205,
+              53.2292619
+            ],
+            [
+              10.4027519,
+              53.2292535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-16",
+      "properties": {
+        "id": "building-16",
+        "name": "Gebäude 16",
+        "shortLabel": "C16",
+        "buildingNumber": "16",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 3,
+        "description": "Gebäude 16 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272306",
+        "osmIds": "way/173272306",
+        "labelCoordinates": [
+          10.4050737,
+          53.2290883
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4049167,
+              53.2293382
+            ],
+            [
+              10.4049427,
+              53.2290482
+            ],
+            [
+              10.4049651,
+              53.2288294
+            ],
+            [
+              10.4052314,
+              53.2288384
+            ],
+            [
+              10.405183,
+              53.2293473
+            ],
+            [
+              10.4049167,
+              53.2293382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-15",
+      "properties": {
+        "id": "building-15",
+        "name": "Campus 1 · ehemals Gebäude 15",
+        "shortLabel": "C15 · Wohnen",
+        "buildingNumber": "15",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 15 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272304",
+        "osmIds": "way/173272304",
+        "labelCoordinates": [
+          10.4050113,
+          53.2298859
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4049088,
+              53.2296401
+            ],
+            [
+              10.4051552,
+              53.2296478
+            ],
+            [
+              10.405113,
+              53.2301318
+            ],
+            [
+              10.4048666,
+              53.2301241
+            ],
+            [
+              10.4048856,
+              53.2299226
+            ],
+            [
+              10.4049088,
+              53.2296401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-17",
+      "properties": {
+        "id": "building-17",
+        "name": "Erstsemesterwohnheim · Gebäude 17",
+        "shortLabel": "C17 · Wohnen",
+        "buildingNumber": "17",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 17 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "derived",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/25428438",
+        "osmIds": "way/25428438",
+        "labelCoordinates": [
+          10.3975412,
+          53.2283468
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3973924,
+              53.228434
+            ],
+            [
+              10.3974227,
+              53.2283637
+            ],
+            [
+              10.3973959,
+              53.2283596
+            ],
+            [
+              10.3974276,
+              53.2282859
+            ],
+            [
+              10.3974439,
+              53.2282884
+            ],
+            [
+              10.3974547,
+              53.2282901
+            ],
+            [
+              10.3974819,
+              53.228227
+            ],
+            [
+              10.3975212,
+              53.2282331
+            ],
+            [
+              10.3975249,
+              53.2282245
+            ],
+            [
+              10.3976492,
+              53.2282437
+            ],
+            [
+              10.3976446,
+              53.2282542
+            ],
+            [
+              10.3976996,
+              53.2282627
+            ],
+            [
+              10.3976112,
+              53.228468
+            ],
+            [
+              10.3975527,
+              53.228459
+            ],
+            [
+              10.3975481,
+              53.2284695
+            ],
+            [
+              10.397447,
+              53.2284539
+            ],
+            [
+              10.3974516,
+              53.2284431
+            ],
+            [
+              10.3973924,
+              53.228434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-18",
+      "properties": {
+        "id": "building-18",
+        "name": "Wohnheim · Gebäude 18",
+        "shortLabel": "C18 · Wohnen",
+        "buildingNumber": "18",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 15,
+        "heightMeters": 15,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 4,
+        "description": "Gebäude 18 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "derived",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272308",
+        "osmIds": "way/173272308",
+        "labelCoordinates": [
+          10.3977647,
+          53.2278666
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3975778,
+              53.2280592
+            ],
+            [
+              10.397661,
+              53.2278691
+            ],
+            [
+              10.3976408,
+              53.2278659
+            ],
+            [
+              10.3976106,
+              53.2278612
+            ],
+            [
+              10.3976273,
+              53.2278229
+            ],
+            [
+              10.3976748,
+              53.2278303
+            ],
+            [
+              10.3977558,
+              53.2276451
+            ],
+            [
+              10.3979578,
+              53.2276767
+            ],
+            [
+              10.3978634,
+              53.2278927
+            ],
+            [
+              10.3977769,
+              53.2280904
+            ],
+            [
+              10.3975778,
+              53.2280592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-19",
+      "properties": {
+        "id": "building-19",
+        "name": "Gebäude 19 · Kindertagesstätte",
+        "shortLabel": "C19 · Kita",
+        "buildingNumber": "19",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 10,
+        "heightMeters": 10,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 19 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272309",
+        "osmIds": "way/173272309",
+        "labelCoordinates": [
+          10.3979883,
+          53.227285
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3978431,
+              53.2274455
+            ],
+            [
+              10.3979916,
+              53.2271024
+            ],
+            [
+              10.3981335,
+              53.2271244
+            ],
+            [
+              10.398026,
+              53.2273728
+            ],
+            [
+              10.397985,
+              53.2274675
+            ],
+            [
+              10.3978431,
+              53.2274455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-35",
+      "properties": {
+        "id": "building-35",
+        "name": "Campus 3 · ehemals Gebäude 35",
+        "shortLabel": "C35 · Wohnen",
+        "buildingNumber": "35",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 12,
+        "heightMeters": 12,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 35 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272314",
+        "osmIds": "way/173272314",
+        "labelCoordinates": [
+          10.3982266,
+          53.2267321
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3980931,
+              53.2268044
+            ],
+            [
+              10.3981741,
+              53.226629
+            ],
+            [
+              10.3983602,
+              53.2266599
+            ],
+            [
+              10.3983187,
+              53.2267496
+            ],
+            [
+              10.3982792,
+              53.2268352
+            ],
+            [
+              10.3980931,
+              53.2268044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lecture-hall-1",
+      "properties": {
+        "id": "lecture-hall-1",
+        "name": "Hörsaal 1",
+        "shortLabel": "HS 1",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 7,
+        "heightMeters": 7,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Hörsaal 1 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272325",
+        "osmIds": "way/173272325",
+        "labelCoordinates": [
+          10.401418,
+          53.2287343
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4012507,
+              53.228873
+            ],
+            [
+              10.401254,
+              53.2288268
+            ],
+            [
+              10.401268,
+              53.2286325
+            ],
+            [
+              10.4012712,
+              53.2285883
+            ],
+            [
+              10.4015845,
+              53.2285947
+            ],
+            [
+              10.4015649,
+              53.228881
+            ],
+            [
+              10.4012507,
+              53.228873
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lecture-hall-2",
+      "properties": {
+        "id": "lecture-hall-2",
+        "name": "Hörsaal 2",
+        "shortLabel": "HS 2",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 7,
+        "heightMeters": 7,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Hörsaal 2 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272326",
+        "osmIds": "way/173272326",
+        "labelCoordinates": [
+          10.4008955,
+          53.2287189
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4006592,
+              53.2288608
+            ],
+            [
+              10.4006786,
+              53.2285663
+            ],
+            [
+              10.4011318,
+              53.228577
+            ],
+            [
+              10.4011282,
+              53.2286308
+            ],
+            [
+              10.4011156,
+              53.2288221
+            ],
+            [
+              10.4011123,
+              53.2288715
+            ],
+            [
+              10.4006592,
+              53.2288608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lecture-hall-3",
+      "properties": {
+        "id": "lecture-hall-3",
+        "name": "Hörsaal 3",
+        "shortLabel": "HS 3",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 6,
+        "heightMeters": 6,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Hörsaal 3 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272328",
+        "osmIds": "way/173272328",
+        "labelCoordinates": [
+          10.4010222,
+          53.2283114
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4008867,
+              53.2283973
+            ],
+            [
+              10.4008988,
+              53.2282192
+            ],
+            [
+              10.401158,
+              53.2282256
+            ],
+            [
+              10.401155,
+              53.2282671
+            ],
+            [
+              10.4011475,
+              53.2283709
+            ],
+            [
+              10.4011452,
+              53.2284036
+            ],
+            [
+              10.4008867,
+              53.2283973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lecture-hall-4",
+      "properties": {
+        "id": "lecture-hall-4",
+        "name": "Hörsaal 4",
+        "shortLabel": "HS 4",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 4,
+        "heightMeters": 4,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "description": "Hörsaal 4 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/558534870",
+        "osmIds": "way/558534870",
+        "labelCoordinates": [
+          10.4014533,
+          53.2283227
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4013326,
+              53.2284083
+            ],
+            [
+              10.4013331,
+              53.2284001
+            ],
+            [
+              10.4013335,
+              53.2283921
+            ],
+            [
+              10.4013466,
+              53.2283916
+            ],
+            [
+              10.4013573,
+              53.2282484
+            ],
+            [
+              10.4013433,
+              53.2282474
+            ],
+            [
+              10.4013442,
+              53.2282389
+            ],
+            [
+              10.401345,
+              53.2282307
+            ],
+            [
+              10.4015637,
+              53.2282367
+            ],
+            [
+              10.401551,
+              53.2284145
+            ],
+            [
+              10.4013326,
+              53.2284083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "library",
+      "properties": {
+        "id": "library",
+        "name": "Universitätsbibliothek",
+        "shortLabel": "Bibliothek",
+        "category": "library",
+        "color": "#4e93bd",
+        "height": 12,
+        "heightMeters": 12,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 2,
+        "description": "Universitätsbibliothek auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272359",
+        "osmIds": "way/173272359",
+        "labelCoordinates": [
+          10.4011247,
+          53.2278073
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.401172,
+              53.228031
+            ],
+            [
+              10.4009183,
+              53.2280209
+            ],
+            [
+              10.4009157,
+              53.2280441
+            ],
+            [
+              10.4003941,
+              53.2280235
+            ],
+            [
+              10.4004467,
+              53.2275469
+            ],
+            [
+              10.4015299,
+              53.2275897
+            ],
+            [
+              10.4015285,
+              53.2276025
+            ],
+            [
+              10.4018767,
+              53.2276163
+            ],
+            [
+              10.4018281,
+              53.2280569
+            ],
+            [
+              10.4013109,
+              53.2280365
+            ],
+            [
+              10.4012403,
+              53.2280337
+            ],
+            [
+              10.401172,
+              53.228031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-20",
+      "properties": {
+        "id": "building-20",
+        "name": "Sporthalle · Gebäude 20",
+        "shortLabel": "Sporthalle · C20",
+        "buildingNumber": "20",
+        "category": "sports",
+        "color": "#70a579",
+        "height": 10,
+        "heightMeters": 10,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 20 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/25428435",
+        "osmIds": "way/25428435",
+        "labelCoordinates": [
+          10.3987378,
+          53.2276132
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3984103,
+              53.2274709
+            ],
+            [
+              10.3991104,
+              53.2275033
+            ],
+            [
+              10.3990854,
+              53.2276964
+            ],
+            [
+              10.3990321,
+              53.2276939
+            ],
+            [
+              10.3990239,
+              53.2277573
+            ],
+            [
+              10.3983772,
+              53.2277273
+            ],
+            [
+              10.3984103,
+              53.2274709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-21",
+      "properties": {
+        "id": "building-21",
+        "name": "Studio 21",
+        "shortLabel": "Studio 21",
+        "buildingNumber": "21",
+        "category": "sports",
+        "color": "#70a579",
+        "height": 12,
+        "heightMeters": 12,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Gebäude 21 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/178150580",
+        "osmIds": "way/178150580",
+        "labelCoordinates": [
+          10.3994843,
+          53.2278874
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3993641,
+              53.2282529
+            ],
+            [
+              10.3994211,
+              53.2275176
+            ],
+            [
+              10.3996043,
+              53.2275203
+            ],
+            [
+              10.3995477,
+              53.2282579
+            ],
+            [
+              10.3993641,
+              53.2282529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-22",
+      "properties": {
+        "id": "building-22",
+        "name": "Gebäude 22",
+        "shortLabel": "C22",
+        "buildingNumber": "22",
+        "category": "administration",
+        "color": "#a894ca",
+        "height": 4,
+        "heightMeters": 4,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "description": "Gebäude 22 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272313",
+        "osmIds": "way/173272313",
+        "labelCoordinates": [
+          10.3999418,
+          53.2276824
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3998463,
+              53.227742
+            ],
+            [
+              10.3998564,
+              53.2276194
+            ],
+            [
+              10.4000094,
+              53.2276239
+            ],
+            [
+              10.4000069,
+              53.2276534
+            ],
+            [
+              10.4000202,
+              53.2276538
+            ],
+            [
+              10.4000663,
+              53.2276551
+            ],
+            [
+              10.4000624,
+              53.2277019
+            ],
+            [
+              10.4000049,
+              53.2277002
+            ],
+            [
+              10.4000011,
+              53.2277465
+            ],
+            [
+              10.3998463,
+              53.227742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-25",
+      "properties": {
+        "id": "building-25",
+        "name": "Campus Center · Gebäude 25",
+        "shortLabel": "Campus Center · C25",
+        "buildingNumber": "25",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 5,
+        "heightMeters": 5,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "description": "Gebäude 25 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272298",
+        "osmIds": "way/173272298",
+        "labelCoordinates": [
+          10.4022066,
+          53.2280532
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4020368,
+              53.2284838
+            ],
+            [
+              10.4020399,
+              53.2284396
+            ],
+            [
+              10.4020465,
+              53.2283909
+            ],
+            [
+              10.4020513,
+              53.2283416
+            ],
+            [
+              10.4020569,
+              53.2282923
+            ],
+            [
+              10.4020638,
+              53.2282278
+            ],
+            [
+              10.4020725,
+              53.228145
+            ],
+            [
+              10.40208,
+              53.228072
+            ],
+            [
+              10.4020923,
+              53.2279557
+            ],
+            [
+              10.4021185,
+              53.2276997
+            ],
+            [
+              10.4021286,
+              53.2276133
+            ],
+            [
+              10.4023768,
+              53.2276227
+            ],
+            [
+              10.4023214,
+              53.2281481
+            ],
+            [
+              10.402285,
+              53.2284932
+            ],
+            [
+              10.4020368,
+              53.2284838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-27",
+      "properties": {
+        "id": "building-27",
+        "name": "Gebäude 27",
+        "shortLabel": "C27",
+        "buildingNumber": "27",
+        "category": "administration",
+        "color": "#a894ca",
+        "height": 5,
+        "heightMeters": 5,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "description": "Gebäude 27 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272299",
+        "osmIds": "way/173272299",
+        "labelCoordinates": [
+          10.4030599,
+          53.227875
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4029615,
+              53.2281027
+            ],
+            [
+              10.4029992,
+              53.2276428
+            ],
+            [
+              10.4031583,
+              53.2276474
+            ],
+            [
+              10.4031205,
+              53.2281073
+            ],
+            [
+              10.4029615,
+              53.2281027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "central-building",
+      "properties": {
+        "id": "central-building",
+        "name": "Zentralgebäude C40",
+        "shortLabel": "Zentralgebäude · C40",
+        "buildingNumber": "40",
+        "category": "landmark",
+        "color": "#9a426a",
+        "height": 36.75,
+        "heightMeters": 36.75,
+        "heightApproximate": false,
+        "heightSource": "Leuphana Factsheet: maximale Gebäudehöhe",
+        "osmLevels": 7,
+        "description": "Zentralgebäude C40, entworfen von Daniel Libeskind, mit Auditorium und Seminarbereichen.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/480715548",
+        "osmIds": "way/480715548",
+        "labelCoordinates": [
+          10.4046487,
+          53.2283526
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4047981,
+              53.2279462
+            ],
+            [
+              10.4052141,
+              53.2279886
+            ],
+            [
+              10.4052061,
+              53.2280369
+            ],
+            [
+              10.4052625,
+              53.228043
+            ],
+            [
+              10.4052161,
+              53.2284488
+            ],
+            [
+              10.4051471,
+              53.2284712
+            ],
+            [
+              10.4052025,
+              53.2284976
+            ],
+            [
+              10.4053198,
+              53.2285536
+            ],
+            [
+              10.4051969,
+              53.2285774
+            ],
+            [
+              10.4044989,
+              53.2286992
+            ],
+            [
+              10.4044626,
+              53.2286586
+            ],
+            [
+              10.404414,
+              53.2286043
+            ],
+            [
+              10.4041244,
+              53.2286231
+            ],
+            [
+              10.4042352,
+              53.2285604
+            ],
+            [
+              10.4043346,
+              53.2285041
+            ],
+            [
+              10.4038014,
+              53.2285014
+            ],
+            [
+              10.4036458,
+              53.2285006
+            ],
+            [
+              10.4039453,
+              53.2283075
+            ],
+            [
+              10.4042687,
+              53.2280991
+            ],
+            [
+              10.4043557,
+              53.2281788
+            ],
+            [
+              10.4044085,
+              53.2282587
+            ],
+            [
+              10.4044793,
+              53.2282655
+            ],
+            [
+              10.4046276,
+              53.2281479
+            ],
+            [
+              10.4047146,
+              53.2282176
+            ],
+            [
+              10.4047399,
+              53.2281544
+            ],
+            [
+              10.4047981,
+              53.2279462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "building-26",
+      "properties": {
+        "id": "building-26",
+        "name": "Gebäude 26 · Kulturhalle",
+        "shortLabel": "C26",
+        "buildingNumber": "26",
+        "category": "student-life",
+        "color": "#c48aa4",
+        "height": 6,
+        "heightMeters": 6,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "osmLevels": 1,
+        "description": "Gebäude 26 auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272360",
+        "osmIds": "way/173272360",
+        "labelCoordinates": [
+          10.4041184,
+          53.2277802
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4037512,
+              53.2278702
+            ],
+            [
+              10.4037651,
+              53.2276721
+            ],
+            [
+              10.4044856,
+              53.2276902
+            ],
+            [
+              10.4044717,
+              53.2278883
+            ],
+            [
+              10.404115,
+              53.2278793
+            ],
+            [
+              10.4037512,
+              53.2278702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "lecture-hall-corridor",
+      "properties": {
+        "id": "lecture-hall-corridor",
+        "name": "Hörsaalgang",
+        "shortLabel": "Hörsaalgang",
+        "category": "teaching",
+        "color": "#72a9a4",
+        "height": 4,
+        "heightMeters": 4,
+        "heightApproximate": true,
+        "heightSource": "Vereinfachte Darstellung, Höhe geschätzt; keine Vermessung",
+        "description": "Hörsaalgang auf dem zentralen Campus der Leuphana Universität Lüneburg.",
+        "source": "OpenStreetMap-Gebäudeumrisse · Leuphana-Lageplan",
+        "sourceUrl": "https://www.leuphana.de/universitaet/lageplaene.html",
+        "confidence": "verified",
+        "geometryConfidence": "osm-footprint",
+        "osmId": "way/173272331",
+        "osmIds": "way/173272331",
+        "labelCoordinates": [
+          10.4012151,
+          53.228499
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4013335,
+              53.2283921
+            ],
+            [
+              10.4013331,
+              53.2284001
+            ],
+            [
+              10.4013326,
+              53.2284083
+            ],
+            [
+              10.4012833,
+              53.2284068
+            ],
+            [
+              10.4012781,
+              53.2284918
+            ],
+            [
+              10.4012712,
+              53.2285883
+            ],
+            [
+              10.401268,
+              53.2286325
+            ],
+            [
+              10.401254,
+              53.2288268
+            ],
+            [
+              10.4012507,
+              53.228873
+            ],
+            [
+              10.4012475,
+              53.2289156
+            ],
+            [
+              10.4012419,
+              53.2289943
+            ],
+            [
+              10.4011727,
+              53.2289927
+            ],
+            [
+              10.4011028,
+              53.228991
+            ],
+            [
+              10.4011086,
+              53.2289117
+            ],
+            [
+              10.4011123,
+              53.2288715
+            ],
+            [
+              10.4011156,
+              53.2288221
+            ],
+            [
+              10.4011282,
+              53.2286308
+            ],
+            [
+              10.4011318,
+              53.228577
+            ],
+            [
+              10.4011452,
+              53.2284036
+            ],
+            [
+              10.4011475,
+              53.2283709
+            ],
+            [
+              10.401155,
+              53.2282671
+            ],
+            [
+              10.401158,
+              53.2282256
+            ],
+            [
+              10.401164,
+              53.2281433
+            ],
+            [
+              10.401172,
+              53.228031
+            ],
+            [
+              10.4012403,
+              53.2280337
+            ],
+            [
+              10.4013109,
+              53.2280365
+            ],
+            [
+              10.4013029,
+              53.2281497
+            ],
+            [
+              10.4012973,
+              53.2282297
+            ],
+            [
+              10.401345,
+              53.2282307
+            ],
+            [
+              10.4013442,
+              53.2282389
+            ],
+            [
+              10.4013433,
+              53.2282474
+            ],
+            [
+              10.4013573,
+              53.2282484
+            ],
+            [
+              10.4013516,
+              53.2283222
+            ],
+            [
+              10.4013466,
+              53.2283916
+            ],
+            [
+              10.4013335,
+              53.2283921
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

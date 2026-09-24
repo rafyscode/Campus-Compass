@@ -1,0 +1,2133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/25428436",
+      "properties": {
+        "landuse": "grass",
+        "name": "Leuphana Mensawiese",
+        "id": "way/25428436",
+        "category": "green",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3976683,
+              53.2290638
+            ],
+            [
+              10.3981908,
+              53.2281724
+            ],
+            [
+              10.3983697,
+              53.2281752
+            ],
+            [
+              10.3984053,
+              53.2281757
+            ],
+            [
+              10.3990493,
+              53.2282019
+            ],
+            [
+              10.3991243,
+              53.2282042
+            ],
+            [
+              10.3991172,
+              53.228237
+            ],
+            [
+              10.3991661,
+              53.2283395
+            ],
+            [
+              10.3991959,
+              53.228451
+            ],
+            [
+              10.3991324,
+              53.2287153
+            ],
+            [
+              10.3990912,
+              53.2291131
+            ],
+            [
+              10.3976683,
+              53.2290638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34415927",
+      "properties": {
+        "leisure": "park",
+        "id": "way/34415927",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.400438,
+              53.2302595
+            ],
+            [
+              10.4004522,
+              53.2301136
+            ],
+            [
+              10.4016166,
+              53.2301541
+            ],
+            [
+              10.4016024,
+              53.2303
+            ],
+            [
+              10.400438,
+              53.2302595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144545374",
+      "properties": {
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/144545374",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4045639,
+              53.226546
+            ],
+            [
+              10.4045652,
+              53.2259014
+            ],
+            [
+              10.405467,
+              53.2259021
+            ],
+            [
+              10.4054658,
+              53.2265466
+            ],
+            [
+              10.4047982,
+              53.2265461
+            ],
+            [
+              10.4045639,
+              53.226546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144990480",
+      "properties": {
+        "landuse": "grass",
+        "id": "way/144990480",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4054603,
+              53.2275275
+            ],
+            [
+              10.4054543,
+              53.227609
+            ],
+            [
+              10.4045717,
+              53.2275951
+            ],
+            [
+              10.4040378,
+              53.2275851
+            ],
+            [
+              10.4040678,
+              53.2272845
+            ],
+            [
+              10.403537,
+              53.2272638
+            ],
+            [
+              10.4035867,
+              53.2268305
+            ],
+            [
+              10.4036299,
+              53.2267745
+            ],
+            [
+              10.4037452,
+              53.2267335
+            ],
+            [
+              10.4050476,
+              53.2267835
+            ],
+            [
+              10.4052181,
+              53.2268312
+            ],
+            [
+              10.4053577,
+              53.2269058
+            ],
+            [
+              10.4054392,
+              53.2270049
+            ],
+            [
+              10.4054768,
+              53.2270939
+            ],
+            [
+              10.4054603,
+              53.2275275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144990485",
+      "properties": {
+        "landuse": "grass",
+        "id": "way/144990485",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4040561,
+              53.2260278
+            ],
+            [
+              10.4045066,
+              53.2259589
+            ],
+            [
+              10.4045652,
+              53.2259014
+            ],
+            [
+              10.4045639,
+              53.226546
+            ],
+            [
+              10.4045614,
+              53.2265982
+            ],
+            [
+              10.4036484,
+              53.226586
+            ],
+            [
+              10.4035643,
+              53.2265658
+            ],
+            [
+              10.4035325,
+              53.2265182
+            ],
+            [
+              10.4035683,
+              53.2260134
+            ],
+            [
+              10.4040561,
+              53.2260278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147026767",
+      "properties": {
+        "sport": "basketball",
+        "lit": "yes",
+        "leisure": "pitch",
+        "surface": "tartan",
+        "id": "way/147026767",
+        "category": "sports",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3983902,
+              53.2281528
+            ],
+            [
+              10.3984066,
+              53.2279741
+            ],
+            [
+              10.3989998,
+              53.2279936
+            ],
+            [
+              10.3989833,
+              53.2281724
+            ],
+            [
+              10.3983902,
+              53.2281528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147026768",
+      "properties": {
+        "lit": "no",
+        "description": "Volleyball Sand Platz",
+        "surface": "sand",
+        "operator": "Leuphana Universität Lüneburg",
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "id": "way/147026768",
+        "category": "sports",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3986958,
+              53.2286973
+            ],
+            [
+              10.3987037,
+              53.2285732
+            ],
+            [
+              10.3990912,
+              53.228582
+            ],
+            [
+              10.3990833,
+              53.2287062
+            ],
+            [
+              10.3986958,
+              53.2286973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152003090",
+      "properties": {
+        "access": "private",
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/152003090",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4025975,
+              53.2267131
+            ],
+            [
+              10.4026208,
+              53.2263852
+            ],
+            [
+              10.4028335,
+              53.2263906
+            ],
+            [
+              10.4028103,
+              53.2267186
+            ],
+            [
+              10.4025975,
+              53.2267131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152003105",
+      "properties": {
+        "access": "private",
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/152003105",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3997027,
+              53.2266133
+            ],
+            [
+              10.3997315,
+              53.2262788
+            ],
+            [
+              10.4008162,
+              53.2263122
+            ],
+            [
+              10.4007874,
+              53.2266467
+            ],
+            [
+              10.3997027,
+              53.2266133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152209180",
+      "properties": {
+        "access": "customers",
+        "fee": "no",
+        "wheelchair": "yes",
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/152209180",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4012331,
+              53.2271318
+            ],
+            [
+              10.4012518,
+              53.2269
+            ],
+            [
+              10.4012619,
+              53.2267749
+            ],
+            [
+              10.4017213,
+              53.2267881
+            ],
+            [
+              10.4016925,
+              53.2271451
+            ],
+            [
+              10.4016493,
+              53.2271438
+            ],
+            [
+              10.4015919,
+              53.2271421
+            ],
+            [
+              10.4013429,
+              53.227135
+            ],
+            [
+              10.4012331,
+              53.2271318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173272361",
+      "properties": {
+        "parking": "surface",
+        "ref": "P2",
+        "surface": "asphalt",
+        "operator": "Leuphana Universität Lüneburg",
+        "operator:type": "university",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/173272361",
+        "category": "parking",
+        "name": "Parkplatz P2",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4031946,
+              53.2301218
+            ],
+            [
+              10.4032222,
+              53.2298019
+            ],
+            [
+              10.4045681,
+              53.2298437
+            ],
+            [
+              10.4045405,
+              53.2301634
+            ],
+            [
+              10.4031946,
+              53.2301218
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173272362",
+      "properties": {
+        "parking": "multi-storey",
+        "wheelchair": "limited",
+        "fee": "no",
+        "building:levels": "2",
+        "surface": "concrete",
+        "ref": "P3",
+        "building": "parking",
+        "access": "yes",
+        "amenity": "parking",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "note": "November 2024 level 1 wieder nutzbar, level 2 noch gesperrt",
+        "id": "way/173272362",
+        "category": "parking",
+        "name": "Parkplatz P3",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3974017,
+              53.2298837
+            ],
+            [
+              10.3974169,
+              53.2297297
+            ],
+            [
+              10.3974302,
+              53.2295943
+            ],
+            [
+              10.3986085,
+              53.2296358
+            ],
+            [
+              10.3989497,
+              53.2296478
+            ],
+            [
+              10.3989213,
+              53.2299372
+            ],
+            [
+              10.3974017,
+              53.2298837
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173272363",
+      "properties": {
+        "wheelchair": "yes",
+        "parking": "surface",
+        "fee": "no",
+        "ref": "P1",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/173272363",
+        "category": "parking",
+        "name": "Parkplatz P1",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4023617,
+              53.2285061
+            ],
+            [
+              10.402431,
+              53.2276454
+            ],
+            [
+              10.4028942,
+              53.2276609
+            ],
+            [
+              10.4028599,
+              53.2281067
+            ],
+            [
+              10.4030851,
+              53.2281121
+            ],
+            [
+              10.4030503,
+              53.2285815
+            ],
+            [
+              10.4024239,
+              53.228573
+            ],
+            [
+              10.4024294,
+              53.2285069
+            ],
+            [
+              10.4023617,
+              53.2285061
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301056246",
+      "properties": {
+        "access": "private",
+        "amenity": "parking",
+        "id": "way/301056246",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3988314,
+              53.2274296
+            ],
+            [
+              10.3988377,
+              53.2273624
+            ],
+            [
+              10.3991355,
+              53.2273724
+            ],
+            [
+              10.3991292,
+              53.2274397
+            ],
+            [
+              10.3988314,
+              53.2274296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301056467",
+      "properties": {
+        "parking": "street_side",
+        "surface": "sett",
+        "service": "parking_aisle",
+        "amenity": "parking",
+        "id": "way/301056467",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3991812,
+              53.2272457
+            ],
+            [
+              10.3991993,
+              53.2269425
+            ],
+            [
+              10.3993155,
+              53.226945
+            ],
+            [
+              10.3992851,
+              53.2272479
+            ],
+            [
+              10.3991812,
+              53.2272457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301130421",
+      "properties": {
+        "access": "yes",
+        "fee": "no",
+        "surface": "sett",
+        "parking": "street_side",
+        "amenity": "parking",
+        "id": "way/301130421",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3996202,
+              53.2274818
+            ],
+            [
+              10.3996249,
+              53.2274329
+            ],
+            [
+              10.4004838,
+              53.2274623
+            ],
+            [
+              10.4004791,
+              53.2275112
+            ],
+            [
+              10.3996202,
+              53.2274818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301130422",
+      "properties": {
+        "access": "private",
+        "surface": "sett",
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/301130422",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3986367,
+              53.2268584
+            ],
+            [
+              10.3986412,
+              53.2268078
+            ],
+            [
+              10.3991724,
+              53.2268247
+            ],
+            [
+              10.399168,
+              53.2268753
+            ],
+            [
+              10.3986367,
+              53.2268584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301130423",
+      "properties": {
+        "parking": "street_side",
+        "service": "parking_aisle",
+        "amenity": "parking",
+        "id": "way/301130423",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3985614,
+              53.2264785
+            ],
+            [
+              10.3986084,
+              53.2264805
+            ],
+            [
+              10.3986889,
+              53.2264832
+            ],
+            [
+              10.3991941,
+              53.2265057
+            ],
+            [
+              10.3991492,
+              53.2265454
+            ],
+            [
+              10.398603,
+              53.2265209
+            ],
+            [
+              10.3985614,
+              53.2264785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301130425",
+      "properties": {
+        "parking": "street_side",
+        "amenity": "parking",
+        "id": "way/301130425",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3986084,
+              53.2264805
+            ],
+            [
+              10.3986294,
+              53.2264141
+            ],
+            [
+              10.3993575,
+              53.2264395
+            ],
+            [
+              10.3993589,
+              53.2265128
+            ],
+            [
+              10.3991941,
+              53.2265057
+            ],
+            [
+              10.3986889,
+              53.2264832
+            ],
+            [
+              10.3986084,
+              53.2264805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356675715",
+      "properties": {
+        "landuse": "grass",
+        "id": "way/356675715",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4051265,
+              53.231437
+            ],
+            [
+              10.4052522,
+              53.2303289
+            ],
+            [
+              10.4052774,
+              53.2303598
+            ],
+            [
+              10.4053211,
+              53.2306717
+            ],
+            [
+              10.40543,
+              53.2308846
+            ],
+            [
+              10.4055975,
+              53.2311046
+            ],
+            [
+              10.405618,
+              53.2311643
+            ],
+            [
+              10.4055693,
+              53.2312318
+            ],
+            [
+              10.4051265,
+              53.231437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/489131599",
+      "properties": {
+        "lit": "no",
+        "description": "Volleyball Sand Platz",
+        "surface": "sand",
+        "operator": "Leuphana Universität Lüneburg",
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "id": "way/489131599",
+        "category": "sports",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3987038,
+              53.2285728
+            ],
+            [
+              10.3987117,
+              53.2284486
+            ],
+            [
+              10.3990992,
+              53.2284575
+            ],
+            [
+              10.3990913,
+              53.2285816
+            ],
+            [
+              10.3987038,
+              53.2285728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/542974820",
+      "properties": {
+        "access": "yes",
+        "fee": "no",
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/542974820",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3991362,
+              53.2279891
+            ],
+            [
+              10.3991243,
+              53.2282042
+            ],
+            [
+              10.3990493,
+              53.2282019
+            ],
+            [
+              10.3990583,
+              53.2279874
+            ],
+            [
+              10.3991362,
+              53.2279891
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/542974822",
+      "properties": {
+        "parking": "surface",
+        "fee": "no",
+        "ref": "P4",
+        "access": "yes",
+        "capacity": "28",
+        "amenity": "parking",
+        "id": "way/542974822",
+        "category": "parking",
+        "name": "Parkplatz P4",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3983955,
+              53.2279668
+            ],
+            [
+              10.3983697,
+              53.2281752
+            ],
+            [
+              10.3981908,
+              53.2281724
+            ],
+            [
+              10.3981225,
+              53.2281701
+            ],
+            [
+              10.398174,
+              53.2277739
+            ],
+            [
+              10.3991497,
+              53.2278133
+            ],
+            [
+              10.3991362,
+              53.2279891
+            ],
+            [
+              10.3990583,
+              53.2279874
+            ],
+            [
+              10.3983955,
+              53.2279668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/644551564",
+      "properties": {
+        "leisure": "park",
+        "name": "Biotopgarten",
+        "id": "way/644551564",
+        "category": "green",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4032217,
+              53.2293274
+            ],
+            [
+              10.4032635,
+              53.2288322
+            ],
+            [
+              10.4047443,
+              53.2288771
+            ],
+            [
+              10.4047025,
+              53.2293722
+            ],
+            [
+              10.4032217,
+              53.2293274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/836941829",
+      "properties": {
+        "landuse": "grass",
+        "id": "way/836941829",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3997163,
+              53.2294262
+            ],
+            [
+              10.3996941,
+              53.2293716
+            ],
+            [
+              10.3996995,
+              53.2293218
+            ],
+            [
+              10.399729,
+              53.2292993
+            ],
+            [
+              10.3997672,
+              53.2292977
+            ],
+            [
+              10.3997847,
+              53.2293206
+            ],
+            [
+              10.3997592,
+              53.22937
+            ],
+            [
+              10.3997163,
+              53.2294262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/836941833",
+      "properties": {
+        "landuse": "grass",
+        "id": "way/836941833",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3996994,
+              53.2297047
+            ],
+            [
+              10.3996907,
+              53.2297043
+            ],
+            [
+              10.3996835,
+              53.2297013
+            ],
+            [
+              10.3996797,
+              53.2296966
+            ],
+            [
+              10.3996803,
+              53.2296914
+            ],
+            [
+              10.3996852,
+              53.2296871
+            ],
+            [
+              10.3996931,
+              53.2296849
+            ],
+            [
+              10.3997018,
+              53.2296853
+            ],
+            [
+              10.399709,
+              53.2296882
+            ],
+            [
+              10.3997128,
+              53.2296929
+            ],
+            [
+              10.3997121,
+              53.2296981
+            ],
+            [
+              10.3997072,
+              53.2297024
+            ],
+            [
+              10.3996994,
+              53.2297047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/968106831",
+      "properties": {
+        "garden:type": "community",
+        "fee": "no",
+        "check_date": "2025-01-07",
+        "name": "Waldgarten Campus Lüneburg",
+        "website": "https://waldgarten.web.leuphana.de/",
+        "operator": "Leuphana Universität Lüneburg / essbarer Campus Lüneburg",
+        "operator:type": "university",
+        "garden:style": "forest_garden",
+        "email": "dekanat.nachhaltigkeit@leuphana.de",
+        "access": "yes",
+        "leisure": "garden",
+        "id": "way/968106831",
+        "category": "green",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3998984,
+              53.2285102
+            ],
+            [
+              10.399994,
+              53.2283539
+            ],
+            [
+              10.4000357,
+              53.2283039
+            ],
+            [
+              10.4001193,
+              53.2282871
+            ],
+            [
+              10.4001773,
+              53.228293
+            ],
+            [
+              10.4003192,
+              53.2283404
+            ],
+            [
+              10.4002218,
+              53.2285162
+            ],
+            [
+              10.3998984,
+              53.2285102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1095440108",
+      "properties": {
+        "parking": "street_side",
+        "orientation": "parallel",
+        "fee": "no",
+        "surface": "asphalt",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/1095440108",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3980243,
+              53.2266618
+            ],
+            [
+              10.3978759,
+              53.2270136
+            ],
+            [
+              10.3978424,
+              53.2270085
+            ],
+            [
+              10.3979909,
+              53.2266568
+            ],
+            [
+              10.3980243,
+              53.2266618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1095440109",
+      "properties": {
+        "parking": "street_side",
+        "orientation": "parallel",
+        "fee": "no",
+        "surface": "asphalt",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/1095440109",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3978146,
+              53.2270507
+            ],
+            [
+              10.3978489,
+              53.2270559
+            ],
+            [
+              10.3974098,
+              53.2280892
+            ],
+            [
+              10.3973759,
+              53.228084
+            ],
+            [
+              10.3978146,
+              53.2270507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1095440110",
+      "properties": {
+        "parking": "street_side",
+        "orientation": "parallel",
+        "fee": "no",
+        "surface": "asphalt",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/1095440110",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3974023,
+              53.2281316
+            ],
+            [
+              10.3972822,
+              53.2284155
+            ],
+            [
+              10.3972469,
+              53.2284101
+            ],
+            [
+              10.3973671,
+              53.2281263
+            ],
+            [
+              10.3974023,
+              53.2281316
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1095440111",
+      "properties": {
+        "parking": "street_side",
+        "orientation": "parallel",
+        "fee": "no",
+        "surface": "asphalt",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/1095440111",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3970781,
+              53.2288184
+            ],
+            [
+              10.3972158,
+              53.2284861
+            ],
+            [
+              10.3972518,
+              53.2284914
+            ],
+            [
+              10.3971139,
+              53.2288237
+            ],
+            [
+              10.3970781,
+              53.2288184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1095440112",
+      "properties": {
+        "parking": "street_side",
+        "orientation": "parallel",
+        "fee": "no",
+        "surface": "asphalt",
+        "access": "yes",
+        "amenity": "parking",
+        "id": "way/1095440112",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3970474,
+              53.2289882
+            ],
+            [
+              10.3967325,
+              53.2297209
+            ],
+            [
+              10.3966898,
+              53.2297144
+            ],
+            [
+              10.397005,
+              53.2289817
+            ],
+            [
+              10.3970474,
+              53.2289882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152464160",
+      "properties": {
+        "landuse": "flowerbed",
+        "id": "way/1152464160",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4053025,
+              53.2287879
+            ],
+            [
+              10.4051664,
+              53.2287537
+            ],
+            [
+              10.4048806,
+              53.2287655
+            ],
+            [
+              10.4048827,
+              53.2287363
+            ],
+            [
+              10.4051643,
+              53.2287245
+            ],
+            [
+              10.4053202,
+              53.2287668
+            ],
+            [
+              10.4053025,
+              53.2287879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152464167",
+      "properties": {
+        "landuse": "flowerbed",
+        "id": "way/1152464167",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4036914,
+              53.228567
+            ],
+            [
+              10.40384,
+              53.228568
+            ],
+            [
+              10.4038383,
+              53.2286139
+            ],
+            [
+              10.4033959,
+              53.2286099
+            ],
+            [
+              10.4033959,
+              53.228569
+            ],
+            [
+              10.4035061,
+              53.22857
+            ],
+            [
+              10.4035461,
+              53.2285959
+            ],
+            [
+              10.4036914,
+              53.228567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152468634",
+      "properties": {
+        "landuse": "flowerbed",
+        "id": "way/1152468634",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4050219,
+              53.2294842
+            ],
+            [
+              10.4050257,
+              53.2294364
+            ],
+            [
+              10.4050745,
+              53.2294377
+            ],
+            [
+              10.4050707,
+              53.2294856
+            ],
+            [
+              10.4050219,
+              53.2294842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152468635",
+      "properties": {
+        "landuse": "flowerbed",
+        "id": "way/1152468635",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4050999,
+              53.2294869
+            ],
+            [
+              10.4051037,
+              53.2294391
+            ],
+            [
+              10.4051525,
+              53.2294405
+            ],
+            [
+              10.4051488,
+              53.2294883
+            ],
+            [
+              10.4050999,
+              53.2294869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152468636",
+      "properties": {
+        "landuse": "flowerbed",
+        "id": "way/1152468636",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4050999,
+              53.229486
+            ],
+            [
+              10.4051037,
+              53.2294382
+            ],
+            [
+              10.4051525,
+              53.2294396
+            ],
+            [
+              10.4051488,
+              53.2294874
+            ],
+            [
+              10.4050999,
+              53.229486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152468637",
+      "properties": {
+        "landuse": "flowerbed",
+        "id": "way/1152468637",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4051848,
+              53.2294888
+            ],
+            [
+              10.4051885,
+              53.2294409
+            ],
+            [
+              10.4052374,
+              53.2294423
+            ],
+            [
+              10.4052336,
+              53.2294901
+            ],
+            [
+              10.4051848,
+              53.2294888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247881121",
+      "properties": {
+        "access": "private",
+        "parking": "surface",
+        "amenity": "parking",
+        "id": "way/1247881121",
+        "category": "parking",
+        "name": "Parkplatz",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4031206,
+              53.2267287
+            ],
+            [
+              10.4031389,
+              53.2264566
+            ],
+            [
+              10.403218,
+              53.2264582
+            ],
+            [
+              10.4032219,
+              53.2264005
+            ],
+            [
+              10.4033799,
+              53.2264047
+            ],
+            [
+              10.4033577,
+              53.2267344
+            ],
+            [
+              10.4031206,
+              53.2267287
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1267388892",
+      "properties": {
+        "garden:type": "community",
+        "fee": "no",
+        "email": "stud.initiative.essbarer-campus@leuphana.de",
+        "name": "Biotopbeete",
+        "operator": "essbarer Campus Lüneburg",
+        "operator:type": "community",
+        "website": "https://www.instagram.com/essbarercampus_lueneburg/",
+        "access": "yes",
+        "leisure": "garden",
+        "id": "way/1267388892",
+        "category": "green",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4032707,
+              53.2293015
+            ],
+            [
+              10.4032842,
+              53.2291396
+            ],
+            [
+              10.4033578,
+              53.2291378
+            ],
+            [
+              10.4033383,
+              53.2293042
+            ],
+            [
+              10.4032707,
+              53.2293015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1300520575",
+      "properties": {
+        "landuse": "grass",
+        "name:de": "Leuphana Spielwiese",
+        "id": "way/1300520575",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3998687,
+              53.2284952
+            ],
+            [
+              10.3992861,
+              53.2284863
+            ],
+            [
+              10.3992795,
+              53.2283697
+            ],
+            [
+              10.3995601,
+              53.2283104
+            ],
+            [
+              10.3995832,
+              53.2279448
+            ],
+            [
+              10.3996987,
+              53.2279448
+            ],
+            [
+              10.3997301,
+              53.227762
+            ],
+            [
+              10.3998463,
+              53.227742
+            ],
+            [
+              10.4000903,
+              53.2277464
+            ],
+            [
+              10.4001081,
+              53.2276938
+            ],
+            [
+              10.4003979,
+              53.227698
+            ],
+            [
+              10.400368,
+              53.2280273
+            ],
+            [
+              10.4004697,
+              53.228112
+            ],
+            [
+              10.4004217,
+              53.2283588
+            ],
+            [
+              10.4001889,
+              53.2282788
+            ],
+            [
+              10.4001328,
+              53.2282699
+            ],
+            [
+              10.4000767,
+              53.2282758
+            ],
+            [
+              10.4000239,
+              53.2282906
+            ],
+            [
+              10.399981,
+              53.2283301
+            ],
+            [
+              10.3998687,
+              53.2284952
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1303316600",
+      "properties": {
+        "landuse": "grass",
+        "id": "way/1303316600",
+        "category": "green",
+        "name": "",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4053878,
+              53.2286892
+            ],
+            [
+              10.4053211,
+              53.2286775
+            ],
+            [
+              10.4052973,
+              53.2286603
+            ],
+            [
+              10.4053016,
+              53.2284893
+            ],
+            [
+              10.4053275,
+              53.2284652
+            ],
+            [
+              10.405363,
+              53.2284515
+            ],
+            [
+              10.4054113,
+              53.2284475
+            ],
+            [
+              10.4053878,
+              53.2286892
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319266544",
+      "properties": {
+        "name": "Bolzplatz Düvelsbrooker Weg",
+        "hoops": "2",
+        "operator": "Hansestadt Lüneburg",
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "basketball;soccer",
+        "id": "way/1319266544",
+        "category": "sports",
+        "source": "OpenStreetMap",
+        "confidence": "verified"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4062119,
+              53.2294724
+            ],
+            [
+              10.4061597,
+              53.2295932
+            ],
+            [
+              10.4060404,
+              53.2295747
+            ],
+            [
+              10.4060926,
+              53.229454
+            ],
+            [
+              10.4062119,
+              53.2294724
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

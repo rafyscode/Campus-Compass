@@ -3,6 +3,7 @@ export const ROUTE_PATHS = {
   live: '/live',
   forecast: '/forecast',
   campus: '/campus',
+  hardware: '/hardware',
   status: '/status',
   about: '/about',
   privacy: '/privacy',

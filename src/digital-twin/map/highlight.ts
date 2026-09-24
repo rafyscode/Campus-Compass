@@ -1,36 +1,18 @@
-import type { Feature, FeatureCollection, Geometry, GeoJsonProperties } from 'geojson'
-import type { GeoJSONSource, Map, MapGeoJSONFeature } from 'maplibre-gl'
-import { campusPois } from '../data/campus/pois'
-import { findBuildingPoi, getBuildingHeight } from '../utils/buildingSelection'
-
-const EMPTY: FeatureCollection = { type: 'FeatureCollection', features: [] }
-
-function numeric(value: unknown, fallback: number) {
-  if (typeof value !== 'number' && typeof value !== 'string') return fallback
-  if (typeof value === 'string' && value.trim() === '') return fallback
-  const parsed = typeof value === 'number' ? value : Number(value)
-  return Number.isFinite(parsed) && parsed >= 0 ? parsed : fallback
-}
+import type { GeoJSONSource, Map } from 'maplibre-gl';
+import { campusBuildings } from '../data/campus/buildings';
 
 export function clearBuildingHighlight(map: Map) {
-  const source = map.getSource('selected-building') as GeoJSONSource | undefined
-  source?.setData(EMPTY)
+  if (!map.getSource('campus-buildings')) return;
+  map.removeFeatureState({ source: 'campus-buildings' });
+  (map.getSource('selected-building') as GeoJSONSource | undefined)?.setData({ type: 'FeatureCollection', features: [] });
 }
 
-export function highlightBuildingFeature(map: Map, feature: MapGeoJSONFeature) {
-  const source = map.getSource('selected-building') as GeoJSONSource | undefined
-  if (!source) return
-
-  const props = { ...(feature.properties ?? {}) } as GeoJsonProperties & Record<string, unknown>
-  const poi = findBuildingPoi(feature, campusPois)
-  const height = getBuildingHeight(feature, poi) ?? 8
-  props.__height = height
-  props.__base = Math.min(height, numeric(props?.render_min_height, 0))
-
-  const copy: Feature<Geometry> = {
-    type: 'Feature',
-    geometry: feature.geometry as Geometry,
-    properties: props,
-  }
-  source.setData({ type: 'FeatureCollection', features: [copy] })
+/** A stable building ID synchronizes roof color, outline and the clicked label. */
+export function highlightBuilding(map: Map, id: string | null) {
+  clearBuildingHighlight(map);
+  const building = campusBuildings.features.find((feature) => feature.properties.id === id);
+  if (!building) return;
+  for (const feature of campusBuildings.features) map.setFeatureState({ source: 'campus-buildings', id: feature.id ?? feature.properties.id }, { subordinate: feature.properties.id !== id });
+  map.setFeatureState({ source: 'campus-buildings', id: building.id ?? building.properties.id }, { selected: true });
+  (map.getSource('selected-building') as GeoJSONSource).setData({ type: 'FeatureCollection', features: [building] });
 }

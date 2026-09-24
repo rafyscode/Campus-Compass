@@ -1,0 +1,2522 @@
+{
+  "Digital Twin": {
+    "en": "Digital twin",
+    "es": "Gemelo digital",
+    "fr": "Jumeau numérique"
+  },
+  "Gebäude, Raumreferenzen und Fußwege im räumlichen Zusammenhang erkunden.": {
+    "en": "Explore buildings, room references and footpaths in their spatial context.",
+    "es": "Explora edificios, referencias de aulas y caminos en su contexto espacial.",
+    "fr": "Explorez les bâtiments, les références de salles et les chemins dans leur contexte spatial."
+  },
+  "Reale Sensordaten": {
+    "en": "Real sensor data",
+    "es": "Datos reales de sensores",
+    "fr": "Données réelles des capteurs"
+  },
+  "Ein abgeschlossener Messzeitraum macht die Mensa-Auslastung nachvollziehbar.": {
+    "en": "A completed measurement period makes canteen occupancy understandable.",
+    "es": "Un periodo de medición finalizado permite comprender la ocupación del comedor.",
+    "fr": "Une période de mesure terminée permet de comprendre la fréquentation du restaurant universitaire."
+  },
+  "Forecast-System": {
+    "en": "Forecast system",
+    "es": "Sistema de previsión",
+    "fr": "Système de prévision"
+  },
+  "Baselines und ML-Modelle vergleichen; Vorhersagen an späteren Messungen prüfen.": {
+    "en": "Compare baselines and ML models; check predictions against later measurements.",
+    "es": "Compara modelos de referencia y de aprendizaje automático; contrasta las previsiones con mediciones posteriores.",
+    "fr": "Comparez les modèles de référence et d’apprentissage automatique ; confrontez les prévisions aux mesures ultérieures."
+  },
+  "Analytics": {
+    "en": "Analytics",
+    "es": "Análisis",
+    "fr": "Analyse"
+  },
+  "Verläufe, Tagesprofile und Spitzenzeiten aus dem realen Datensatz lesen.": {
+    "en": "Explore trends, daily profiles and peaks in the real dataset.",
+    "es": "Explora tendencias, perfiles diarios y picos del conjunto de datos real.",
+    "fr": "Explorez les tendances, les profils journaliers et les pics du jeu de données réel."
+  },
+  "Über das Projekt": {
+    "en": "About the project",
+    "es": "Sobre el proyecto",
+    "fr": "À propos du projet"
+  },
+  "Ein Campus, der verständlicher wird.": {
+    "en": "A campus that makes more sense.",
+    "es": "Un campus más comprensible.",
+    "fr": "Un campus plus facile à comprendre."
+  },
+  "Campus Compass ist ein studentisches Smart-Campus-Projekt an der Leuphana Universität Lüneburg.": {
+    "en": "Campus Compass is a student smart-campus project at Leuphana Universität Lüneburg.",
+    "es": "Campus Compass es un proyecto estudiantil de campus inteligente de la Leuphana Universität Lüneburg.",
+    "fr": "Campus Compass est un projet étudiant de campus intelligent à la Leuphana Universität Lüneburg."
+  },
+  "Warum": {
+    "en": "Why",
+    "es": "Por qué",
+    "fr": "Pourquoi"
+  },
+  "Weniger Unsicherheit.": {
+    "en": "Less uncertainty.",
+    "es": "Menos incertidumbre.",
+    "fr": "Moins d’incertitude."
+  },
+  "Mehr Orientierung.": {
+    "en": "More orientation.",
+    "es": "Más orientación.",
+    "fr": "Plus de repères."
+  },
+  "Wie voll wird die Mensa sein? Wo ist das nächste Gebäude? Welcher Weg führt dorthin?": {
+    "en": "How busy will the canteen be? Where is the next building? Which way gets me there?",
+    "es": "¿Cómo estará de lleno el comedor? ¿Dónde está el siguiente edificio? ¿Qué camino lleva hasta allí?",
+    "fr": "Quelle sera la fréquentation du restaurant universitaire ? Où se trouve le prochain bâtiment ? Comment y aller ?"
+  },
+  "Campus Compass untersucht, wie Daten solche Alltagsfragen verständlicher machen. Reale Messungen, eine interaktive Karte und ein trainiertes Forecast-System bilden die Grundlage. Die Auslastung wird anhand eines abgeschlossenen Messzeitraums gezeigt.": {
+    "en": "Campus Compass explores how data can clarify everyday questions. Real measurements, an interactive map and a trained forecasting system form the foundation. Occupancy is shown for a completed measurement period.",
+    "es": "Campus Compass explora cómo los datos pueden aclarar preguntas cotidianas. Se basa en mediciones reales, un mapa interactivo y un sistema de previsión entrenado. La ocupación corresponde a un periodo de medición finalizado.",
+    "fr": "Campus Compass étudie comment les données peuvent éclairer les questions du quotidien. Des mesures réelles, une carte interactive et un système de prévision entraîné en constituent la base. La fréquentation affichée concerne une période de mesure terminée."
+  },
+  "Was wir gebaut haben": {
+    "en": "What we built",
+    "es": "Lo que hemos desarrollado",
+    "fr": "Ce que nous avons construit"
+  },
+  "Wie es zusammenkommt": {
+    "en": "How it connects",
+    "es": "Cómo se conecta",
+    "fr": "Comment tout s’articule"
+  },
+  "Sensor": {
+    "en": "Sensor",
+    "es": "Sensor",
+    "fr": "Capteur"
+  },
+  "Daten": {
+    "en": "Data",
+    "es": "Datos",
+    "fr": "Données"
+  },
+  "Prognose": {
+    "en": "Prediction",
+    "es": "Previsión",
+    "fr": "Prévision"
+  },
+  "Orientierung": {
+    "en": "Orientation",
+    "es": "Orientación",
+    "fr": "Orientation"
+  },
+  "Projektteam": {
+    "en": "Project team",
+    "es": "Equipo del proyecto",
+    "fr": "Équipe du projet"
+  },
+  "Drei Perspektiven.": {
+    "en": "Three perspectives.",
+    "es": "Tres perspectivas.",
+    "fr": "Trois perspectives."
+  },
+  "Ein Campus.": {
+    "en": "One campus.",
+    "es": "Un campus.",
+    "fr": "Un campus."
+  },
+  "Der Rhythmus der Mensa.": {
+    "en": "The rhythm of the canteen.",
+    "es": "El ritmo del comedor.",
+    "fr": "Le rythme du restaurant universitaire."
+  },
+  "Auslastung, Tagesprofile und Spitzenzeiten aus dem abgeschlossenen realen Messzeitraum.": {
+    "en": "Occupancy, daily profiles and peaks from the completed real measurement period.",
+    "es": "Ocupación, perfiles diarios y horas punta del periodo real de medición finalizado.",
+    "fr": "Fréquentation, profils journaliers et pics issus de la période réelle de mesure terminée."
+  },
+  "Mensa · Zentralcampus": {
+    "en": "Canteen · Central campus",
+    "es": "Comedor · Campus central",
+    "fr": "Restaurant universitaire · Campus central"
+  },
+  "Messdaten als CSV herunterladen ↓": {
+    "en": "Download measurements as CSV ↓",
+    "es": "Descargar mediciones en CSV ↓",
+    "fr": "Télécharger les mesures en CSV ↓"
+  },
+  "Reale Messpunkte": {
+    "en": "Real measurement points",
+    "es": "Puntos de medición reales",
+    "fr": "Points de mesure réels"
+  },
+  "Originalzeitstempel": {
+    "en": "Original timestamps",
+    "es": "Marcas de tiempo originales",
+    "fr": "Horodatages d’origine"
+  },
+  "3-Minuten-Raster": {
+    "en": "3-minute grid",
+    "es": "Intervalos de 3 minutos",
+    "fr": "Pas de 3 minutes"
+  },
+  "Abdeckung im Messintervall": {
+    "en": "Coverage within the measurement interval",
+    "es": "Cobertura en el intervalo de medición",
+    "fr": "Couverture de l’intervalle de mesure"
+  },
+  "Historischer Peak": {
+    "en": "Historical peak",
+    "es": "Máximo histórico",
+    "fr": "Pic historique"
+  },
+  "von 734 Plätzen": {
+    "en": "of 734 places",
+    "es": "de 734 plazas",
+    "fr": "sur 734 places"
+  },
+  "Ø während Öffnungszeit": {
+    "en": "Average during opening hours",
+    "es": "Media durante el horario de apertura",
+    "fr": "Moyenne pendant l’ouverture"
+  },
+  "Personen ·": {
+    "en": "People ·",
+    "es": "Personas ·",
+    "fr": "Personnes ·"
+  },
+  "Messwerte": {
+    "en": "measurements",
+    "es": "mediciones",
+    "fr": "mesures"
+  },
+  "Auslastung über den Messzeitraum": {
+    "en": "Occupancy across the measurement period",
+    "es": "Ocupación durante el periodo de medición",
+    "fr": "Fréquentation sur la période de mesure"
+  },
+  "Reale Zählwerte, zu stündlichen Mittelwerten zusammengefasst.": {
+    "en": "Real counts, aggregated into hourly averages.",
+    "es": "Recuentos reales agregados en medias horarias.",
+    "fr": "Comptages réels regroupés en moyennes horaires."
+  },
+  "So sind die Werte zu lesen": {
+    "en": "How to read these values",
+    "es": "Cómo interpretar los valores",
+    "fr": "Comment lire ces valeurs"
+  },
+  "Die Profile mitteln die vorhandenen Messwerte, nicht die Anzahl der Besuche. Für Öffnungszeiten gilt die Betriebsregel": {
+    "en": "Profiles average the available measurements, not the number of visits. The opening-hours rule is",
+    "es": "Los perfiles promedian las mediciones disponibles, no el número de visitas. La regla de apertura es",
+    "fr": "Les profils font la moyenne des mesures disponibles, pas du nombre de visites. La règle d’ouverture est"
+  },
+  "erwartete Rasterpunkte;": {
+    "en": "expected grid points;",
+    "es": "puntos de intervalo esperados;",
+    "fr": "points attendus ;"
+  },
+  "doppelte Zeitstempel;": {
+    "en": "duplicate timestamps;",
+    "es": "marcas de tiempo duplicadas;",
+    "fr": "horodatages en double ;"
+  },
+  "Werte außerhalb des Rasters. Die Abdeckung zählt eindeutig besetzte 3-Minuten-Slots zwischen erster und letzter Messung.": {
+    "en": "values outside the grid. Coverage counts uniquely occupied 3-minute slots between the first and last measurement.",
+    "es": "valores fuera del intervalo. La cobertura cuenta intervalos únicos de 3 minutos con datos entre la primera y la última medición.",
+    "fr": "valeurs hors du pas. La couverture compte les créneaux uniques de 3 minutes occupés entre la première et la dernière mesure."
+  },
+  "Die zehn höchsten Messwerte": {
+    "en": "The ten highest measurements",
+    "es": "Las diez mediciones más altas",
+    "fr": "Les dix mesures les plus élevées"
+  },
+  "Einzelbeobachtungen im ursprünglichen Messzeitraum.": {
+    "en": "Individual observations in the original measurement period.",
+    "es": "Observaciones individuales del periodo de medición original.",
+    "fr": "Observations individuelles dans la période de mesure d’origine."
+  },
+  "Zeitpunkt · Berlin": {
+    "en": "Timestamp · Berlin",
+    "es": "Fecha y hora · Berlín",
+    "fr": "Date et heure · Berlin"
+  },
+  "Personen": {
+    "en": "People",
+    "es": "Personas",
+    "fr": "Personnes"
+  },
+  "Anteil": {
+    "en": "Share",
+    "es": "Proporción",
+    "fr": "Part"
+  },
+  "Campus · Digital Twin": {
+    "en": "Campus · Digital twin",
+    "es": "Campus · Gemelo digital",
+    "fr": "Campus · Jumeau numérique"
+  },
+  "Ein Ort. Viele Perspektiven.": {
+    "en": "One place. Many perspectives.",
+    "es": "Un lugar. Muchas perspectivas.",
+    "fr": "Un lieu. Plusieurs perspectives."
+  },
+  "Gebäude finden, Wege planen und den Leuphana-Campus in 3D oder im Luftbild entdecken.": {
+    "en": "Find buildings, plan routes and explore the Leuphana campus in 3D or aerial imagery.",
+    "es": "Encuentra edificios, planifica rutas y explora el campus de Leuphana en 3D o con imágenes aéreas.",
+    "fr": "Trouvez les bâtiments, planifiez vos trajets et explorez le campus de Leuphana en 3D ou en vue aérienne."
+  },
+  "Historischer Mensa-Messwert": {
+    "en": "Historical canteen measurement",
+    "es": "Medición histórica del comedor",
+    "fr": "Mesure historique du restaurant universitaire"
+  },
+  "Mensa · Historischer Sensordatensatz": {
+    "en": "Canteen · Historical sensor dataset",
+    "es": "Comedor · Datos históricos de sensores",
+    "fr": "Restaurant universitaire · Données historiques des capteurs"
+  },
+  "Letzte reale Messung": {
+    "en": "Last real measurement",
+    "es": "Última medición real",
+    "fr": "Dernière mesure réelle"
+  },
+  "Forecast Replay öffnen →": {
+    "en": "Open forecast replay →",
+    "es": "Abrir la reproducción de previsiones →",
+    "fr": "Ouvrir la relecture des prévisions →"
+  },
+  "Geodaten und Quellen": {
+    "en": "Geodata and sources",
+    "es": "Geodatos y fuentes",
+    "fr": "Géodonnées et sources"
+  },
+  "Die Grundkarte wird von OpenFreeMap geladen. Lokale Gebäudegrundrisse und Wege basieren auf OpenStreetMap und dem Campusplan. Luftbilder stammen vom LGLN. Gebäudehöhen sind je nach Quelle abgeleitet oder geschätzt; die Ansicht ersetzt keine Vermessung. Karte und Luftbilder benötigen eine Internetverbindung.": {
+    "en": "The basemap is loaded from OpenFreeMap. Local building footprints and paths are based on OpenStreetMap and the campus plan. Aerial imagery comes from LGLN. Building heights are derived or estimated depending on the source; this view is not a survey. Maps and aerial imagery require an internet connection.",
+    "es": "El mapa base se carga desde OpenFreeMap. Los contornos de edificios y caminos locales se basan en OpenStreetMap y el plano del campus. Las imágenes aéreas proceden del LGLN. Las alturas se deducen o estiman según la fuente; esta vista no sustituye una medición topográfica. Se necesita conexión a internet.",
+    "fr": "Le fond de carte provient d’OpenFreeMap. Les contours locaux des bâtiments et les chemins reposent sur OpenStreetMap et le plan du campus. Les vues aériennes proviennent du LGLN. Les hauteurs sont déduites ou estimées selon la source ; cette vue ne remplace pas un relevé topographique. Une connexion internet est nécessaire."
+  },
+  "Offizieller Lageplan ↗": {
+    "en": "Official campus plan ↗",
+    "es": "Plano oficial del campus ↗",
+    "fr": "Plan officiel du campus ↗"
+  },
+  "Forecast & ML": {
+    "en": "Forecast & ML",
+    "es": "Previsión y aprendizaje automático",
+    "fr": "Prévision et apprentissage automatique"
+  },
+  "Historischer Forecast-Replay": {
+    "en": "Historical forecast replay",
+    "es": "Reproducción histórica de previsiones",
+    "fr": "Relecture historique des prévisions"
+  },
+  "Was hätte das Forecast-System zu diesem Zeitpunkt über die nächsten zwei Stunden vorhergesagt – und was ist tatsächlich passiert?": {
+    "en": "What would the forecasting system have predicted for the next two hours at that point — and what actually happened?",
+    "es": "¿Qué habría previsto el sistema en ese momento para las dos horas siguientes y qué ocurrió realmente?",
+    "fr": "Qu’aurait prévu le système à ce moment-là pour les deux heures suivantes, et que s’est-il réellement passé ?"
+  },
+  "16. Juli 2026": {
+    "en": "16 July 2026",
+    "es": "16 de julio de 2026",
+    "fr": "16 juillet 2026"
+  },
+  "Trainingsmessungen": {
+    "en": "training measurements",
+    "es": "mediciones de entrenamiento",
+    "fr": "mesures d’entraînement"
+  },
+  "5 Horizonte · 2 Stunden": {
+    "en": "5 horizons · 2 hours",
+    "es": "5 horizontes · 2 horas",
+    "fr": "5 horizons · 2 heures"
+  },
+  "Der Vergleich": {
+    "en": "The comparison",
+    "es": "La comparación",
+    "fr": "La comparaison"
+  },
+  "Prediction vs. Reality": {
+    "en": "Prediction vs. reality",
+    "es": "Predicción y realidad",
+    "fr": "Prévision et réalité"
+  },
+  "Replay zurücksetzen": {
+    "en": "Reset replay",
+    "es": "Restablecer reproducción",
+    "fr": "Réinitialiser la relecture"
+  },
+  "Realität aufdecken": {
+    "en": "Reveal reality",
+    "es": "Mostrar la realidad",
+    "fr": "Révéler la réalité"
+  },
+  "Die später gemessenen Zählwerte sind eingeblendet.": {
+    "en": "The counts measured later are now visible.",
+    "es": "Ahora se muestran los recuentos medidos posteriormente.",
+    "fr": "Les comptages mesurés ultérieurement sont affichés."
+  },
+  "Die Vorhersage steht. Blende die späteren Messungen zum Vergleich ein.": {
+    "en": "The prediction is fixed. Reveal the later measurements to compare.",
+    "es": "La previsión está fijada. Muestra las mediciones posteriores para compararlas.",
+    "fr": "La prévision est figée. Affichez les mesures ultérieures pour comparer."
+  },
+  "Ø Fehler in diesem Replay": {
+    "en": "Average error in this replay",
+    "es": "Error medio en esta reproducción",
+    "fr": "Erreur moyenne de cette relecture"
+  },
+  "Personen · absolute Abweichung": {
+    "en": "People · absolute deviation",
+    "es": "Personas · desviación absoluta",
+    "fr": "Personnes · écart absolu"
+  },
+  "Ø absoluter Fehler": {
+    "en": "Mean absolute error",
+    "es": "Error absoluto medio",
+    "fr": "Erreur absolue moyenne"
+  },
+  "bezogen auf 734 Plätze": {
+    "en": "relative to 734 places",
+    "es": "respecto a 734 plazas",
+    "fr": "par rapport à 734 places"
+  },
+  "3 von 5": {
+    "en": "3 of 5",
+    "es": "3 de 5",
+    "fr": "3 sur 5"
+  },
+  "Horizonten · zwei Baselines": {
+    "en": "horizons · two baselines",
+    "es": "horizontes · dos modelos de referencia",
+    "fr": "horizons · deux modèles de référence"
+  },
+  "+120 Minuten": {
+    "en": "+120 minutes",
+    "es": "+120 minutos",
+    "fr": "+120 minutes"
+  },
+  "0 Personen": {
+    "en": "0 people",
+    "es": "0 personas",
+    "fr": "0 personne"
+  },
+  "exakter Zählwert nach Rundung": {
+    "en": "exact count after rounding",
+    "es": "recuento exacto tras redondear",
+    "fr": "comptage exact après arrondi"
+  },
+  "Die fünf Horizonte im Detail": {
+    "en": "The five horizons in detail",
+    "es": "Los cinco horizontes en detalle",
+    "fr": "Les cinq horizons en détail"
+  },
+  "Die Kennzahlen beschreiben diesen einzelnen Replay, nicht die allgemeine Modellgüte.": {
+    "en": "These metrics describe this single replay, not overall model performance.",
+    "es": "Estas métricas describen esta reproducción concreta, no la calidad general del modelo.",
+    "fr": "Ces indicateurs décrivent cette seule relecture, pas la qualité générale du modèle."
+  },
+  "Replay-Vergleich": {
+    "en": "Replay comparison",
+    "es": "Comparación de la reproducción",
+    "fr": "Comparaison de la relecture"
+  },
+  "Vorhersagen und gemessene Werte des historischen Replays": {
+    "en": "Predictions and measured values from the historical replay",
+    "es": "Predicciones y valores medidos de la reproducción histórica",
+    "fr": "Prévisions et valeurs mesurées de la relecture historique"
+  },
+  "Horizont": {
+    "en": "Horizon",
+    "es": "Horizonte",
+    "fr": "Horizon"
+  },
+  "Modell": {
+    "en": "Model",
+    "es": "Modelo",
+    "fr": "Modèle"
+  },
+  "Forecast": {
+    "en": "Forecast",
+    "es": "Previsión",
+    "fr": "Prévision"
+  },
+  "Realität": {
+    "en": "Reality",
+    "es": "Realidad",
+    "fr": "Réalité"
+  },
+  "Abweichung": {
+    "en": "Deviation",
+    "es": "Desviación",
+    "fr": "Écart"
+  },
+  "Pers.": {
+    "en": "people",
+    "es": "pers.",
+    "fr": "pers."
+  },
+  "Prozentwerte sind gespeicherte Modelloutputs; Personenzahlen wurden daraus gerundet. Die Vergleichsmessung liegt jeweils eine Minute vor der Zielzeit.": {
+    "en": "Percentages are stored model outputs; person counts were rounded from them. Each comparison measurement is one minute before its target time.",
+    "es": "Los porcentajes son resultados almacenados del modelo; los recuentos de personas se redondearon a partir de ellos. Cada medición de comparación se sitúa un minuto antes de la hora objetivo.",
+    "fr": "Les pourcentages sont les sorties enregistrées du modèle ; les nombres de personnes ont été arrondis à partir de ces valeurs. Chaque mesure de comparaison précède d’une minute l’heure cible."
+  },
+  "Nachvollziehbare Prognosen": {
+    "en": "Traceable predictions",
+    "es": "Previsiones trazables",
+    "fr": "Prévisions traçables"
+  },
+  "So funktioniert": {
+    "en": "How",
+    "es": "Cómo funciona",
+    "fr": "Comment fonctionne"
+  },
+  "die Modellwahl.": {
+    "en": "model selection works.",
+    "es": "la selección de modelos.",
+    "fr": "la sélection du modèle."
+  },
+  "Methodik und Modellvergleich": {
+    "en": "Methodology and model comparison",
+    "es": "Metodología y comparación de modelos",
+    "fr": "Méthodologie et comparaison des modèles"
+  },
+  "Feature Engineering": {
+    "en": "Feature engineering",
+    "es": "Ingeniería de características",
+    "fr": "Construction des variables"
+  },
+  "Chronologische Validierung": {
+    "en": "Chronological validation",
+    "es": "Validación cronológica",
+    "fr": "Validation chronologique"
+  },
+  "Modellvergleich je Horizont": {
+    "en": "Model comparison per horizon",
+    "es": "Comparación de modelos por horizonte",
+    "fr": "Comparaison des modèles par horizon"
+  },
+  "Vergleich mit späterer Messung": {
+    "en": "Comparison with later measurements",
+    "es": "Comparación con mediciones posteriores",
+    "fr": "Comparaison avec les mesures ultérieures"
+  },
+  "Bei +15 und +30 Minuten gewinnt die Previous-value Baseline. Für die längeren Horizonte wird Random Forest gewählt. Entscheidend ist der Fehler in der zeitlichen Validierung, nicht die Komplexität des Modells.": {
+    "en": "The previous-value baseline wins at +15 and +30 minutes. Random Forest is selected for longer horizons. The deciding factor is the error in time-based validation, not model complexity.",
+    "es": "El modelo de referencia de valor anterior gana a +15 y +30 minutos. Para horizontes más largos se selecciona Random Forest. Lo decisivo es el error en la validación temporal, no la complejidad del modelo.",
+    "fr": "Le modèle de référence basé sur la valeur précédente l’emporte à +15 et +30 minutes. Random Forest est retenu pour les horizons plus longs. Le critère décisif est l’erreur en validation temporelle, pas la complexité du modèle."
+  },
+  "Replay-Zeitstempel und Prognoseintervalle": {
+    "en": "Replay timestamps and prediction intervals",
+    "es": "Marcas de tiempo e intervalos de previsión",
+    "fr": "Horodatages et intervalles de prévision"
+  },
+  "Letzte Rohmessung im Trainingsbestand:": {
+    "en": "Last raw training measurement:",
+    "es": "Última medición bruta de entrenamiento:",
+    "fr": "Dernière mesure brute d’entraînement :"
+  },
+  "(10:27 UTC). Das bestehende Modell arbeitet mit 5-Minuten-Zeitfenstern; sein gespeicherter Prognosebezugspunkt ist": {
+    "en": "(10:27 UTC). The existing model uses 5-minute buckets; its stored forecast reference time is",
+    "es": "(10:27 UTC). El modelo existente usa intervalos de 5 minutos; su hora de referencia de previsión almacenada es",
+    "fr": "(10:27 UTC). Le modèle existant utilise des créneaux de 5 minutes ; son heure de référence enregistrée est"
+  },
+  "(10:25 UTC). Der Replay ist eine historische Auswertung dieses gespeicherten Modellstands.": {
+    "en": "(10:25 UTC). This replay is a historical evaluation of that stored model state.",
+    "es": "(10:25 UTC). Esta reproducción es una evaluación histórica de ese estado almacenado del modelo.",
+    "fr": "(10:25 UTC). Cette relecture est une évaluation historique de cet état enregistré du modèle."
+  },
+  "Replay-Zeitpunkte und Intervalle": {
+    "en": "Replay times and intervals",
+    "es": "Horas e intervalos de la reproducción",
+    "fr": "Heures et intervalles de la relecture"
+  },
+  "Zielzeit (Berlin)": {
+    "en": "Target time (Berlin)",
+    "es": "Hora objetivo (Berlín)",
+    "fr": "Heure cible (Berlin)"
+  },
+  "Messzeit (Berlin)": {
+    "en": "Measurement time (Berlin)",
+    "es": "Hora de medición (Berlín)",
+    "fr": "Heure de mesure (Berlin)"
+  },
+  "Prognoseintervall": {
+    "en": "Prediction interval",
+    "es": "Intervalo de previsión",
+    "fr": "Intervalle de prévision"
+  },
+  "Die Intervalle beruhen auf dem 90-%-Quantil absoluter Validierungsfehler. Sie sind keine Garantie für einzelne Vorhersagen.": {
+    "en": "The intervals use the 90th percentile of absolute validation errors. They do not guarantee individual predictions.",
+    "es": "Los intervalos se basan en el percentil 90 de los errores absolutos de validación. No garantizan previsiones individuales.",
+    "fr": "Les intervalles reposent sur le 90e percentile des erreurs absolues de validation. Ils ne garantissent pas les prévisions individuelles."
+  },
+  "Reale Campusdaten.": {
+    "en": "Real campus data.",
+    "es": "Datos reales del campus.",
+    "fr": "Des données réelles du campus."
+  },
+  "Verständliche Entscheidungen.": {
+    "en": "Informed decisions.",
+    "es": "Decisiones informadas.",
+    "fr": "Des décisions éclairées."
+  },
+  "Campus Compass verbindet reale Sensormessungen, Forecasting und einen interaktiven Digital Twin des Leuphana-Campus.": {
+    "en": "Campus Compass connects real sensor measurements, forecasting and an interactive digital twin of the Leuphana campus.",
+    "es": "Campus Compass conecta mediciones reales de sensores, previsiones y un gemelo digital interactivo del campus de Leuphana.",
+    "fr": "Campus Compass relie des mesures réelles de capteurs, des prévisions et un jumeau numérique interactif du campus de Leuphana."
+  },
+  "Forecast Replay ansehen": {
+    "en": "View forecast replay",
+    "es": "Ver reproducción de previsiones",
+    "fr": "Voir la relecture des prévisions"
+  },
+  "Campus entdecken": {
+    "en": "Explore the campus",
+    "es": "Explorar el campus",
+    "fr": "Explorer le campus"
+  },
+  "reale Messungen": {
+    "en": "real measurements",
+    "es": "mediciones reales",
+    "fr": "mesures réelles"
+  },
+  "Forecast Replay verfügbar": {
+    "en": "Forecast replay available",
+    "es": "Reproducción de previsiones disponible",
+    "fr": "Relecture des prévisions disponible"
+  },
+  "Die Mensa im Messzeitraum": {
+    "en": "The canteen during the measurement period",
+    "es": "El comedor durante el periodo de medición",
+    "fr": "Le restaurant universitaire pendant la période de mesure"
+  },
+  "Ein Campus hat seinen Rhythmus.": {
+    "en": "A campus has its own rhythm.",
+    "es": "Un campus tiene su propio ritmo.",
+    "fr": "Un campus a son propre rythme."
+  },
+  "Daten erkunden": {
+    "en": "Explore the data",
+    "es": "Explorar los datos",
+    "fr": "Explorer les données"
+  },
+  "Historischer Höchstwert": {
+    "en": "Historical maximum",
+    "es": "Máximo histórico",
+    "fr": "Maximum historique"
+  },
+  "der Referenzkapazität": {
+    "en": "of reference capacity",
+    "es": "de la capacidad de referencia",
+    "fr": "de la capacité de référence"
+  },
+  "Kapazitätsreferenz": {
+    "en": "Reference capacity",
+    "es": "Capacidad de referencia",
+    "fr": "Capacité de référence"
+  },
+  "Plätze in der Mensa": {
+    "en": "places in the canteen",
+    "es": "plazas en el comedor",
+    "fr": "places au restaurant universitaire"
+  },
+  "Daten, die sich erklären lassen": {
+    "en": "Data you can understand",
+    "es": "Datos comprensibles",
+    "fr": "Des données compréhensibles"
+  },
+  "Vom Sensor": {
+    "en": "From sensor",
+    "es": "Del sensor",
+    "fr": "Du capteur"
+  },
+  "zur Vorhersage.": {
+    "en": "to prediction.",
+    "es": "a la previsión.",
+    "fr": "à la prévision."
+  },
+  "Wie gut lässt sich der nächste Mensabesuch vorausdenken?": {
+    "en": "How well can we anticipate the next canteen visit?",
+    "es": "¿Hasta qué punto podemos anticipar la próxima visita al comedor?",
+    "fr": "Dans quelle mesure peut-on anticiper la prochaine visite au restaurant universitaire ?"
+  },
+  "Im historischen Replay trifft eine eingefrorene Vorhersage auf das, was später gemessen wurde. Fünf Horizonte zeigen, wann eine einfache Baseline genügt und wann Random Forest besser abschneidet.": {
+    "en": "In the historical replay, a frozen prediction meets what was measured later. Five horizons show when a simple baseline is sufficient and when Random Forest performs better.",
+    "es": "En la reproducción histórica, una previsión fijada se compara con lo medido después. Cinco horizontes muestran cuándo basta un modelo de referencia sencillo y cuándo funciona mejor Random Forest.",
+    "fr": "Dans la relecture historique, une prévision figée rencontre les mesures ultérieures. Cinq horizons montrent quand un modèle de référence simple suffit et quand Random Forest est plus performant."
+  },
+  "Vorhersage und Realität vergleichen": {
+    "en": "Compare prediction and reality",
+    "es": "Comparar previsión y realidad",
+    "fr": "Comparer prévision et réalité"
+  },
+  "Den Campus im Zusammenhang sehen.": {
+    "en": "See the campus in context.",
+    "es": "Ver el campus en contexto.",
+    "fr": "Voir le campus dans son ensemble."
+  },
+  "Gebäude finden. Wege planen. Perspektive wechseln.": {
+    "en": "Find buildings. Plan routes. Change perspective.",
+    "es": "Encuentra edificios. Planifica rutas. Cambia de perspectiva.",
+    "fr": "Trouvez les bâtiments. Planifiez vos trajets. Changez de perspective."
+  },
+  "Messstatus": {
+    "en": "Measurement status",
+    "es": "Estado de medición",
+    "fr": "État des mesures"
+  },
+  "Ein abgeschlossener Messzeitraum.": {
+    "en": "A completed measurement period.",
+    "es": "Un periodo de medición finalizado.",
+    "fr": "Une période de mesure terminée."
+  },
+  "Die reale Erfassung ist beendet. Die aufgezeichneten Messungen bleiben für Analyse und Forecast-Replay verfügbar.": {
+    "en": "Real data collection has ended. The recorded measurements remain available for analysis and forecast replay.",
+    "es": "La recogida de datos reales ha finalizado. Las mediciones registradas siguen disponibles para el análisis y la reproducción de previsiones.",
+    "fr": "La collecte réelle est terminée. Les mesures enregistrées restent disponibles pour l’analyse et la relecture des prévisions."
+  },
+  "Den Messzeitraum erkunden →": {
+    "en": "Explore the measurement period →",
+    "es": "Explorar el periodo de medición →",
+    "fr": "Explorer la période de mesure →"
+  },
+  "Anteil an der Kapazität": {
+    "en": "Share of capacity",
+    "es": "Proporción de la capacidad",
+    "fr": "Part de la capacité"
+  },
+  "Referenz: 734 Plätze": {
+    "en": "Reference: 734 places",
+    "es": "Referencia: 734 plazas",
+    "fr": "Référence : 734 places"
+  },
+  "Reale Messungen": {
+    "en": "Real measurements",
+    "es": "Mediciones reales",
+    "fr": "Mesures réelles"
+  },
+  "aus Supabase": {
+    "en": "from Supabase",
+    "es": "de Supabase",
+    "fr": "depuis Supabase"
+  },
+  "Beginn der Erfassung": {
+    "en": "Start of data collection",
+    "es": "Inicio de la recogida de datos",
+    "fr": "Début de la collecte"
+  },
+  "Messphase abgeschlossen": {
+    "en": "Measurement phase completed",
+    "es": "Fase de medición finalizada",
+    "fr": "Phase de mesure terminée"
+  },
+  "Die letzten zwei Stunden der Messphase": {
+    "en": "The final two hours of the measurement phase",
+    "es": "Las dos últimas horas de la fase de medición",
+    "fr": "Les deux dernières heures de la phase de mesure"
+  },
+  "Letzte fünf Messungen anzeigen": {
+    "en": "Show the last five measurements",
+    "es": "Mostrar las cinco últimas mediciones",
+    "fr": "Afficher les cinq dernières mesures"
+  },
+  "Mensa-Zeitplan": {
+    "en": "Canteen opening hours",
+    "es": "Horario del comedor",
+    "fr": "Horaires du restaurant universitaire"
+  },
+  "Diese Betriebsregel ordnet die historischen Messungen ein. Sie beschreibt keinen aktuellen Sensorbetrieb.": {
+    "en": "This operating rule provides context for the historical measurements. It does not describe current sensor operation.",
+    "es": "Esta regla de funcionamiento contextualiza las mediciones históricas. No describe un funcionamiento actual del sensor.",
+    "fr": "Cette règle de fonctionnement contextualise les mesures historiques. Elle ne décrit pas un fonctionnement actuel du capteur."
+  },
+  "Aggregierte reale Zählwerte mit Originalzeitstempel. Die Messphase ist abgeschlossen.": {
+    "en": "Aggregated real counts with original timestamps. The measurement phase is complete.",
+    "es": "Recuentos reales agregados con marcas de tiempo originales. La fase de medición ha finalizado.",
+    "fr": "Comptages réels agrégés avec leurs horodatages d’origine. La phase de mesure est terminée."
+  },
+  "Speichert die historischen Messungen; die Web-App liest Zählwert und Zeitpunkt.": {
+    "en": "Stores historical measurements; the web app reads counts and timestamps.",
+    "es": "Almacena mediciones históricas; la aplicación lee recuentos y marcas de tiempo.",
+    "fr": "Stocke les mesures historiques ; l’application lit les comptages et les horodatages."
+  },
+  "Datenprüfung": {
+    "en": "Data validation",
+    "es": "Validación de datos",
+    "fr": "Vérification des données"
+  },
+  "Zeitstempel, Wertebereich, Duplikate und Rasterabdeckung werden überprüft.": {
+    "en": "Timestamps, value ranges, duplicates and grid coverage are checked.",
+    "es": "Se comprueban las marcas de tiempo, los rangos de valores, los duplicados y la cobertura de los intervalos.",
+    "fr": "Les horodatages, les plages de valeurs, les doublons et la couverture du pas sont vérifiés."
+  },
+  "Zeitmerkmale, verzögerte Werte, gleitende Mittelwerte, Streuung und Trend auf einem 5-Minuten-Raster.": {
+    "en": "Time features, lagged values, rolling means, variation and trends on a 5-minute grid.",
+    "es": "Características temporales, valores retardados, medias móviles, dispersión y tendencia en intervalos de 5 minutos.",
+    "fr": "Variables temporelles, valeurs décalées, moyennes mobiles, dispersion et tendance au pas de 5 minutes."
+  },
+  "Modellwahl": {
+    "en": "Model selection",
+    "es": "Selección de modelos",
+    "fr": "Sélection du modèle"
+  },
+  "Drei Baselines, Ridge, Random Forest und Histogram Gradient Boosting im chronologischen Vergleich.": {
+    "en": "Three baselines, Ridge, Random Forest and Histogram Gradient Boosting in chronological comparison.",
+    "es": "Tres modelos de referencia, Ridge, Random Forest e Histogram Gradient Boosting en una comparación cronológica.",
+    "fr": "Trois modèles de référence, Ridge, Random Forest et Histogram Gradient Boosting comparés chronologiquement."
+  },
+  "Das gewählte Modell erzeugt einen eigenen Output für jeden der fünf Horizonte.": {
+    "en": "The selected model produces a separate output for each of the five horizons.",
+    "es": "El modelo seleccionado genera un resultado propio para cada uno de los cinco horizontes.",
+    "fr": "Le modèle retenu produit une sortie distincte pour chacun des cinq horizons."
+  },
+  "Evaluation": {
+    "en": "Evaluation",
+    "es": "Evaluación",
+    "fr": "Évaluation"
+  },
+  "Ein zeitlicher Holdout und ein einzelner historischer Replay betrachten unterschiedliche Ausschnitte.": {
+    "en": "A temporal holdout and a single historical replay examine different subsets.",
+    "es": "Un conjunto de prueba temporal y una reproducción histórica individual examinan subconjuntos distintos.",
+    "fr": "Un jeu de test temporel et une relecture historique unique portent sur des sous-ensembles différents."
+  },
+  "Web-App": {
+    "en": "Web app",
+    "es": "Aplicación web",
+    "fr": "Application web"
+  },
+  "Stellt Vorhersagen, spätere Messungen und ihre Abweichungen gegenüber.": {
+    "en": "Compares predictions, later measurements and their deviations.",
+    "es": "Compara previsiones, mediciones posteriores y sus desviaciones.",
+    "fr": "Compare les prévisions, les mesures ultérieures et leurs écarts."
+  },
+  "Methodik & ML": {
+    "en": "Methodology & ML",
+    "es": "Metodología y aprendizaje automático",
+    "fr": "Méthodologie et apprentissage automatique"
+  },
+  "Vom Sensorsignal zur Prognose.": {
+    "en": "From sensor signal to prediction.",
+    "es": "De la señal del sensor a la previsión.",
+    "fr": "Du signal du capteur à la prévision."
+  },
+  "Jeder Verarbeitungsschritt bleibt nachvollziehbar. Ein komplexeres Modell ist nur dann besser, wenn es im zeitlichen Vergleich besser abschneidet.": {
+    "en": "Every processing step remains traceable. A more complex model is only better if it performs better in chronological comparison.",
+    "es": "Cada paso del procesamiento es trazable. Un modelo más complejo solo es mejor si obtiene mejores resultados en la comparación temporal.",
+    "fr": "Chaque étape du traitement reste traçable. Un modèle plus complexe n’est meilleur que s’il est plus performant dans la comparaison temporelle."
+  },
+  "Datenpipeline": {
+    "en": "Data pipeline",
+    "es": "Flujo de datos",
+    "fr": "Chaîne de traitement des données"
+  },
+  "Der gespeicherte Replay-Modellstand": {
+    "en": "The stored replay model state",
+    "es": "El estado almacenado del modelo de reproducción",
+    "fr": "L’état enregistré du modèle de relecture"
+  },
+  "Trainingsbestand": {
+    "en": "Training data",
+    "es": "Datos de entrenamiento",
+    "fr": "Données d’entraînement"
+  },
+  "reale Rohmessungen": {
+    "en": "real raw measurements",
+    "es": "mediciones brutas reales",
+    "fr": "mesures brutes réelles"
+  },
+  "Letzter Rohdaten-Zeitpunkt": {
+    "en": "Last raw-data timestamp",
+    "es": "Última marca temporal de los datos brutos",
+    "fr": "Dernier horodatage des données brutes"
+  },
+  "10:27 UTC · 12:27 Uhr Berlin": {
+    "en": "10:27 UTC · 12:27 Berlin time",
+    "es": "10:27 UTC · 12:27 hora de Berlín",
+    "fr": "10:27 UTC · 12:27 heure de Berlin"
+  },
+  "Chronologisch": {
+    "en": "Chronological",
+    "es": "Cronológica",
+    "fr": "Chronologique"
+  },
+  "kein zufälliges Mischen": {
+    "en": "no random shuffling",
+    "es": "sin mezcla aleatoria",
+    "fr": "sans mélange aléatoire"
+  },
+  "Vergleichen statt voraussetzen": {
+    "en": "Compare rather than assume",
+    "es": "Comparar antes de presuponer",
+    "fr": "Comparer avant de supposer"
+  },
+  "Das beste Modell.": {
+    "en": "The best model.",
+    "es": "El mejor modelo.",
+    "fr": "Le meilleur modèle."
+  },
+  "Für jeden Horizont.": {
+    "en": "For each horizon.",
+    "es": "Para cada horizonte.",
+    "fr": "Pour chaque horizon."
+  },
+  "Die Modellwahl nutzt drei zeitlich aufeinanderfolgende Validierungsfenster mit wachsendem Trainingsbestand. Gewählt wird der geringste mittlere absolute Fehler. Die letzten 17 % der aufbereiteten Daten bilden den anschließenden Testabschnitt.": {
+    "en": "Model selection uses three consecutive validation windows with an expanding training set. The lowest mean absolute error wins. The final 17% of the processed data forms the subsequent test set.",
+    "es": "La selección utiliza tres ventanas consecutivas de validación con un conjunto de entrenamiento creciente. Se elige el menor error absoluto medio. El 17 % final de los datos procesados constituye el conjunto de prueba posterior.",
+    "fr": "La sélection utilise trois fenêtres de validation successives avec un ensemble d’entraînement croissant. L’erreur absolue moyenne la plus faible l’emporte. Les derniers 17 % des données préparées constituent ensuite le jeu de test."
+  },
+  "Bei kurzen Horizonten gewinnt die Previous-value Baseline. Sie verwendet den vorherigen 5-Minuten-Wert. Für +60, +90 und +120 Minuten gewinnt Random Forest.": {
+    "en": "The previous-value baseline wins at short horizons. It uses the previous 5-minute value. Random Forest wins at +60, +90 and +120 minutes.",
+    "es": "El modelo de referencia de valor anterior gana en horizontes cortos. Utiliza el valor del intervalo anterior de 5 minutos. Random Forest gana a +60, +90 y +120 minutos.",
+    "fr": "Le modèle de référence basé sur la valeur précédente l’emporte à court terme. Il utilise la valeur des 5 minutes précédentes. Random Forest l’emporte à +60, +90 et +120 minutes."
+  },
+  "Die Öffnungsregel (": {
+    "en": "The opening-hours rule (",
+    "es": "La regla de apertura (",
+    "fr": "La règle d’ouverture ("
+  },
+  ") gehört zur Oberfläche und Auswertung. Sie ist kein nachträglich ergänztes Merkmal dieses Modellstands. Das vorhandene Feature „time_since_opening“ ist ein vereinfachtes Zeitmerkmal der Pipeline.": {
+    "en": ") belongs to the interface and analysis. It is not a feature added retrospectively to this model. The existing ‘time_since_opening’ feature is a simplified time feature in the pipeline.",
+    "es": ") pertenece a la interfaz y al análisis. No es una característica añadida posteriormente a este modelo. La característica existente «time_since_opening» es una variable temporal simplificada del flujo de datos.",
+    "fr": ") relève de l’interface et de l’analyse. Il ne s’agit pas d’une variable ajoutée rétrospectivement au modèle. La variable existante « time_since_opening » est une variable temporelle simplifiée de la chaîne de traitement."
+  },
+  "Modellwahl je Horizont": {
+    "en": "Model selection per horizon",
+    "es": "Selección del modelo por horizonte",
+    "fr": "Sélection du modèle par horizon"
+  },
+  "Test-MAE aus dem Trainingsbericht, in Prozentpunkten. Diese Werte sind von den Fehlern des einzelnen Replays zu unterscheiden.": {
+    "en": "Test MAE from the training report, in percentage points. These values differ from the errors of the single replay.",
+    "es": "MAE de prueba del informe de entrenamiento, en puntos porcentuales. Estos valores son distintos de los errores de la reproducción individual.",
+    "fr": "MAE de test issu du rapport d’entraînement, en points de pourcentage. Ces valeurs se distinguent des erreurs de la relecture unique."
+  },
+  "Modellwahl und Testfehler": {
+    "en": "Model selection and test errors",
+    "es": "Selección de modelos y errores de prueba",
+    "fr": "Sélection des modèles et erreurs de test"
+  },
+  "Gewähltes Modell": {
+    "en": "Selected model",
+    "es": "Modelo seleccionado",
+    "fr": "Modèle retenu"
+  },
+  "Test-MAE": {
+    "en": "Test MAE",
+    "es": "MAE de prueba",
+    "fr": "MAE de test"
+  },
+  "Testpunkte": {
+    "en": "Test points",
+    "es": "Puntos de prueba",
+    "fr": "Points de test"
+  },
+  "Alle sechs Kandidaten im Validierungsvergleich": {
+    "en": "All six candidates in the validation comparison",
+    "es": "Los seis candidatos en la comparación de validación",
+    "fr": "Les six candidats dans la comparaison de validation"
+  },
+  "Mittlerer absoluter Fehler der zeitlichen Validierungsfenster · Prozentpunkte.": {
+    "en": "Mean absolute error across temporal validation windows · percentage points.",
+    "es": "Error absoluto medio de las ventanas de validación temporal · puntos porcentuales.",
+    "fr": "Erreur absolue moyenne des fenêtres de validation temporelle · points de pourcentage."
+  },
+  "Kandidatenvergleich": {
+    "en": "Candidate comparison",
+    "es": "Comparación de candidatos",
+    "fr": "Comparaison des candidats"
+  },
+  "· ausgewählt": {
+    "en": "· selected",
+    "es": "· seleccionado",
+    "fr": "· retenu"
+  },
+  "Zeitliche Grenzen transparent halten": {
+    "en": "Make temporal limits explicit",
+    "es": "Mostrar los límites temporales",
+    "fr": "Expliciter les limites temporelles"
+  },
+  "Der Trainingsbestand endet am": {
+    "en": "The training data ends at",
+    "es": "Los datos de entrenamiento terminan el",
+    "fr": "Les données d’entraînement s’arrêtent au"
+  },
+  "Der Replay beschreibt diesen historischen Ausschnitt. Er belegt keine laufende Vorhersagequalität im aktuellen Campusbetrieb.": {
+    "en": "The replay describes this historical subset. It does not establish ongoing prediction quality in current campus operations.",
+    "es": "La reproducción describe este subconjunto histórico. No demuestra una calidad de previsión continua en el funcionamiento actual del campus.",
+    "fr": "La relecture décrit cet extrait historique. Elle n’établit pas une qualité de prévision continue dans le fonctionnement actuel du campus."
+  },
+  "Prediction vs. Reality öffnen →": {
+    "en": "Open prediction vs. reality →",
+    "es": "Abrir predicción y realidad →",
+    "fr": "Ouvrir prévision et réalité →"
+  },
+  "404 · Seite nicht gefunden": {
+    "en": "404 · Page not found",
+    "es": "404 · Página no encontrada",
+    "fr": "404 · Page introuvable"
+  },
+  "Hier führt der Weg nicht weiter.": {
+    "en": "This path ends here.",
+    "es": "Este camino termina aquí.",
+    "fr": "Ce chemin s’arrête ici."
+  },
+  "Diese Seite ist nicht vorhanden. Über die Übersicht gelangst du zurück zu Campuskarte, Messdaten und Forecast.": {
+    "en": "This page does not exist. Return to the overview for the campus map, measurements and forecast.",
+    "es": "Esta página no existe. Vuelve a la vista general para acceder al mapa, las mediciones y las previsiones.",
+    "fr": "Cette page n’existe pas. Revenez à l’aperçu pour accéder à la carte, aux mesures et aux prévisions."
+  },
+  "Zur Übersicht": {
+    "en": "Back to overview",
+    "es": "Volver a la vista general",
+    "fr": "Retour à l’aperçu"
+  },
+  "Datenplattform": {
+    "en": "Data platform",
+    "es": "Plataforma de datos",
+    "fr": "Plateforme de données"
+  },
+  "Verbindung wird geprüft": {
+    "en": "Checking connection",
+    "es": "Comprobando conexión",
+    "fr": "Vérification de la connexion"
+  },
+  "Datenabruf fehlgeschlagen": {
+    "en": "Data request failed",
+    "es": "Error al obtener datos",
+    "fr": "Échec de la récupération des données"
+  },
+  "Supabase verbunden": {
+    "en": "Supabase connected",
+    "es": "Supabase conectado",
+    "fr": "Supabase connecté"
+  },
+  "Verbunden · keine Messwerte": {
+    "en": "Connected · no measurements",
+    "es": "Conectado · sin mediciones",
+    "fr": "Connecté · aucune mesure"
+  },
+  "Status des tatsächlichen Datenabrufs": {
+    "en": "Status of the actual data request",
+    "es": "Estado de la solicitud real de datos",
+    "fr": "État de la requête de données réelle"
+  },
+  "Sensorerfassung": {
+    "en": "Sensor collection",
+    "es": "Recogida del sensor",
+    "fr": "Collecte du capteur"
+  },
+  "Messzeitraum abgeschlossen": {
+    "en": "Measurement period completed",
+    "es": "Periodo de medición finalizado",
+    "fr": "Période de mesure terminée"
+  },
+  "Historischer Sensordatensatz": {
+    "en": "Historical sensor dataset",
+    "es": "Conjunto histórico de datos de sensores",
+    "fr": "Jeu de données historiques des capteurs"
+  },
+  "Nicht abrufbar": {
+    "en": "Unavailable",
+    "es": "No disponible",
+    "fr": "Indisponible"
+  },
+  "Ortszeit Europe/Berlin": {
+    "en": "Local time Europe/Berlin",
+    "es": "Hora local Europe/Berlin",
+    "fr": "Heure locale Europe/Berlin"
+  },
+  "Historischer Replay verfügbar": {
+    "en": "Historical replay available",
+    "es": "Reproducción histórica disponible",
+    "fr": "Relecture historique disponible"
+  },
+  "Replay unvollständig": {
+    "en": "Replay incomplete",
+    "es": "Reproducción incompleta",
+    "fr": "Relecture incomplète"
+  },
+  "Gespeicherte Modelloutputs und Vergleichsmessungen": {
+    "en": "Stored model outputs and comparison measurements",
+    "es": "Resultados almacenados del modelo y mediciones de comparación",
+    "fr": "Sorties enregistrées du modèle et mesures de comparaison"
+  },
+  "Aktueller Live-Forecast": {
+    "en": "Current live forecast",
+    "es": "Previsión actual en directo",
+    "fr": "Prévision actuelle en direct"
+  },
+  "Inaktiv": {
+    "en": "Inactive",
+    "es": "Inactiva",
+    "fr": "Inactif"
+  },
+  "Kein neuer Sensoreingang": {
+    "en": "No new sensor input",
+    "es": "Sin nuevas lecturas del sensor",
+    "fr": "Aucune nouvelle mesure du capteur"
+  },
+  "Geladen": {
+    "en": "Loaded",
+    "es": "Cargada",
+    "fr": "Chargée"
+  },
+  "Die Anwendung wird in diesem Browser ausgeführt": {
+    "en": "The application is running in this browser",
+    "es": "La aplicación se ejecuta en este navegador",
+    "fr": "L’application fonctionne dans ce navigateur"
+  },
+  "Systemstatus": {
+    "en": "System status",
+    "es": "Estado del sistema",
+    "fr": "État du système"
+  },
+  "Was verfügbar ist.": {
+    "en": "What is available.",
+    "es": "Qué está disponible.",
+    "fr": "Ce qui est disponible."
+  },
+  "Datenabruf, Messphase und Forecast-System – getrennt und nachvollziehbar.": {
+    "en": "Data access, measurement phase and forecast system — distinct and traceable.",
+    "es": "Acceso a los datos, fase de medición y sistema de previsión: diferenciados y trazables.",
+    "fr": "Accès aux données, phase de mesure et système de prévision : distincts et traçables."
+  },
+  "Wird geprüft …": {
+    "en": "Checking…",
+    "es": "Comprobando…",
+    "fr": "Vérification…"
+  },
+  "Verbindung prüfen": {
+    "en": "Check connection",
+    "es": "Comprobar conexión",
+    "fr": "Vérifier la connexion"
+  },
+  "Version": {
+    "en": "Version",
+    "es": "Versión",
+    "fr": "Version"
+  },
+  "· Build": {
+    "en": "· Build",
+    "es": "· Compilación",
+    "fr": "· Compilation"
+  },
+  "Overview": {
+    "en": "Overview",
+    "es": "Vista general",
+    "fr": "Aperçu"
+  },
+  "Methodik": {
+    "en": "Methodology",
+    "es": "Metodología",
+    "fr": "Méthodologie"
+  },
+  "Helles Design aktivieren": {
+    "en": "Enable light theme",
+    "es": "Activar tema claro",
+    "fr": "Activer le thème clair"
+  },
+  "Dunkles Design aktivieren": {
+    "en": "Enable dark theme",
+    "es": "Activar tema oscuro",
+    "fr": "Activer le thème sombre"
+  },
+  "Impressum": {
+    "en": "Legal notice",
+    "es": "Aviso legal",
+    "fr": "Mentions légales"
+  },
+  "Datenschutz": {
+    "en": "Privacy",
+    "es": "Privacidad",
+    "fr": "Confidentialité"
+  },
+  "Seite nicht gefunden": {
+    "en": "Page not found",
+    "es": "Página no encontrada",
+    "fr": "Page introuvable"
+  },
+  "Zum Inhalt": {
+    "en": "Skip to content",
+    "es": "Saltar al contenido",
+    "fr": "Aller au contenu"
+  },
+  "Campus Compass Startseite": {
+    "en": "Campus Compass home",
+    "es": "Inicio de Campus Compass",
+    "fr": "Accueil Campus Compass"
+  },
+  "Hauptnavigation": {
+    "en": "Main navigation",
+    "es": "Navegación principal",
+    "fr": "Navigation principale"
+  },
+  "Menü schließen": {
+    "en": "Close menu",
+    "es": "Cerrar menú",
+    "fr": "Fermer le menu"
+  },
+  "Menü öffnen": {
+    "en": "Open menu",
+    "es": "Abrir menú",
+    "fr": "Ouvrir le menu"
+  },
+  "Mobile Navigation": {
+    "en": "Mobile navigation",
+    "es": "Navegación móvil",
+    "fr": "Navigation mobile"
+  },
+  "Offline · Bereits geladene Inhalte bleiben sichtbar. Karten und neue Datenabrufe benötigen eine Verbindung.": {
+    "en": "Offline · Previously loaded content remains visible. Maps and new data requests need a connection.",
+    "es": "Sin conexión · El contenido ya cargado sigue visible. Los mapas y las nuevas solicitudes de datos requieren conexión.",
+    "fr": "Hors ligne · Le contenu déjà chargé reste visible. Les cartes et les nouvelles requêtes nécessitent une connexion."
+  },
+  "Studentisches Smart-Campus-Projekt": {
+    "en": "Student smart-campus project",
+    "es": "Proyecto estudiantil de campus inteligente",
+    "fr": "Projet étudiant de campus intelligent"
+  },
+  "Weitere Informationen": {
+    "en": "Further information",
+    "es": "Más información",
+    "fr": "Informations complémentaires"
+  },
+  "Kein offiziell freigegebener Dienst der Leuphana Universität Lüneburg.": {
+    "en": "Not an officially released service of Leuphana Universität Lüneburg.",
+    "es": "No es un servicio oficialmente publicado por la Leuphana Universität Lüneburg.",
+    "fr": "Ce service n’est pas officiellement publié par la Leuphana Universität Lüneburg."
+  },
+  "Originalmessungen im 3-Minuten-Raster": {
+    "en": "Original measurements at 3-minute intervals",
+    "es": "Mediciones originales a intervalos de 3 minutos",
+    "fr": "Mesures d’origine au pas de 3 minutes"
+  },
+  "Stündlicher Mittelwert": {
+    "en": "Hourly average",
+    "es": "Media horaria",
+    "fr": "Moyenne horaire"
+  },
+  "Verlauf der letzten realen Messungen. Originalwerte sind unter dem Diagramm abrufbar.": {
+    "en": "The latest real measurements. Original values are available below the chart.",
+    "es": "Las últimas mediciones reales. Los valores originales están disponibles debajo del gráfico.",
+    "fr": "Les dernières mesures réelles. Les valeurs d’origine sont disponibles sous le graphique."
+  },
+  "Historischer Auslastungsverlauf als stündliche Mittelwerte. Daten und Zeitstempel sind als CSV abrufbar.": {
+    "en": "Historical occupancy as hourly averages. Data and timestamps are available as CSV.",
+    "es": "Ocupación histórica como medias horarias. Los datos y las marcas de tiempo están disponibles en CSV.",
+    "fr": "Fréquentation historique en moyennes horaires. Les données et les horodatages sont disponibles en CSV."
+  },
+  "Zählwert": {
+    "en": "Count",
+    "es": "Recuento",
+    "fr": "Comptage"
+  },
+  "Stundenmittel": {
+    "en": "Hourly mean",
+    "es": "Media horaria",
+    "fr": "Moyenne horaire"
+  },
+  "Zeitangaben in Europe/Berlin.": {
+    "en": "Times in Europe/Berlin.",
+    "es": "Horas en Europe/Berlin.",
+    "fr": "Heures en Europe/Berlin."
+  },
+  "Alle Messungen im ursprünglichen Zeitraum, zu Stundenmitteln verdichtet. Fehlende Stunden werden nicht interpoliert.": {
+    "en": "All measurements in their original period, aggregated into hourly averages. Missing hours are not interpolated.",
+    "es": "Todas las mediciones de su periodo original, agregadas en medias horarias. Las horas sin datos no se interpolan.",
+    "fr": "Toutes les mesures de leur période d’origine, regroupées en moyennes horaires. Les heures manquantes ne sont pas interpolées."
+  },
+  "Im Laufe eines Tages": {
+    "en": "Over the course of a day",
+    "es": "A lo largo del día",
+    "fr": "Au fil de la journée"
+  },
+  "Ø Zählwert je Stunde · alle Messtage, Ortszeit": {
+    "en": "Average count by hour · all measurement days, local time",
+    "es": "Recuento medio por hora · todos los días medidos, hora local",
+    "fr": "Comptage moyen par heure · tous les jours mesurés, heure locale"
+  },
+  "Mittlere Personenanzahl je Tagesstunde. Exakte Werte unter Daten zum Diagramm.": {
+    "en": "Mean person count by hour of day. Exact values under chart data.",
+    "es": "Número medio de personas por hora del día. Valores exactos en los datos del gráfico.",
+    "fr": "Nombre moyen de personnes par heure de la journée. Valeurs exactes dans les données du graphique."
+  },
+  "Mittelwert": {
+    "en": "Mean",
+    "es": "Media",
+    "fr": "Moyenne"
+  },
+  "Daten zum Diagramm": {
+    "en": "Chart data",
+    "es": "Datos del gráfico",
+    "fr": "Données du graphique"
+  },
+  "Während der Öffnungszeit": {
+    "en": "During opening hours",
+    "es": "Durante el horario de apertura",
+    "fr": "Pendant les heures d’ouverture"
+  },
+  "Ø Zählwert nach Wochentag · Mo–Fr": {
+    "en": "Average count by weekday · Mon–Fri",
+    "es": "Recuento medio por día de la semana · lun–vie",
+    "fr": "Comptage moyen par jour · lun–ven"
+  },
+  "Mittlere Personenanzahl während der Öffnungszeiten je Wochentag. Exakte Werte unter Daten zum Diagramm.": {
+    "en": "Mean person count during opening hours by weekday. Exact values under chart data.",
+    "es": "Número medio de personas durante la apertura por día de la semana. Valores exactos en los datos del gráfico.",
+    "fr": "Nombre moyen de personnes pendant l’ouverture par jour de la semaine. Valeurs exactes dans les données du graphique."
+  },
+  "Zeit": {
+    "en": "Time",
+    "es": "Hora",
+    "fr": "Heure"
+  },
+  "Ø Personen": {
+    "en": "Average people",
+    "es": "Media de personas",
+    "fr": "Nombre moyen de personnes"
+  },
+  "Messungen": {
+    "en": "Measurements",
+    "es": "Mediciones",
+    "fr": "Mesures"
+  },
+  "Personen · Kapazitätsreferenz 734": {
+    "en": "People · Reference capacity 734",
+    "es": "Personas · Capacidad de referencia 734",
+    "fr": "Personnes · Capacité de référence 734"
+  },
+  "Forecast für 15, 30, 60, 90 und 120 Minuten: 310, 310, 122, 64 und 75 Personen.": {
+    "en": "Forecast for 15, 30, 60, 90 and 120 minutes: 310, 310, 122, 64 and 75 people.",
+    "es": "Previsión para 15, 30, 60, 90 y 120 minutos: 310, 310, 122, 64 y 75 personas.",
+    "fr": "Prévision à 15, 30, 60, 90 et 120 minutes : 310, 310, 122, 64 et 75 personnes."
+  },
+  "Gemessen: 307, 263, 141, 67 und 75 Personen. Alle Werte in der folgenden Tabelle.": {
+    "en": "Measured: 307, 263, 141, 67 and 75 people. All values in the table below.",
+    "es": "Medidos: 307, 263, 141, 67 y 75 personas. Todos los valores en la tabla siguiente.",
+    "fr": "Mesurés : 307, 263, 141, 67 et 75 personnes. Toutes les valeurs figurent dans le tableau suivant."
+  },
+  "Die gemessenen Vergleichswerte sind noch verborgen.": {
+    "en": "The measured comparison values are still hidden.",
+    "es": "Los valores medidos de comparación siguen ocultos.",
+    "fr": "Les valeurs de comparaison mesurées sont encore masquées."
+  },
+  "Minuten": {
+    "en": "minutes",
+    "es": "minutos",
+    "fr": "minutes"
+  },
+  "Minuten nach dem historischen Prognosebezugspunkt. Zählwerte auf ganze Personen gerundet.": {
+    "en": "Minutes after the historical forecast reference time. Counts rounded to whole people.",
+    "es": "Minutos tras la hora histórica de referencia de la previsión. Recuentos redondeados a personas enteras.",
+    "fr": "Minutes après l’heure de référence historique de la prévision. Comptages arrondis à des personnes entières."
+  },
+  "Legende": {
+    "en": "Legend",
+    "es": "Leyenda",
+    "fr": "Légende"
+  },
+  "· verborgen": {
+    "en": "· hidden",
+    "es": "· oculta",
+    "fr": "· masquée"
+  },
+  "Reale Sensormessungen werden geladen …": {
+    "en": "Loading real sensor measurements…",
+    "es": "Cargando mediciones reales de sensores…",
+    "fr": "Chargement des mesures réelles des capteurs…"
+  },
+  "Sensordaten nicht erreichbar": {
+    "en": "Sensor data unavailable",
+    "es": "Datos de sensores no disponibles",
+    "fr": "Données des capteurs indisponibles"
+  },
+  "Erneut versuchen": {
+    "en": "Try again",
+    "es": "Reintentar",
+    "fr": "Réessayer"
+  },
+  "Für die Mensa sind keine Messungen in der Datenquelle vorhanden.": {
+    "en": "The data source contains no canteen measurements.",
+    "es": "La fuente de datos no contiene mediciones del comedor.",
+    "fr": "La source de données ne contient aucune mesure du restaurant universitaire."
+  },
+  "Daten werden geladen": {
+    "en": "Loading data",
+    "es": "Cargando datos",
+    "fr": "Chargement des données"
+  },
+  "Campuskarte": {
+    "en": "Campus map",
+    "es": "Mapa del campus",
+    "fr": "Carte du campus"
+  },
+  "Kartenquellen anzeigen": {
+    "en": "Show map sources",
+    "es": "Mostrar fuentes del mapa",
+    "fr": "Afficher les sources de la carte"
+  },
+  "Strg gedrückt halten und scrollen, um zu zoomen": {
+    "en": "Hold Ctrl and scroll to zoom",
+    "es": "Mantén Ctrl y desplázate para ampliar",
+    "fr": "Maintenez Ctrl et faites défiler pour zoomer"
+  },
+  "⌘ gedrückt halten und scrollen, um zu zoomen": {
+    "en": "Hold ⌘ and scroll to zoom",
+    "es": "Mantén ⌘ y desplázate para ampliar",
+    "fr": "Maintenez ⌘ et faites défiler pour zoomer"
+  },
+  "Die Karte mit zwei Fingern bewegen": {
+    "en": "Move the map with two fingers",
+    "es": "Mueve el mapa con dos dedos",
+    "fr": "Déplacez la carte avec deux doigts"
+  },
+  "Die 3D-Karte benötigt WebGL. Bitte die Grafikbeschleunigung im Browser aktivieren.": {
+    "en": "The 3D map requires WebGL. Please enable graphics acceleration in your browser.",
+    "es": "El mapa 3D requiere WebGL. Activa la aceleración gráfica del navegador.",
+    "fr": "La carte 3D nécessite WebGL. Activez l’accélération graphique du navigateur."
+  },
+  "Eine Kartenressource ist nicht erreichbar. Bitte die Verbindung prüfen oder erneut laden.": {
+    "en": "A map resource is unavailable. Check the connection or reload.",
+    "es": "Un recurso del mapa no está disponible. Comprueba la conexión o vuelve a cargar.",
+    "fr": "Une ressource cartographique est indisponible. Vérifiez la connexion ou rechargez."
+  },
+  "Die Kartengrundlage konnte nicht geladen werden. Bitte die Internetverbindung prüfen.": {
+    "en": "The basemap could not be loaded. Check your internet connection.",
+    "es": "No se pudo cargar el mapa base. Comprueba tu conexión a internet.",
+    "fr": "Le fond de carte n’a pas pu être chargé. Vérifiez votre connexion internet."
+  },
+  "Die Campuskarte konnte nicht initialisiert werden. Bitte erneut versuchen.": {
+    "en": "The campus map could not be initialized. Please try again.",
+    "es": "No se pudo inicializar el mapa del campus. Inténtalo de nuevo.",
+    "fr": "La carte du campus n’a pas pu être initialisée. Réessayez."
+  },
+  "Keine Messung": {
+    "en": "No measurement",
+    "es": "Sin medición",
+    "fr": "Aucune mesure"
+  },
+  "Interaktive Campuskarte der Leuphana": {
+    "en": "Interactive campus map of Leuphana",
+    "es": "Mapa interactivo del campus de Leuphana",
+    "fr": "Carte interactive du campus de Leuphana"
+  },
+  "Leuphana · Digital Twin": {
+    "en": "Leuphana · Digital twin",
+    "es": "Leuphana · Gemelo digital",
+    "fr": "Leuphana · Jumeau numérique"
+  },
+  "Zentralcampus · Leuphana": {
+    "en": "Central campus · Leuphana",
+    "es": "Campus central · Leuphana",
+    "fr": "Campus central · Leuphana"
+  },
+  "Gebäude auswählen und entdecken": {
+    "en": "Select and explore buildings",
+    "es": "Selecciona y explora edificios",
+    "fr": "Sélectionnez et explorez les bâtiments"
+  },
+  "Campuskarte wird geladen …": {
+    "en": "Loading campus map…",
+    "es": "Cargando el mapa del campus…",
+    "fr": "Chargement de la carte du campus…"
+  },
+  "Erneut laden": {
+    "en": "Reload",
+    "es": "Volver a cargar",
+    "fr": "Recharger"
+  },
+  "Ausgewählt:": {
+    "en": "Selected:",
+    "es": "Seleccionado:",
+    "fr": "Sélection :"
+  },
+  "Auswahl schließen": {
+    "en": "Close selection",
+    "es": "Cerrar selección",
+    "fr": "Fermer la sélection"
+  },
+  "Gebäude": {
+    "en": "Building",
+    "es": "Edificio",
+    "fr": "Bâtiment"
+  },
+  "Gesuchter Raum": {
+    "en": "Requested room",
+    "es": "Aula buscada",
+    "fr": "Salle recherchée"
+  },
+  "Erdgeschoss": {
+    "en": "Ground floor",
+    "es": "Planta baja",
+    "fr": "Rez-de-chaussée"
+  },
+  "· Raum": {
+    "en": "· Room",
+    "es": "· Aula",
+    "fr": "· Salle"
+  },
+  "Das zugehörige Gebäude ist markiert. Genaue Raumposition und Indoor-Weg sind nicht hinterlegt.": {
+    "en": "The corresponding building is highlighted. Exact room positions and indoor routes are not available.",
+    "es": "El edificio correspondiente está marcado. No se dispone de la posición exacta del aula ni de rutas interiores.",
+    "fr": "Le bâtiment correspondant est mis en évidence. La position exacte de la salle et le trajet intérieur ne sont pas disponibles."
+  },
+  "Historischer Sensordatensatz · Referenz 734 Plätze": {
+    "en": "Historical sensor dataset · Reference 734 places",
+    "es": "Datos históricos de sensores · Referencia: 734 plazas",
+    "fr": "Données historiques des capteurs · Référence : 734 places"
+  },
+  "Sensormessung derzeit nicht abrufbar": {
+    "en": "Sensor measurement currently unavailable",
+    "es": "Medición del sensor no disponible actualmente",
+    "fr": "Mesure du capteur actuellement indisponible"
+  },
+  "Für diesen Ort liegen keine Auslastungsmessungen vor.": {
+    "en": "No occupancy measurements are available for this location.",
+    "es": "No hay mediciones de ocupación para este lugar.",
+    "fr": "Aucune mesure de fréquentation n’est disponible pour ce lieu."
+  },
+  "Route hierhin planen →": {
+    "en": "Plan a route here →",
+    "es": "Planificar ruta hasta aquí →",
+    "fr": "Planifier un trajet ici →"
+  },
+  "Gebäudedaten & Quellen": {
+    "en": "Building data & sources",
+    "es": "Datos del edificio y fuentes",
+    "fr": "Données du bâtiment et sources"
+  },
+  "Höhe": {
+    "en": "Height",
+    "es": "Altura",
+    "fr": "Hauteur"
+  },
+  "Geodaten": {
+    "en": "Geodata",
+    "es": "Geodatos",
+    "fr": "Géodonnées"
+  },
+  "Quellenbelegt": {
+    "en": "Source-verified",
+    "es": "Verificado por fuentes",
+    "fr": "Étayé par des sources"
+  },
+  "Abgeleitet": {
+    "en": "Derived",
+    "es": "Deducido",
+    "fr": "Déduit"
+  },
+  "Geschätzt": {
+    "en": "Estimated",
+    "es": "Estimado",
+    "fr": "Estimé"
+  },
+  "Quelle": {
+    "en": "Source",
+    "es": "Fuente",
+    "fr": "Source"
+  },
+  "Wahrzeichen": {
+    "en": "Landmark",
+    "es": "Lugar emblemático",
+    "fr": "Repère"
+  },
+  "Gastronomie": {
+    "en": "Food & drink",
+    "es": "Restauración",
+    "fr": "Restauration"
+  },
+  "Bibliothek": {
+    "en": "Library",
+    "es": "Biblioteca",
+    "fr": "Bibliothèque"
+  },
+  "Lehre": {
+    "en": "Teaching",
+    "es": "Docencia",
+    "fr": "Enseignement"
+  },
+  "Service / Verwaltung": {
+    "en": "Services / administration",
+    "es": "Servicios / administración",
+    "fr": "Services / administration"
+  },
+  "Studentisches Leben": {
+    "en": "Student life",
+    "es": "Vida estudiantil",
+    "fr": "Vie étudiante"
+  },
+  "Grünfläche": {
+    "en": "Green space",
+    "es": "Zona verde",
+    "fr": "Espace vert"
+  },
+  "Mobilität": {
+    "en": "Transport",
+    "es": "Movilidad",
+    "fr": "Mobilité"
+  },
+  "Sport": {
+    "en": "Sport",
+    "es": "Deporte",
+    "fr": "Sport"
+  },
+  "Campus-Ort": {
+    "en": "Campus location",
+    "es": "Lugar del campus",
+    "fr": "Lieu du campus"
+  },
+  "Karte": {
+    "en": "Map",
+    "es": "Mapa",
+    "fr": "Carte"
+  },
+  "Luftbild": {
+    "en": "Aerial",
+    "es": "Vista aérea",
+    "fr": "Vue aérienne"
+  },
+  "Luft": {
+    "en": "Aerial",
+    "es": "Aérea",
+    "fr": "Aérien"
+  },
+  "Kartenansicht": {
+    "en": "Map view",
+    "es": "Vista del mapa",
+    "fr": "Vue de la carte"
+  },
+  "Blick auf den Campus": {
+    "en": "Campus perspective",
+    "es": "Perspectiva del campus",
+    "fr": "Perspective sur le campus"
+  },
+  "Campus von oben anzeigen": {
+    "en": "Show campus from above",
+    "es": "Mostrar campus desde arriba",
+    "fr": "Afficher le campus du dessus"
+  },
+  "Von oben": {
+    "en": "Top view",
+    "es": "Desde arriba",
+    "fr": "Vue du dessus"
+  },
+  "Campus in 3D anzeigen": {
+    "en": "Show campus in 3D",
+    "es": "Mostrar campus en 3D",
+    "fr": "Afficher le campus en 3D"
+  },
+  "3D-Ansicht": {
+    "en": "3D view",
+    "es": "Vista 3D",
+    "fr": "Vue 3D"
+  },
+  "Hineinzoomen": {
+    "en": "Zoom in",
+    "es": "Ampliar",
+    "fr": "Zoom avant"
+  },
+  "Herauszoomen": {
+    "en": "Zoom out",
+    "es": "Alejar",
+    "fr": "Zoom arrière"
+  },
+  "Campusübersicht": {
+    "en": "Campus overview",
+    "es": "Vista general del campus",
+    "fr": "Vue d’ensemble du campus"
+  },
+  "Details": {
+    "en": "Details",
+    "es": "Detalles",
+    "fr": "Détails"
+  },
+  "Gebäudebeschriftung": {
+    "en": "Building labels",
+    "es": "Nombres de edificios",
+    "fr": "Noms des bâtiments"
+  },
+  "Campusgrenze": {
+    "en": "Campus boundary",
+    "es": "Límite del campus",
+    "fr": "Limite du campus"
+  },
+  "Historischer Mensa-Wert": {
+    "en": "Historical canteen value",
+    "es": "Valor histórico del comedor",
+    "fr": "Valeur historique du restaurant universitaire"
+  },
+  "Qualität": {
+    "en": "Quality",
+    "es": "Calidad",
+    "fr": "Qualité"
+  },
+  "Auto": {
+    "en": "Auto",
+    "es": "Automática",
+    "fr": "Auto"
+  },
+  "Hoch": {
+    "en": "High",
+    "es": "Alta",
+    "fr": "Élevée"
+  },
+  "Ausgewogen": {
+    "en": "Balanced",
+    "es": "Equilibrada",
+    "fr": "Équilibrée"
+  },
+  "Sparsam": {
+    "en": "Low power",
+    "es": "Ahorro",
+    "fr": "Économe"
+  },
+  "Kartenlegende": {
+    "en": "Map legend",
+    "es": "Leyenda del mapa",
+    "fr": "Légende de la carte"
+  },
+  "Mensa": {
+    "en": "Canteen",
+    "es": "Comedor",
+    "fr": "Restaurant universitaire"
+  },
+  "Campus-Wegweiser": {
+    "en": "Campus wayfinding",
+    "es": "Orientación en el campus",
+    "fr": "Orientation sur le campus"
+  },
+  "Zu Fuß über den Campus": {
+    "en": "Walk across the campus",
+    "es": "A pie por el campus",
+    "fr": "À pied sur le campus"
+  },
+  "Wege aus OpenStreetMap": {
+    "en": "Paths from OpenStreetMap",
+    "es": "Caminos de OpenStreetMap",
+    "fr": "Chemins d’OpenStreetMap"
+  },
+  "Start": {
+    "en": "Start",
+    "es": "Inicio",
+    "fr": "Départ"
+  },
+  "Start der Route": {
+    "en": "Route start",
+    "es": "Inicio de la ruta",
+    "fr": "Départ du trajet"
+  },
+  "Ziel": {
+    "en": "Destination",
+    "es": "Destino",
+    "fr": "Destination"
+  },
+  "Ziel der Route": {
+    "en": "Route destination",
+    "es": "Destino de la ruta",
+    "fr": "Destination du trajet"
+  },
+  "Route anzeigen": {
+    "en": "Show route",
+    "es": "Mostrar ruta",
+    "fr": "Afficher le trajet"
+  },
+  "Löschen": {
+    "en": "Clear",
+    "es": "Borrar",
+    "fr": "Effacer"
+  },
+  "Ca.": {
+    "en": "Approx.",
+    "es": "Aprox.",
+    "fr": "Env."
+  },
+  "Min. ·": {
+    "en": "min ·",
+    "es": "min ·",
+    "fr": "min ·"
+  },
+  "auf erfassten Wegen. Start und Ziel sind die nächsten Wegpunkte in Gebäudenähe (Abstand zur Ortsmarkierung:": {
+    "en": "along mapped paths. Start and destination use the nearest path points to the buildings (distance from the location marker:",
+    "es": "por caminos registrados. El inicio y el destino son los puntos del camino más cercanos a los edificios (distancia al marcador:",
+    "fr": "sur les chemins cartographiés. Le départ et la destination sont les points de chemin les plus proches des bâtiments (distance au repère :"
+  },
+  "Bitte verschiedene Start- und Zielorte auswählen.": {
+    "en": "Choose different start and destination locations.",
+    "es": "Selecciona un inicio y un destino diferentes.",
+    "fr": "Choisissez un départ et une destination différents."
+  },
+  "Zwischen diesen Orten ist kein durchgehender Fußweg im erfassten Wegenetz verfügbar.": {
+    "en": "No continuous footpath between these locations is available in the mapped network.",
+    "es": "No hay un camino peatonal continuo entre estos lugares en la red registrada.",
+    "fr": "Aucun chemin piéton continu n’est disponible entre ces lieux dans le réseau cartographié."
+  },
+  "Gehzeit mit 4,7 km/h. Keine Indoor-Navigation; Barrierefreiheit und aktuelle Sperrungen sind nicht bestätigt.": {
+    "en": "Walking time at 4.7 km/h. No indoor navigation; accessibility and current closures are unverified.",
+    "es": "Tiempo a pie a 4,7 km/h. Sin navegación interior; no se han confirmado la accesibilidad ni los cierres actuales.",
+    "fr": "Temps de marche à 4,7 km/h. Pas de navigation intérieure ; accessibilité et fermetures actuelles non vérifiées."
+  },
+  "Gebäude, Raum oder Ort suchen": {
+    "en": "Search for a building, room or place",
+    "es": "Buscar edificio, aula o lugar",
+    "fr": "Rechercher un bâtiment, une salle ou un lieu"
+  },
+  "Suche löschen": {
+    "en": "Clear search",
+    "es": "Borrar búsqueda",
+    "fr": "Effacer la recherche"
+  },
+  "Suchergebnisse": {
+    "en": "Search results",
+    "es": "Resultados de búsqueda",
+    "fr": "Résultats de recherche"
+  },
+  "Kein erfasster Ort gefunden. Raumangaben z. B. C 7.209; Toiletten und Drucker sind noch nicht erfasst.": {
+    "en": "No mapped location found. Try a room reference such as C 7.209; toilets and printers are not yet mapped.",
+    "es": "No se encontró ningún lugar registrado. Prueba un aula como C 7.209; los aseos y las impresoras aún no están registrados.",
+    "fr": "Aucun lieu cartographié trouvé. Essayez une salle comme C 7.209 ; les toilettes et les imprimantes ne sont pas encore répertoriées."
+  },
+  "Sprache": {
+    "en": "Language",
+    "es": "Idioma",
+    "fr": "Langue"
+  },
+  "Diese rechtlichen Informationen werden in der maßgeblichen deutschen Originalfassung angezeigt.": {
+    "en": "These legal notices are shown in the authoritative German original.",
+    "es": "Esta información legal se muestra en su versión original alemana, que es la versión válida.",
+    "fr": "Ces informations juridiques sont présentées dans leur version originale allemande faisant foi."
+  },
+  "Mo–Do 11:30–14:15 · Fr 11:30–14:00": {
+    "en": "Mon–Thu 11:30–14:15 · Fri 11:30–14:00",
+    "es": "Lun–jue 11:30–14:15 · vie 11:30–14:00",
+    "fr": "Lun–jeu 11:30–14:15 · ven 11:30–14:00"
+  },
+  ". Wochenenden sind aus dem Öffnungszeitprofil ausgeschlossen. Der kurze Messzeitraum erlaubt keine Aussage über das gesamte Semester.": {
+    "en": ". Weekends are excluded from the opening-hours profile. The short measurement period cannot represent an entire semester.",
+    "es": ". Los fines de semana se excluyen del perfil de apertura. El breve periodo de medición no permite sacar conclusiones sobre todo el semestre.",
+    "fr": ". Les week-ends sont exclus du profil d’ouverture. Cette courte période de mesure ne permet pas de conclure sur l’ensemble du semestre."
+  },
+  ". Nach der bestehenden 5-Minuten-Aufbereitung liegt der gespeicherte Prognosebezugspunkt bei": {
+    "en": ". After the existing 5-minute processing, the stored forecast reference time is",
+    "es": ". Tras el procesamiento existente en intervalos de 5 minutos, la hora de referencia almacenada de la previsión es",
+    "fr": ". Après le traitement existant au pas de 5 minutes, l’heure de référence enregistrée de la prévision est"
+  },
+  ". Die spätere Vergleichsmessung liegt jeweils eine Minute vor der Zielzeit.": {
+    "en": ". Each later comparison measurement is one minute before its target time.",
+    "es": ". Cada medición posterior de comparación se sitúa un minuto antes de la hora objetivo.",
+    "fr": ". Chaque mesure ultérieure de comparaison précède d’une minute l’heure cible."
+  },
+  "historisch": {
+    "en": "historical",
+    "es": "histórico",
+    "fr": "historique"
+  },
+  "{floor}. Etage": {
+    "en": "Floor {floor}",
+    "es": "Planta {floor}",
+    "fr": "Étage {floor}"
+  },
+  "{floor}. Etage · Raum {room} · Zum Gebäude": {
+    "en": "Floor {floor} · Room {room} · Go to building",
+    "es": "Planta {floor} · Aula {room} · Ir al edificio",
+    "fr": "Étage {floor} · Salle {room} · Aller au bâtiment"
+  },
+  "Gebäude C {number}": {
+    "en": "Building C {number}",
+    "es": "Edificio C {number}",
+    "fr": "Bâtiment C {number}"
+  },
+  "Mo": {
+    "en": "Mon",
+    "es": "Lun",
+    "fr": "Lun"
+  },
+  "Di": {
+    "en": "Tue",
+    "es": "Mar",
+    "fr": "Mar"
+  },
+  "Mi": {
+    "en": "Wed",
+    "es": "Mié",
+    "fr": "Mer"
+  },
+  "Do": {
+    "en": "Thu",
+    "es": "Jue",
+    "fr": "Jeu"
+  },
+  "Fr": {
+    "en": "Fri",
+    "es": "Vie",
+    "fr": "Ven"
+  },
+  "Supabase-Konfiguration fehlt.": {
+    "en": "Supabase configuration is missing.",
+    "es": "Falta la configuración de Supabase.",
+    "fr": "La configuration Supabase est manquante."
+  },
+  "Die Datenquelle liefert kein gültiges Messformat.": {
+    "en": "The data source returned an invalid measurement format.",
+    "es": "La fuente devolvió un formato de medición no válido.",
+    "fr": "La source a renvoyé un format de mesure invalide."
+  },
+  "Die Datenquelle enthält ungültige Messwerte.": {
+    "en": "The data source contains invalid measurements.",
+    "es": "La fuente de datos contiene mediciones no válidas.",
+    "fr": "La source de données contient des mesures invalides."
+  },
+  "Die Datenquelle antwortet nicht rechtzeitig. Bitte erneut versuchen.": {
+    "en": "The data source did not respond in time. Please try again.",
+    "es": "La fuente no respondió a tiempo. Inténtalo de nuevo.",
+    "fr": "La source n’a pas répondu à temps. Réessayez."
+  },
+  "Sensordaten konnten nicht geladen werden.": {
+    "en": "Sensor data could not be loaded.",
+    "es": "No se pudieron cargar los datos del sensor.",
+    "fr": "Les données du capteur n’ont pas pu être chargées."
+  },
+  "Sensordaten konnten nicht geladen werden ({status}).": {
+    "en": "Sensor data could not be loaded ({status}).",
+    "es": "No se pudieron cargar los datos del sensor ({status}).",
+    "fr": "Les données du capteur n’ont pas pu être chargées ({status})."
+  },
+  "Failed to fetch": {
+    "en": "The data source could not be reached.",
+    "es": "No se pudo acceder a la fuente de datos.",
+    "fr": "La source de données est inaccessible."
+  },
+  "Verantwortung": {
+    "en": "Responsibility",
+    "es": "Responsabilidad",
+    "fr": "Responsabilité"
+  },
+  "Daten nutzen. Grenzen mitdenken.": {
+    "en": "Use data. Understand its limits.",
+    "es": "Usar los datos. Entender sus límites.",
+    "fr": "Utiliser les données. Comprendre leurs limites."
+  },
+  "Die Web-App verarbeitet aggregierte Zählwerte und Zeitstempel statt personenbezogener Identifikation. Der verwendete Datensatz enthält keine Bilder oder individuellen Kennungen; Gesichtserkennung und individuelle Bewegungsprofile sind kein Bestandteil dieser Auswertung. Die technischen Verbindungen zu Hosting-, Daten- und Kartenanbietern sind im Datenschutz beschrieben.": {
+    "en": "The web app processes aggregated counts and timestamps instead of identifying individuals. The dataset contains no images or individual identifiers; facial recognition and individual movement profiles are not part of this analysis. Technical connections to hosting, data and map providers are described in the privacy notice.",
+    "es": "La aplicación procesa recuentos agregados y marcas de tiempo en lugar de identificar personas. El conjunto de datos no contiene imágenes ni identificadores individuales; el reconocimiento facial y los perfiles individuales de movimiento no forman parte de este análisis. Las conexiones técnicas a proveedores de alojamiento, datos y mapas se describen en la información de privacidad.",
+    "fr": "L’application traite des comptages agrégés et des horodatages sans identifier les personnes. Le jeu de données ne contient ni images ni identifiants individuels ; la reconnaissance faciale et les profils de déplacement individuels ne font pas partie de cette analyse. Les connexions techniques aux fournisseurs d’hébergement, de données et de cartes sont décrites dans la notice de confidentialité."
+  },
+  "Sensorzählungen können ungenau sein. Ohne unabhängige Referenzmessung lässt sich ihre Genauigkeit hier nicht beziffern. Der kurze abgeschlossene Messzeitraum ist nicht repräsentativ für alle Semester, Veranstaltungen oder Betriebsbedingungen.": {
+    "en": "Sensor counts can be inaccurate. Without independent reference measurements, their accuracy cannot be quantified here. The short completed measurement period does not represent all semesters, events or operating conditions.",
+    "es": "Los recuentos de sensores pueden ser imprecisos. Sin una medición de referencia independiente no se puede cuantificar aquí su precisión. El breve periodo de medición finalizado no representa todos los semestres, eventos o condiciones de funcionamiento.",
+    "fr": "Les comptages des capteurs peuvent être imprécis. Sans mesure de référence indépendante, leur précision ne peut pas être chiffrée ici. La courte période de mesure terminée n’est pas représentative de tous les semestres, événements ou conditions de fonctionnement."
+  },
+  "Prognosen können Entscheidungen über Besuchszeiten beeinflussen und dadurch das Verhalten verändern, auf dem sie beruhen. Der historische Replay zeigt einen begrenzten Vergleich und ist keine Zusage für die heutige Auslastung.": {
+    "en": "Forecasts can influence decisions about visit times and thus change the behaviour they are based on. The historical replay presents a limited comparison and makes no promise about today’s occupancy.",
+    "es": "Las previsiones pueden influir en la elección de la hora de visita y cambiar así el comportamiento en el que se basan. La reproducción histórica muestra una comparación limitada y no garantiza la ocupación de hoy.",
+    "fr": "Les prévisions peuvent influencer le choix des heures de visite et modifier ainsi les comportements sur lesquels elles reposent. La relecture historique présente une comparaison limitée et ne garantit pas la fréquentation actuelle."
+  },
+  "Die Karte unterstützt die Orientierung. Geschätzte Gebäudehöhen, fehlende Innenwege und nicht bestätigte Barrierefreiheit oder Sperrungen begrenzen ihre Aussagekraft. Vor Ort haben Beschilderung und verlässliche Informationen zur Zugänglichkeit Vorrang.": {
+    "en": "The map supports orientation. Estimated building heights, missing indoor paths and unverified accessibility or closures limit its scope. On site, signage and reliable accessibility information take priority.",
+    "es": "El mapa ayuda a orientarse. Las alturas estimadas, la ausencia de recorridos interiores y la accesibilidad o los cierres sin confirmar limitan su alcance. Sobre el terreno, tienen prioridad las señales y la información fiable sobre accesibilidad.",
+    "fr": "La carte aide à s’orienter. Les hauteurs estimées, les trajets intérieurs absents et l’accessibilité ou les fermetures non vérifiées en limitent la portée. Sur place, la signalisation et les informations fiables sur l’accessibilité priment."
+  },
+  "Gebäude 1 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 1 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 1 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 1 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 2 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 2 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 2 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 2 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 4 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 4 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 4 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 4 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 6 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 6 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 6 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 6 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 8 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 8 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 8 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 8 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 10 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 10 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 10 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 10 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 12 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 12 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 12 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 12 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 14 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 14 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 14 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 14 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 5 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 5 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 5 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 5 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 7 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 7 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 7 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 7 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 9 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 9 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 9 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 9 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 11 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 11 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 11 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 11 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Hörsaal 5 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Lecture hall 5 on the central campus of Leuphana University Lüneburg.",
+    "es": "Aula magna 5 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Amphithéâtre 5 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 13 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 13 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 13 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 13 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 16 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 16 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 16 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 16 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 15 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 15 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 15 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 15 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 17 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 17 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 17 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 17 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 18 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 18 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 18 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 18 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 19 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 19 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 19 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 19 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 35 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 35 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 35 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 35 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Hörsaal 1 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Lecture hall 1 on the central campus of Leuphana University Lüneburg.",
+    "es": "Aula magna 1 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Amphithéâtre 1 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Hörsaal 2 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Lecture hall 2 on the central campus of Leuphana University Lüneburg.",
+    "es": "Aula magna 2 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Amphithéâtre 2 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Hörsaal 3 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Lecture hall 3 on the central campus of Leuphana University Lüneburg.",
+    "es": "Aula magna 3 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Amphithéâtre 3 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Hörsaal 4 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Lecture hall 4 on the central campus of Leuphana University Lüneburg.",
+    "es": "Aula magna 4 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Amphithéâtre 4 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Universitätsbibliothek auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "University library on the central campus of Leuphana University Lüneburg.",
+    "es": "Biblioteca universitaria en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bibliothèque universitaire sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 20 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 20 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 20 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 20 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 21 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 21 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 21 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 21 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 22 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 22 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 22 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 22 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 25 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 25 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 25 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 25 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 27 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 27 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 27 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 27 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Gebäude 26 auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Building 26 on the central campus of Leuphana University Lüneburg.",
+    "es": "Edificio 26 en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Bâtiment 26 sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Hörsaalgang auf dem zentralen Campus der Leuphana Universität Lüneburg.": {
+    "en": "Lecture hall corridor on the central campus of Leuphana University Lüneburg.",
+    "es": "Pasillo de las aulas magnas en el campus central de la Universidad Leuphana de Lüneburg.",
+    "fr": "Couloir des amphithéâtres sur le campus central de l’université Leuphana de Lüneburg."
+  },
+  "Im Campusplan und in OpenStreetMap erfasste Parkfläche P2.": {
+    "en": "Parking area P2 recorded in the campus plan and OpenStreetMap.",
+    "es": "Aparcamiento P2 registrado en el plano del campus y en OpenStreetMap.",
+    "fr": "Parking P2 répertorié sur le plan du campus et dans OpenStreetMap."
+  },
+  "Im Campusplan und in OpenStreetMap erfasste Parkfläche P3.": {
+    "en": "Parking area P3 recorded in the campus plan and OpenStreetMap.",
+    "es": "Aparcamiento P3 registrado en el plano del campus y en OpenStreetMap.",
+    "fr": "Parking P3 répertorié sur le plan du campus et dans OpenStreetMap."
+  },
+  "Im Campusplan und in OpenStreetMap erfasste Parkfläche P1.": {
+    "en": "Parking area P1 recorded in the campus plan and OpenStreetMap.",
+    "es": "Aparcamiento P1 registrado en el plano del campus y en OpenStreetMap.",
+    "fr": "Parking P1 répertorié sur le plan du campus et dans OpenStreetMap."
+  },
+  "Im Campusplan und in OpenStreetMap erfasste Parkfläche P4.": {
+    "en": "Parking area P4 recorded in the campus plan and OpenStreetMap.",
+    "es": "Aparcamiento P4 registrado en el plano del campus y en OpenStreetMap.",
+    "fr": "Parking P4 répertorié sur le plan du campus et dans OpenStreetMap."
+  },
+  "Mensa in Gebäude 3 am nordwestlichen Campus; die beiden angrenzenden Baukörper sind zusammengefasst.": {
+    "en": "Dining hall in building 3 in the northwest of campus; the two adjacent building sections are combined.",
+    "es": "Comedor en el edificio 3, al noroeste del campus; se han agrupado los dos cuerpos adyacentes.",
+    "fr": "Restaurant universitaire dans le bâtiment 3, au nord-ouest du campus ; les deux volumes adjacents sont regroupés."
+  },
+  "Gebäude 28 am östlichen Ende von Parkdeck P3, mit KonRad. Die Teilfläche ist aus dem offiziellen Lageplan abgeleitet.": {
+    "en": "Building 28 at the eastern end of parking deck P3, including KonRad. This section is derived from the official site plan.",
+    "es": "Edificio 28 en el extremo este del aparcamiento P3, con KonRad. Esta sección se ha derivado del plano oficial.",
+    "fr": "Bâtiment 28 à l’extrémité est du parking P3, avec KonRad. Cette partie est déduite du plan officiel."
+  },
+  "Eigenständiges Gebäude 41 südlich von Hörsaal 5, zwischen den Gebäuden 11 und 13.": {
+    "en": "Separate building 41 south of lecture hall 5, between buildings 11 and 13.",
+    "es": "Edificio independiente 41 al sur del aula magna 5, entre los edificios 11 y 13.",
+    "fr": "Bâtiment indépendant 41 au sud de l’amphithéâtre 5, entre les bâtiments 11 et 13."
+  },
+  "Zentralgebäude C40, entworfen von Daniel Libeskind, mit Auditorium und Seminarbereichen.": {
+    "en": "Central building C40, designed by Daniel Libeskind, with an auditorium and seminar areas.",
+    "es": "Edificio central C40, diseñado por Daniel Libeskind, con auditorio y áreas de seminarios.",
+    "fr": "Bâtiment central C40, conçu par Daniel Libeskind, avec un auditorium et des espaces de séminaire."
+  },
+  "Große Grünfläche direkt südlich der Mensa.": {
+    "en": "Large green space directly south of the dining hall.",
+    "es": "Amplia zona verde justo al sur del comedor.",
+    "fr": "Grand espace vert directement au sud du restaurant universitaire."
+  },
+  "Ökologischer Garten- und Grünbereich im nordöstlichen Campus.": {
+    "en": "Ecological garden and green space in the northeast of campus.",
+    "es": "Jardín ecológico y zona verde al noreste del campus.",
+    "fr": "Jardin écologique et espace vert au nord-est du campus."
+  },
+  "In OpenStreetMap erfasster Haltestellenstandort. Fahrtrichtung und Fahrplan sind nicht Bestandteil dieser Campuskarte.": {
+    "en": "Bus stop location recorded in OpenStreetMap. Direction of travel and timetables are not part of this campus map.",
+    "es": "Parada registrada en OpenStreetMap. El sentido de circulación y los horarios no forman parte de este mapa.",
+    "fr": "Arrêt répertorié dans OpenStreetMap. Le sens de circulation et les horaires ne font pas partie de cette carte du campus."
+  },
+  "In OpenStreetMap erfasste StadtRAD-Fahrradverleihstation.": {
+    "en": "StadtRAD bike rental station recorded in OpenStreetMap.",
+    "es": "Estación de alquiler de bicicletas StadtRAD registrada en OpenStreetMap.",
+    "fr": "Station de location de vélos StadtRAD répertoriée dans OpenStreetMap."
+  },
+  "Erfasste Toilette bei der Aral-Tankstelle im Campusumfeld. Keine verifizierten Toilettenstandorte innerhalb der Universitätsgebäude im Datensatz.": {
+    "en": "Recorded toilet at the Aral petrol station near campus. The dataset contains no verified toilet locations inside university buildings.",
+    "es": "Aseo registrado en la gasolinera Aral próxima al campus. El conjunto de datos no contiene ubicaciones verificadas de aseos dentro de los edificios universitarios.",
+    "fr": "Toilettes répertoriées à la station-service Aral près du campus. Le jeu de données ne contient aucun emplacement de toilettes vérifié à l’intérieur des bâtiments universitaires."
+  },
+  "Auslastungsverlauf": {
+    "en": "Occupancy history",
+    "es": "Historial de ocupación",
+    "fr": "Historique d'occupation"
+  },
+  "Auslastungsprognose": {
+    "en": "Occupancy forecast",
+    "es": "Previsión de ocupación",
+    "fr": "Prévision d'occupation"
+  },
+  "Typische Woche": {
+    "en": "Typical week",
+    "es": "Semana típica",
+    "fr": "Semaine typique"
+  },
+  "Visit Score · höher ist besser": {
+    "en": "Visit Score · higher is better",
+    "es": "Visit Score · mayor es mejor",
+    "fr": "Visit Score · plus c'est haut mieux c'est"
+  },
+  "niedrigste erwartete Auslastung": {
+    "en": "Lowest expected occupancy",
+    "es": "Ocupación esperada más baja",
+    "fr": "Occupation attendue la plus basse"
+  },
+  "Auslastungsprognose (nächste 2 Stunden)": {
+    "en": "Occupancy forecast (next 2 hours)",
+    "es": "Previsión de ocupación (próximas 2 horas)",
+    "fr": "Prévision d'occupation (2 prochaines heures)"
+  },
+  "Aktueller Auslastungswert, Trend, Datenalter und Sensorzustand auf einen Blick.": {
+    "en": "Current occupancy, trend, data age and sensor state at a glance.",
+    "es": "Ocupación actual, tendencia, antigüedad de datos y estado del sensor de un vistazo.",
+    "fr": "Occupation actuelle, tendance, âge des données et état du capteur en un coup d'œil."
+  },
+  "Beste Gelegenheit": {
+    "en": "Best opportunity",
+    "es": "Mejor oportunidad",
+    "fr": "Meilleure opportunité"
+  },
+  "Mehrere Vorhersagehorizonte, Unsicherheitsintervalle und eine konkrete Besuchsempfehlung.": {
+    "en": "Multiple forecast horizons, uncertainty intervals and a specific visit recommendation.",
+    "es": "Múltiples horizontes de previsión, intervalos de incertidumbre y una recomendación de visita concreta.",
+    "fr": "Plusieurs horizons de prévision, intervalles d'incertitude et recommandation de visite concrète."
+  },
+  "kein Forecast": {
+    "en": "no forecast",
+    "es": "sin previsión",
+    "fr": "pas de prévision"
+  },
+  "gegenüber vor 15 Minuten": {
+    "en": "compared to 15 mins ago",
+    "es": "en comparación con hace 15 min",
+    "fr": "par rapport à il y a 15 min"
+  },
+  "go.": {
+    "en": "go.",
+    "es": "ir.",
+    "fr": "aller."
+  },
+  "Dein Campus. In einer neuen Perspektive.": {
+    "en": "Your campus. In a new perspective.",
+    "es": "Tu campus. En una nueva perspectiva.",
+    "fr": "Votre campus. Dans une nouvelle perspective."
+  },
+  "Aktueller Stand": {
+    "en": "Current status",
+    "es": "Estado actual",
+    "fr": "État actuel"
+  },
+  "you": {
+    "en": "you",
+    "es": "tú",
+    "fr": "vous"
+  },
+  "Prognosebereich:": {
+    "en": "Forecast range:",
+    "es": "Rango de previsión:",
+    "fr": "Plage de prévision :"
+  },
+  "% Konfidenz": {
+    "en": "% confidence",
+    "es": "% confianza",
+    "fr": "% confiance"
+  },
+  "Gebäudegrundrisse und Grundkarte stammen aus OpenStreetMap über OpenFreeMap. Das Luftbild wird vom LGLN geladen. Gebäudehöhen sind je nach Quelle abgeleitet oder geschätzt; die Ansicht ersetzt keine Vermessung. Kartendaten benötigen eine Internetverbindung. Auslastung und Prognosen stehen derzeit exklusiv für die Mensa bereit.": {
+    "en": "Building outlines and basemap from OpenStreetMap via OpenFreeMap. Aerial imagery from LGLN. Building heights are derived or estimated depending on the source; the view does not replace a survey. Map data requires an internet connection. Occupancy and forecasts are currently exclusively available for the canteen.",
+    "es": "Planos de edificios y mapa base de OpenStreetMap a través de OpenFreeMap. Imagen aérea de LGLN. Las alturas de los edificios se derivan o estiman según la fuente; la vista no reemplaza una medición oficial. Los datos del mapa requieren conexión a internet. La ocupación y previsiones están disponibles actualmente en exclusiva para el comedor.",
+    "fr": "Plans des bâtiments et carte de base d'OpenStreetMap via OpenFreeMap. Image aérienne du LGLN. Les hauteurs des bâtiments sont dérivées ou estimées selon la source ; la vue ne remplace pas un arpentage. Les données cartographiques nécessitent une connexion Internet. L'occupation et les prévisions sont actuellement exclusivement disponibles pour la cantine."
+  },
+  "Smart Campus · Digital Twin": {
+    "en": "Smart Campus · Digital Twin",
+    "es": "Smart Campus · Gemelo Digital",
+    "fr": "Smart Campus · Jumeau Numérique"
+  },
+  "Änderungsrate": {
+    "en": "Rate of change",
+    "es": "Tasa de cambio",
+    "fr": "Taux de changement"
+  },
+  "Live Auslastung": {
+    "en": "Live occupancy",
+    "es": "Ocupación en vivo",
+    "fr": "Occupation en direct"
+  },
+  "Ein Live-Wert ist nur so gut wie seine Frische und Sensorqualität.": {
+    "en": "A live value is only as good as its freshness and sensor quality.",
+    "es": "Un valor en vivo es tan bueno como su frescura y la calidad del sensor.",
+    "fr": "Une valeur en direct n'est bonne que par sa fraîcheur et la qualité du capteur."
+  },
+  "Geschätzte Personen": {
+    "en": "Estimated people",
+    "es": "Personas estimadas",
+    "fr": "Personnes estimées"
+  },
+  "Typischer Zeitpunkt": {
+    "en": "Typical time",
+    "es": "Momento típico",
+    "fr": "Moment typique"
+  },
+  "Erwarteter Peak": {
+    "en": "Expected peak",
+    "es": "Pico esperado",
+    "fr": "Pic attendu"
+  },
+  "Realtime-Kanal": {
+    "en": "Realtime channel",
+    "es": "Canal en tiempo real",
+    "fr": "Canal temps réel"
+  },
+  "höchste erwartete Auslastung in den kommenden 2 Stunden": {
+    "en": "highest expected occupancy in the next 2 hours",
+    "es": "ocupación máxima esperada en las próximas 2 horas",
+    "fr": "occupation maximale attendue dans les 2 prochaines heures"
+  },
+  "Zentralcampus · Leuphana ": {
+    "en": "Central campus · Leuphana ",
+    "es": "Campus central · Leuphana ",
+    "fr": "Campus central · Leuphana "
+  },
+  "Bestes Fenster": {
+    "en": "Best window",
+    "es": "Mejor ventana",
+    "fr": "Meilleure fenêtre"
+  },
+  "In": {
+    "en": "In",
+    "es": "En",
+    "fr": "Dans"
+  },
+  "API-/Sensorlatenz": {
+    "en": "API/Sensor latency",
+    "es": "Latencia API/Sensor",
+    "fr": "Latence API/Capteur"
+  },
+  " Daten ": {
+    "en": " Data ",
+    "es": " Datos ",
+    "fr": " Données "
+  },
+  "voller als typisch": {
+    "en": "fuller than typical",
+    "es": "más lleno de lo habitual",
+    "fr": "plus rempli que d'habitude"
+  },
+  "Ausgewählt: ": {
+    "en": "Selected: ",
+    "es": "Seleccionado: ",
+    "fr": "Sélectionné : "
+  },
+  "Das Konfidenzband visualisiert die zu erwartende Abweichung basierend auf historischen Schwankungen.": {
+    "en": "The confidence band visualizes the expected deviation based on historical fluctuations.",
+    "es": "La banda de confianza visualiza la desviación esperada basándose en fluctuaciones históricas.",
+    "fr": "La bande de confiance visualise l'écart attendu en fonction des fluctuations historiques."
+  },
+  " Campuskarte wird geladen …": {
+    "en": " Loading campus map …",
+    "es": " Cargando mapa del campus …",
+    "fr": " Chargement de la carte du campus …"
+  },
+  "Campus Compass verbindet Auslastung, Zeitreihen und Prognosen zu einer klaren Entscheidung: Wann ist ein guter Zeitpunkt für die Mensa?": {
+    "en": "Campus Compass combines occupancy, time series, and forecasts into a clear decision: When is a good time for the canteen?",
+    "es": "Campus Compass combina ocupación, series temporales y previsiones en una decisión clara: ¿Cuándo es un buen momento para el comedor?",
+    "fr": "Campus Compass combine fréquentation, séries temporelles et prévisions pour une décision claire : quel est le bon moment pour la cantine ?"
+  },
+  "Noch kein Forecast verfügbar.": {
+    "en": "No forecast available yet.",
+    "es": "Aún no hay previsión disponible.",
+    "fr": "Aucune prévision disponible pour le moment."
+  },
+  "+60 Minuten": {
+    "en": "+60 minutes",
+    "es": "+60 minutos",
+    "fr": "+60 minutes"
+  },
+  "+15 Minuten": {
+    "en": "+15 minutes",
+    "es": "+15 minutos",
+    "fr": "+15 minutes"
+  },
+  "Demodaten": {
+    "en": "Demo data",
+    "es": "Datos de demostración",
+    "fr": "Données de démo"
+  },
+  "Live-Daten": {
+    "en": "Live data",
+    "es": "Datos en vivo",
+    "fr": "Données en direct"
+  },
+  "Erwartete Auslastung etwa": {
+    "en": "Expected occupancy approx.",
+    "es": "Ocupación esperada aprox.",
+    "fr": "Occupation attendue env."
+  },
+  "Entdecke den Zentralen Campus in 3D: Gebäude suchen, zwischen Karte und Luftbild wechseln und die Mensa-Auslastung im Blick behalten.": {
+    "en": "Explore the central campus in 3D: search for buildings, switch between map and aerial view, and keep an eye on canteen occupancy.",
+    "es": "Explora el Campus Central en 3D: busca edificios, cambia entre mapa y vista aérea, y controla la ocupación del comedor.",
+    "fr": "Explorez le campus central en 3D : cherchez des bâtiments, basculez entre la carte et la vue aérienne, et gardez un œil sur l'occupation de la cantine."
+  },
+  "Typische Referenzlinie wird zusammen mit dem beobachteten Live-Verlauf dargestellt.": {
+    "en": "Typical reference line is shown together with the observed live trend.",
+    "es": "La línea de referencia típica se muestra junto con la tendencia en vivo observada.",
+    "fr": "La ligne de référence typique est affichée avec la tendance en direct observée."
+  },
+  "Jetzt": {
+    "en": "Now",
+    "es": "Ahora",
+    "fr": "Maintenant"
+  },
+  "Geodaten & Auslastung": {
+    "en": "Geodata & Occupancy",
+    "es": "Geodatos y Ocupación",
+    "fr": "Données géographiques & Occupation"
+  },
+  "Jetzt ist eine": {
+    "en": "Now is a",
+    "es": "Ahora es un",
+    "fr": "Maintenant est un"
+  },
+  "ruhigster prognostizierter Zeitpunkt im Forecast-Fenster": {
+    "en": "quietest predicted time in the forecast window",
+    "es": "momento más tranquilo previsto en la ventana de previsión",
+    "fr": "moment le plus calme prévu dans la fenêtre de prévision"
+  },
+  "Aktuell geschätzt": {
+    "en": "Currently estimated",
+    "es": "Estimado actualmente",
+    "fr": "Estimé actuellement"
+  },
+  "Sensor ": {
+    "en": "Sensor ",
+    "es": "Sensor ",
+    "fr": "Capteur "
+  },
+  "Zeitpunkt": {
+    "en": "Time",
+    "es": "Momento",
+    "fr": "Moment"
+  },
+  " Orientierung": {
+    "en": " Orientation",
+    "es": " Orientación",
+    "fr": " Orientation"
+  },
+  "ruhiger als typisch": {
+    "en": "quieter than typical",
+    "es": "más tranquilo de lo habitual",
+    "fr": "plus calme que d'habitude"
+  },
+  "Know before": {
+    "en": "Know before",
+    "es": "Infórmate antes",
+    "fr": "Renseignez-vous avant"
+  },
+  "Beste Zeit:": {
+    "en": "Best time:",
+    "es": "Mejor hora:",
+    "fr": "Meilleur moment :"
+  },
+  "Offizieller Lageplan": {
+    "en": "Official campus map",
+    "es": "Mapa oficial del campus",
+    "fr": "Plan officiel du campus"
+  },
+  "Prognose in": {
+    "en": "Forecast in",
+    "es": "Previsión en",
+    "fr": "Prévision dans"
+  },
+  "Was passiert gerade?": {
+    "en": "What's happening right now?",
+    "es": "¿Qué está pasando ahora?",
+    "fr": "Que se passe-t-il en ce moment ?"
+  },
+  "Heute": {
+    "en": "Today",
+    "es": "Hoy",
+    "fr": "Aujourd'hui"
+  },
+  " Prognose ": {
+    "en": " Forecast ",
+    "es": " Previsión ",
+    "fr": " Prévision "
+  },
+  "Live-Vertrauen": {
+    "en": "Live confidence",
+    "es": "Confianza en vivo",
+    "fr": "Confiance en direct"
+  },
+  "Auslastung unbekannt": {
+    "en": "Occupancy unknown",
+    "es": "Ocupación desconocida",
+    "fr": "Occupation inconnue"
+  },
+  "Messkonfidenz": {
+    "en": "Measurement confidence",
+    "es": "Confianza de medición",
+    "fr": "Confiance de mesure"
+  },
+  " Min. · ": {
+    "en": " min · ",
+    "es": " min · ",
+    "fr": " min · "
+  },
+  "Forecast Horizon · 0–120 min": {
+    "en": "Forecast Horizon · 0–120 min",
+    "es": "Horizonte de previsión · 0–120 min",
+    "fr": "Horizon de prévision · 0–120 min"
+  },
+  "Simulierte Demodaten": {
+    "en": "Simulated demo data",
+    "es": "Datos de demostración simulados",
+    "fr": "Données de démo simulées"
+  },
+  "Die Empfehlung berücksichtigt Forecast, Unsicherheit und den aktuellen Trend.": {
+    "en": "The recommendation takes into account the forecast, uncertainty, and current trend.",
+    "es": "La recomendación tiene en cuenta la previsión, la incertidumbre y la tendencia actual.",
+    "fr": "La recommandation prend en compte les prévisions, l'incertitude et la tendance actuelle."
+  },
+  "gute Zeit": {
+    "en": "good time",
+    "es": "buen momento",
+    "fr": "bon moment"
+  },
+  "Durchschnittliche Auslastung basierend auf historischen Daten. Dunklere Felder markieren die Hauptstoßzeiten.": {
+    "en": "Average occupancy based on historical data. Darker fields mark peak times.",
+    "es": "Ocupación media basada en datos históricos. Los campos más oscuros marcan las horas punta.",
+    "fr": "Occupation moyenne basée sur des données historiques. Les champs plus sombres marquent les heures de pointe."
+  },
+  "Unbekannt": {
+    "en": "Unknown",
+    "es": "Desconocido",
+    "fr": "Inconnu"
+  },
+  "Sehr ruhig": {
+    "en": "Very quiet",
+    "es": "Muy tranquilo",
+    "fr": "Très calme"
+  },
+  "Ruhig": {
+    "en": "Quiet",
+    "es": "Tranquilo",
+    "fr": "Calme"
+  },
+  "Moderat": {
+    "en": "Moderate",
+    "es": "Moderado",
+    "fr": "Modéré"
+  },
+  "Voll": {
+    "en": "Full",
+    "es": "Lleno",
+    "fr": "Plein"
+  },
+  "Sehr voll": {
+    "en": "Very full",
+    "es": "Muy lleno",
+    "fr": "Très plein"
+  }
+}

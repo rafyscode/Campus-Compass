@@ -1,0 +1,75 @@
+.cc-twin { border-radius: 8px; height: clamp(590px, 74vh, 820px); color: #302b2e; }
+.cc-twin .brand-card { display: none; }
+.cc-twin .search-wrap { max-width: 410px; }
+.cc-twin .search-shell, .cc-twin .search-results, .cc-twin .info-panel, .cc-twin .control-stack, .cc-twin .layer-control, .cc-twin .legend, .cc-twin .map-mode-switch, .cc-twin .view-controls { background: #fffefa; backdrop-filter: none; border-radius: 7px; box-shadow: 0 3px 12px #25202512; }
+.cc-twin .search-result strong, .cc-twin .search-shell input { font-size: 14px; }
+.cc-twin .search-result small { color: #635b5e; font-size: 12px; }
+.cc-twin .search-result[aria-selected=true] { background: #f3e9ec; }
+.cc-twin .search-empty { color: #635b5e; font-size: 13px; }
+.cc-twin .control-stack button { width: 44px; height: 44px; }
+.cc-twin .map-mode-switch button, .cc-twin .view-controls button { min-height: 40px; font-size: 12px; }
+.cc-twin .map-mode-switch button.active { background: #7b0832; color: white; box-shadow: none; }
+.cc-twin .map-controls { top: 82px; }
+.cc-twin .layer-control summary { min-height: 44px; font-size: 13px; display: flex; align-items: center; }
+.cc-twin .layer-menu { font-size: 12px; gap: 12px; }
+.cc-twin .layer-menu label { min-height: 28px; }
+.cc-twin .layer-menu input { accent-color: #7b0832; }
+.cc-twin .select-row select { min-height: 36px; font-size: 12px; }
+.cc-twin .panel-close { width: 44px; height: 44px; top: 3px; right: 3px; }
+.cc-twin .info-panel p { font-size: 14px; color: #635b5e; }
+.cc-twin .twin-occupancy { border-radius: 4px; font-size: 13px; background: #f6edf0; }
+.cc-twin .twin-occupancy small { font-size: 12px; }
+.cc-twin .twin-occupancy .text-link { color: #7b0832; font-size: 13px; }
+.cc-twin .building-number { background: transparent; padding: 0; font-size: 13px; border-radius: 0; }
+.cc-twin .meta-grid, .cc-twin .building-data summary { font-size: 12px; }
+.cc-twin .building-data summary { min-height: 36px; }
+.cc-twin .room-reference { color: #60515a; background: #f4edf0; border-color: #d8cbd0; }
+.cc-twin .room-reference strong { color: #7b0832; }
+.cc-twin .cc-route-button, .cc-route-fields button { background: #7b0832; border-radius: 5px; font-size: 13px; }
+.cc-twin .cc-building-label-number { color: #343034; }
+.cc-twin .cc-building-label.is-mensa .cc-building-label-number { color: white; }
+.cc-twin .cc-building-label.is-mensa .cc-building-label-name, .cc-twin .cc-building-label-occupancy { color: #7b0832; }
+.cc-twin .cc-building-label.is-selected, .cc-twin .cc-building-label[aria-pressed="true"] { background: white; border-color: #7b0832; box-shadow: 0 0 0 2px white, 0 0 0 4px #7b0832; }
+.cc-twin .cc-building-label.is-selected .cc-building-label-number { background: #7b0832; color: white; }
+.cc-twin .cc-place-label { background: #faf9f6; border-color: #b6adaf; }
+.cc-twin .cc-place-label .cc-building-label-number { color: #61595d; }
+.cc-twin .cc-twin-map-caption { border-radius: 5px; background: #fffefa; color: #5f555b; border-color: #ded4d8; font-size: 12px; max-width: 285px; }
+.cc-twin .legend { color: #635b5e; font-size: 11px; max-width: none; }
+.cc-twin .swatch.building-food { background: #7b0832; }
+.cc-twin .line.boundary { border-color: #7b0832; }
+.cc-twin .maplibregl-canvas:focus-visible { outline: 3px solid #7b0832; outline-offset: -4px; }
+.cc-route-planner { background: transparent; border-radius: 0; border-inline: 0; padding: 24px 0; }
+.cc-route-heading span, .cc-route-planner > small { font-size: 12px; }
+.campus-measurement { display: flex; justify-content: space-between; align-items: center; gap: 22px; padding: 25px 0; border-block: 1px solid var(--border); }
+.campus-measurement h2 { font-size: 24px; margin: 10px 0 5px; }
+.campus-measurement p { font-size: 13px; margin: 0; }
+.campus-measurement-value { display: grid; gap: 5px; }
+.campus-measurement-value strong { font-size: 31px; letter-spacing: -.04em; font-weight: 600; }
+.campus-measurement-value small, .campus-measurement-value > span { font-size: 13px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0; }
+@container campus-twin (max-width: 720px) {
+ .cc-twin .map-controls { top: 70px; gap: 6px; }
+ .cc-twin .search-wrap { max-width: none; }
+ .cc-twin .search-shell input { font-size: 14px; }
+ .cc-twin .map-mode-switch { min-width: 205px; }
+ .cc-twin .mode-label-short { display: none; }
+ .cc-twin .mode-label-full { display: inline; }
+ .cc-twin .layer-menu { max-height: 165px; }
+ .cc-twin .info-panel { bottom: 75px; max-height: 43%; z-index: 12; }
+ .cc-twin .legend, .cc-twin:has(.info-panel) .legend { font-size: 10px; bottom: 30px; }
+ .cc-twin .cc-twin-map-caption { max-width: 270px; bottom: 75px; font-size: 11px; }
+ .cc-twin .cc-building-label-number { font-size: 11px; min-height: 26px; min-width: 26px; }
+ .cc-twin .cc-building-label-name { font-size: 10px; }
+ .cc-twin .cc-building-label-occupancy { font-size: 10px; }
+ .cc-twin .cc-building-label { min-height: 30px; }
+ .cc-twin .cc-building-label::after { content: ''; position: absolute; inset: -5px; }
+}
+@media (max-width: 767px) {
+ .campus-measurement { flex-wrap: wrap; }
+ .campus-measurement > div:first-child { width: 100%; }
+ .campus-page-content { padding-inline: 16px; }
+ .cc-twin { height: 620px; }
+}
+
+.cc-twin .map-canvas:not(.is-detailed) .cc-place-label { display: none !important; }
+.cc-twin .map-canvas:not(.is-detailed) .cc-building-label-name { display: none; }
+.cc-twin .map-canvas:not(.is-detailed) .is-mensa .cc-building-label-name, .cc-twin .map-canvas:not(.is-detailed) .is-landmark .cc-building-label-name { display: block; }

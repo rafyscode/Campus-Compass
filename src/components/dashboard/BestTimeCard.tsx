@@ -1,5 +1,6 @@
 import { Clock3 } from 'lucide-react';
 import type { ForecastPoint, OccupancySnapshot } from '../../types/domain';
+import { useTranslation } from '../../i18n/context';
 
 function formatTime(iso: string) {
   return new Intl.DateTimeFormat('de-DE', { hour: '2-digit', minute: '2-digit' }).format(new Date(iso));
@@ -22,16 +23,17 @@ export function computeVisitScore(current: OccupancySnapshot, forecast: Forecast
 }
 
 export function BestTimeCard({ current, forecast }: { current: OccupancySnapshot; forecast: ForecastPoint[] }) {
+  const { t } = useTranslation();
   const best = getBestWindow(forecast);
   const score = computeVisitScore(current, forecast);
   const goNow = current.percent >= 0 && current.percent < 42 && (forecast[0]?.predictedPercent ?? current.percent) >= current.percent;
   return (
     <div className="best-time-card">
       <div className="best-time-icon"><Clock3 aria-hidden="true" /></div>
-      <h3>{goNow ? <>Jetzt ist eine <span className="window">gute Zeit</span>.</> : <>Beste Zeit: <span className="window">{best ? `${formatTime(best.start)}–${formatTime(best.end)}` : '—'}</span></>}</h3>
-      <p>{best ? `Erwartete Auslastung etwa ${best.percent.toFixed(0)} %. Die Empfehlung berücksichtigt Forecast, Unsicherheit und den aktuellen Trend.` : 'Noch kein Forecast verfügbar.'}</p>
+      <h3>{goNow ? <>{t("Jetzt ist eine")} <span className="window">{t("gute Zeit")}</span>.</> : <>{t("Beste Zeit:")} <span className="window">{best ? `${formatTime(best.start)}–${formatTime(best.end)}` : '—'}</span></>}</h3>
+      <p>{best ? `{t('Erwartete Auslastung etwa')} ${best.percent.toFixed(0)} %. {t('Die Empfehlung berücksichtigt Forecast, Unsicherheit und den aktuellen Trend.')}` : t('Noch kein Forecast verfügbar.')}</p>
       <div className="score-row"><div className="score-number">{score}<small>/100</small></div><div className="score-track" aria-label={`Visit Score ${score} von 100`}><div className="score-fill" style={{ width: `${score}%` }} /></div></div>
-      <div className="metric-detail">Visit Score · höher ist besser</div>
+      <div className="metric-detail">{t("Visit Score · höher ist besser")}</div>
     </div>
   );
 }
