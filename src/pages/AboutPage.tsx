@@ -15,7 +15,7 @@ export default function AboutPage() {
     <section className="editorial-split"><div><span className="eyebrow">{t("Warum")}</span><h2>{t("Weniger Unsicherheit.")}<br />{' '}{t("Mehr Orientierung.")}</h2></div><div><p className="large-copy">{t("Wie voll wird die Mensa sein? Wo ist das nächste Gebäude? Welcher Weg führt dorthin?")}</p><p>{t("Campus Compass untersucht, wie Daten solche Alltagsfragen verständlicher machen. Reale Messungen, eine interaktive Karte und ein trainiertes Forecast-System bilden die Grundlage. Die Auslastung wird anhand eines abgeschlossenen Messzeitraums gezeigt.")}</p></div></section>
     <section><span className="eyebrow">{t("Was wir gebaut haben")}</span><div className="product-index">{products.map(([num, title, text, to]) => <Link to={to} key={title}><span>{num}</span><h2>{t(title)}</h2><p>{t(text)}</p><span aria-hidden="true">↗</span></Link>)}</div></section>
     <section className="about-process"><span className="eyebrow">{t("Wie es zusammenkommt")}</span><p>{t("Sensor ")}<span>→</span>{t(" Daten ")}<span>→</span>{t(" Prognose ")}<span>→</span>{t(" Orientierung")}</p></section>
-    <section className="team-section"><div><span className="eyebrow">{t("Projektteam")}</span><h2>{t("Drei Perspektiven.")}<br />{' '}{t("Ein Campus.")}</h2></div><ul><li>Raphael Bollmann Robles</li><li>Ozge Utku</li><li>Nick Bennet Kühl</li></ul></section>
+    <section className="team-section"><div><span className="eyebrow">{t("Projektteam")}</span><h2>{t("Drei Perspektiven.")}<br />{' '}{t("Ein Campus.")}</h2></div><ul><li>Rafael Bollmann Robles</li><li>Ozge Utku</li><li>Nick Bennet Kühl</li></ul></section>
     <EthicalReflection />
   </div>;
 }

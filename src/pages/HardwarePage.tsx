@@ -18,7 +18,7 @@ export default function HardwarePage() {
       </div>
       <div>
         <p className="large-copy">
-          {t("Campus Compass nutzt das Open-Source-Projekt Paxcounter, um die Auslastung von Räumen datenschutzkonform zu messen. Es werden keine persönlichen Daten gespeichert, sondern lediglich WLAN- und Bluetooth-Signale aggregiert gezählt.")}
+          {t("Campus Compass nutzt spezielle Sensor-Software, um die Auslastung von Räumen datenschutzkonform zu messen. Es werden keine persönlichen Daten gespeichert, sondern lediglich WLAN- und Bluetooth-Signale aggregiert gezählt.")}
         </p>
         <p>
           {t("Ein ESP32-Microcontroller agiert als Sensor und zählt die Geräte in der Umgebung. Ein Raspberry Pi dient als Host, aggregiert die Messwerte über ein Zeitfenster (z.B. 3 Minuten) und übermittelt die Durchschnittswerte sicher an unsere Supabase-Datenbank.")}
